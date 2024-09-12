@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaction Management</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">Welcome to the Transaction Management System</h1>
+        <ul class="list-group">
+            <li class="list-group-item"><a href="{{ url_for('add_transaction') }}">Add Transaction</a></li>
+            <li class="list-group-item"><a href="{{ url_for('update_transaction') }}">Update Transaction</a></li>
+            <li class="list-group-item"><a href="{{ url_for('delete_transaction') }}">Delete Transaction</a></li>
+            <li class="list-group-item"><a href="{{ url_for('view_transactions') }}">View Transactions</a></li>
+            <li class="list-group-item"><a href="{{ url_for('plot_transactions') }}">Plot Transactions</a></li>
+        </ul>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

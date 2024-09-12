@@ -1,0 +1,3960 @@
+Serial No,Date,Amount,Category,Description
+1,01-01-2021,832.1,Income,Subscriptions
+2,01-01-2021,805.94,Income,Shopping
+3,01-01-2021,308.53,Income,Internet Bill
+4,02-01-2021,101.32,Expense,Bonus
+5,02-01-2021,723.71,Expense,Internet Bill
+6,03-01-2021,83.12,Income,Bonus
+7,03-01-2021,887.69,Expense,Subscriptions
+8,03-01-2021,983.77,Income,Rent
+9,04-01-2021,997.49,Income,Salary
+10,10-1-2021,100.0,Income,Test1.1
+11,04-01-2021,92.17,Income,Utilities
+12,04-01-2021,826.06,Expense,Interest
+13,05-01-2021,734.63,Income,Rent
+14,05-01-2021,319.19,Income,Movies
+15,05-01-2021,318.99,Expense,Shopping
+16,06-01-2021,717.54,Income,Internet Bill
+17,07-01-2021,378.29,Expense,Groceries
+18,07-01-2021,782.64,Income,Rent
+19,07-01-2021,189.22,Income,Interest
+20,04-05-2021,100.0,Expense,test 1.4
+21,07-01-2021,501.55,Expense,Transport
+22,08-01-2021,384.91,Income,Movies
+23,08-01-2021,879.78,Expense,Utilities
+24,08-01-2021,876.67,Income,Movies
+25,09-01-2021,423.28,Expense,Internet Bill
+26,09-01-2021,476.87,Expense,Groceries
+27,09-01-2021,563.04,Expense,Groceries
+28,10-01-2021,676.09,Income,Transport
+29,11-01-2021,590.22,Expense,Internet Bill
+30,11-01-2021,81.47,Expense,Movies
+31,12-01-2021,507.97,Income,Bonus
+32,12-01-2021,815.94,Income,Subscriptions
+33,12-01-2021,735.53,Income,Car Maintenance
+34,12-01-2021,700.28,Expense,Salary
+35,12-01-2021,682.33,Expense,Entertainment
+36,13-01-2021,943.7,Income,Utilities
+37,13-01-2021,632.47,Expense,Groceries
+38,13-01-2021,46.69,Expense,Subscriptions
+39,13-01-2021,855.56,Income,Internet Bill
+40,13-01-2021,616.48,Income,Internet Bill
+41,14-01-2021,792.82,Expense,Coffee
+42,14-01-2021,159.34,Income,Subscriptions
+43,15-01-2021,456.16,Income,Interest
+44,15-01-2021,356.57,Income,Car Maintenance
+45,15-01-2021,267.48,Income,Bonus
+46,15-01-2021,165.17,Expense,Dining Out
+47,15-01-2021,123.78,Expense,Bonus
+48,16-01-2021,29.18,Expense,Freelance
+49,16-01-2021,418.62,Income,Movies
+50,16-01-2021,38.32,Income,Entertainment
+51,17-01-2021,602.16,Expense,Shopping
+52,18-01-2021,455.16,Income,Car Maintenance
+53,19-01-2021,746.13,Expense,Salary
+54,19-01-2021,697.71,Income,Movies
+55,19-01-2021,389.71,Expense,Freelance
+56,20-01-2021,455.61,Income,Groceries
+57,20-01-2021,635.25,Income,Utilities
+58,20-01-2021,339.62,Income,Subscriptions
+59,21-01-2021,517.95,Income,Freelance
+60,21-01-2021,137.21,Expense,Salary
+61,21-01-2021,693.88,Expense,Shopping
+62,21-01-2021,38.47,Income,Freelance
+63,21-01-2021,220.22,Expense,Salary
+64,22-01-2021,344.83,Expense,Movies
+65,23-01-2021,258.83,Income,Bonus
+66,23-01-2021,721.2,Expense,Movies
+67,23-01-2021,749.12,Income,Transport
+68,23-01-2021,150.66,Income,Internet Bill
+69,24-01-2021,990.19,Income,Salary
+70,24-01-2021,728.05,Expense,Groceries
+71,24-01-2021,360.19,Income,Internet Bill
+72,24-01-2021,838.36,Income,Bonus
+73,24-01-2021,712.23,Expense,Bonus
+74,25-01-2021,589.04,Income,Rent
+75,25-01-2021,69.79,Expense,Movies
+76,25-01-2021,688.61,Expense,Transport
+77,26-01-2021,577.61,Income,Internet Bill
+78,26-01-2021,256.47,Expense,Coffee
+79,27-01-2021,342.31,Expense,Movies
+80,27-01-2021,487.12,Expense,Rent
+81,27-01-2021,115.82,Expense,Freelance
+82,27-01-2021,964.74,Expense,Rent
+83,27-01-2021,700.55,Income,Internet Bill
+84,28-01-2021,781.24,Income,Rent
+85,28-01-2021,885.86,Expense,Shopping
+86,28-01-2021,386.77,Expense,Rent
+87,28-01-2021,14.5,Expense,Shopping
+88,29-01-2021,904.99,Income,Rent
+89,30-01-2021,433.94,Expense,Internet Bill
+90,30-01-2021,833.84,Expense,Coffee
+91,30-01-2021,948.86,Expense,Rent
+92,30-01-2021,219.75,Expense,Utilities
+93,31-01-2021,557.39,Income,Transport
+94,31-01-2021,427.57,Expense,Shopping
+95,31-01-2021,740.67,Expense,Coffee
+96,31-01-2021,140.66,Expense,Interest
+97,31-01-2021,780.79,Expense,Coffee
+98,01-02-2021,836.01,Expense,Shopping
+99,01-02-2021,349.8,Expense,Dining Out
+100,01-02-2021,590.12,Income,Car Maintenance
+101,02-02-2021,952.1,Income,Bonus
+102,02-02-2021,263.52,Expense,Transport
+103,02-02-2021,776.91,Income,Bonus
+104,02-02-2021,478.29,Income,Utilities
+105,03-02-2021,576.36,Expense,Dining Out
+106,04-02-2021,377.89,Expense,Car Maintenance
+107,04-02-2021,451.35,Income,Car Maintenance
+108,04-02-2021,375.5,Expense,Movies
+109,05-02-2021,926.46,Income,Movies
+110,05-02-2021,322.55,Expense,Rent
+111,05-02-2021,445.75,Expense,Entertainment
+112,06-02-2021,505.67,Income,Salary
+113,06-02-2021,71.9,Income,Freelance
+114,06-02-2021,827.43,Expense,Internet Bill
+115,06-02-2021,22.04,Expense,Utilities
+116,06-02-2021,988.51,Income,Coffee
+117,07-02-2021,553.02,Expense,Groceries
+118,07-02-2021,216.18,Income,Coffee
+119,07-02-2021,716.52,Expense,Transport
+120,07-02-2021,734.0,Income,Bonus
+121,08-02-2021,570.74,Income,Subscriptions
+122,08-02-2021,737.83,Expense,Utilities
+123,08-02-2021,168.42,Income,Freelance
+124,09-02-2021,954.91,Income,Shopping
+125,09-02-2021,550.83,Income,Interest
+126,09-02-2021,494.44,Expense,Freelance
+127,09-02-2021,366.09,Income,Coffee
+128,10-02-2021,137.53,Expense,Movies
+129,10-02-2021,257.41,Expense,Groceries
+130,11-02-2021,109.13,Expense,Groceries
+131,11-02-2021,540.34,Expense,Coffee
+132,11-02-2021,732.09,Income,Entertainment
+133,11-02-2021,245.47,Expense,Coffee
+134,12-02-2021,742.8,Expense,Shopping
+135,12-02-2021,606.05,Income,Rent
+136,12-02-2021,18.99,Expense,Freelance
+137,12-02-2021,703.03,Income,Interest
+138,12-02-2021,814.24,Income,Salary
+139,13-02-2021,671.76,Expense,Internet Bill
+140,13-02-2021,862.1,Income,Shopping
+141,14-02-2021,461.44,Expense,Interest
+142,14-02-2021,653.62,Income,Groceries
+143,14-02-2021,831.41,Income,Shopping
+144,15-02-2021,234.52,Income,Car Maintenance
+145,15-02-2021,790.55,Expense,Interest
+146,15-02-2021,871.2,Income,Rent
+147,16-02-2021,706.77,Expense,Subscriptions
+148,16-02-2021,752.64,Income,Internet Bill
+149,17-02-2021,409.14,Income,Interest
+150,18-02-2021,228.88,Expense,Interest
+151,18-02-2021,797.78,Income,Movies
+152,18-02-2021,478.31,Expense,Entertainment
+153,19-02-2021,838.07,Expense,Interest
+154,19-02-2021,88.4,Income,Bonus
+155,20-02-2021,883.05,Income,Rent
+156,20-02-2021,183.28,Income,Internet Bill
+157,21-02-2021,866.61,Income,Car Maintenance
+158,21-02-2021,727.09,Income,Movies
+159,22-02-2021,151.51,Expense,Dining Out
+160,22-02-2021,805.23,Expense,Coffee
+161,22-02-2021,145.17,Income,Freelance
+162,22-02-2021,952.96,Expense,Salary
+163,23-02-2021,265.09,Income,Entertainment
+164,23-02-2021,635.29,Expense,Groceries
+165,24-02-2021,208.09,Income,Coffee
+166,24-02-2021,562.89,Income,Freelance
+167,24-02-2021,335.55,Income,Dining Out
+168,24-02-2021,909.8,Income,Coffee
+169,24-02-2021,515.16,Expense,Rent
+170,25-02-2021,236.8,Expense,Groceries
+171,25-02-2021,268.76,Expense,Entertainment
+172,25-02-2021,500.92,Expense,Car Maintenance
+173,25-02-2021,484.49,Income,Subscriptions
+174,26-02-2021,353.16,Income,Coffee
+175,27-02-2021,940.91,Income,Bonus
+176,27-02-2021,731.87,Income,Freelance
+177,27-02-2021,749.07,Income,Entertainment
+178,27-02-2021,714.87,Income,Bonus
+179,28-02-2021,704.22,Expense,Subscriptions
+180,28-02-2021,951.93,Income,Movies
+181,01-03-2021,621.65,Expense,Interest
+182,01-03-2021,493.02,Income,Transport
+183,01-03-2021,37.39,Income,Salary
+184,01-03-2021,965.57,Income,Movies
+185,01-03-2021,318.26,Expense,Groceries
+186,02-03-2021,196.22,Income,Internet Bill
+187,02-03-2021,42.96,Expense,Rent
+188,02-03-2021,363.49,Expense,Salary
+189,02-03-2021,472.0,Expense,Utilities
+190,03-03-2021,93.26,Income,Transport
+191,03-03-2021,269.62,Income,Car Maintenance
+192,03-03-2021,215.72,Income,Shopping
+193,04-03-2021,421.87,Expense,Transport
+194,04-03-2021,932.12,Expense,Dining Out
+195,04-03-2021,280.04,Income,Car Maintenance
+196,04-03-2021,946.65,Expense,Utilities
+197,05-03-2021,543.07,Income,Entertainment
+198,05-03-2021,104.81,Income,Coffee
+199,05-03-2021,858.26,Expense,Shopping
+200,05-03-2021,939.78,Income,Internet Bill
+201,06-03-2021,132.94,Income,Internet Bill
+202,06-03-2021,31.06,Expense,Salary
+203,06-03-2021,307.79,Expense,Transport
+204,07-03-2021,447.76,Income,Bonus
+205,07-03-2021,563.66,Expense,Bonus
+206,07-03-2021,639.6,Expense,Rent
+207,07-03-2021,280.42,Expense,Dining Out
+208,07-03-2021,870.41,Expense,Salary
+209,08-03-2021,848.11,Expense,Rent
+210,08-03-2021,22.38,Expense,Rent
+211,09-03-2021,834.16,Income,Entertainment
+212,10-03-2021,913.66,Expense,Groceries
+213,10-03-2021,615.41,Income,Subscriptions
+214,10-03-2021,491.97,Expense,Car Maintenance
+215,10-03-2021,640.58,Income,Groceries
+216,10-03-2021,390.44,Income,Internet Bill
+217,11-03-2021,248.54,Expense,Entertainment
+218,11-03-2021,352.56,Expense,Interest
+219,11-03-2021,902.21,Income,Salary
+220,12-03-2021,503.46,Expense,Subscriptions
+221,12-03-2021,164.12,Income,Car Maintenance
+222,13-03-2021,887.46,Income,Freelance
+223,13-03-2021,65.02,Income,Transport
+224,13-03-2021,775.19,Expense,Transport
+225,13-03-2021,969.71,Expense,Salary
+226,13-03-2021,397.99,Expense,Coffee
+227,14-03-2021,99.4,Income,Interest
+228,14-03-2021,996.67,Income,Salary
+229,15-03-2021,716.19,Expense,Subscriptions
+230,16-03-2021,799.04,Income,Interest
+231,17-03-2021,244.19,Expense,Groceries
+232,17-03-2021,85.05,Income,Shopping
+233,17-03-2021,820.08,Expense,Transport
+234,18-03-2021,128.31,Expense,Bonus
+235,19-03-2021,222.37,Income,Internet Bill
+236,19-03-2021,970.46,Income,Transport
+237,20-03-2021,504.13,Income,Utilities
+238,21-03-2021,393.53,Expense,Shopping
+239,21-03-2021,781.52,Income,Subscriptions
+240,21-03-2021,178.82,Income,Movies
+241,22-03-2021,841.87,Income,Interest
+242,22-03-2021,408.88,Expense,Dining Out
+243,23-03-2021,989.03,Income,Car Maintenance
+244,23-03-2021,767.05,Income,Interest
+245,23-03-2021,469.42,Expense,Subscriptions
+246,23-03-2021,406.51,Income,Salary
+247,24-03-2021,245.71,Expense,Bonus
+248,24-03-2021,142.82,Expense,Interest
+249,25-03-2021,425.78,Expense,Transport
+250,25-03-2021,899.97,Income,Transport
+251,25-03-2021,646.01,Income,Transport
+252,25-03-2021,880.75,Income,Shopping
+253,25-03-2021,325.48,Expense,Interest
+254,26-03-2021,184.64,Expense,Rent
+255,26-03-2021,992.35,Expense,Salary
+256,26-03-2021,215.54,Expense,Bonus
+257,27-03-2021,118.51,Expense,Movies
+258,28-03-2021,337.03,Expense,Rent
+259,28-03-2021,808.6,Expense,Rent
+260,28-03-2021,458.03,Expense,Internet Bill
+261,28-03-2021,649.31,Expense,Transport
+262,28-03-2021,586.09,Expense,Utilities
+263,29-03-2021,191.08,Income,Salary
+264,29-03-2021,313.76,Expense,Bonus
+265,29-03-2021,686.68,Expense,Rent
+266,30-03-2021,382.13,Expense,Salary
+267,31-03-2021,335.05,Income,Salary
+268,31-03-2021,71.64,Expense,Internet Bill
+269,31-03-2021,925.02,Expense,Coffee
+270,31-03-2021,420.35,Income,Groceries
+271,01-04-2021,896.12,Income,Groceries
+272,02-04-2021,996.88,Expense,Movies
+273,02-04-2021,305.76,Expense,Subscriptions
+274,02-04-2021,865.2,Expense,Entertainment
+275,02-04-2021,153.39,Expense,Subscriptions
+276,02-04-2021,812.79,Income,Shopping
+277,03-04-2021,861.1,Income,Freelance
+278,03-04-2021,226.03,Expense,Movies
+279,03-04-2021,265.42,Income,Coffee
+280,04-04-2021,619.52,Expense,Dining Out
+281,05-04-2021,616.6,Income,Subscriptions
+282,06-04-2021,42.94,Income,Shopping
+283,06-04-2021,842.68,Income,Bonus
+284,06-04-2021,687.12,Expense,Groceries
+285,07-04-2021,40.74,Expense,Groceries
+286,07-04-2021,51.17,Income,Utilities
+287,07-04-2021,398.51,Income,Shopping
+288,07-04-2021,394.9,Expense,Freelance
+289,08-04-2021,116.23,Expense,Transport
+290,08-04-2021,543.48,Expense,Groceries
+291,08-04-2021,406.34,Income,Coffee
+292,08-04-2021,381.64,Income,Car Maintenance
+293,09-04-2021,325.8,Income,Utilities
+294,10-04-2021,563.73,Income,Interest
+295,10-04-2021,694.25,Income,Freelance
+296,11-04-2021,375.71,Income,Movies
+297,11-04-2021,266.52,Income,Bonus
+298,11-04-2021,117.43,Income,Movies
+299,11-04-2021,38.05,Expense,Entertainment
+300,12-04-2021,622.77,Expense,Freelance
+301,12-04-2021,548.41,Income,Rent
+302,13-04-2021,203.23,Expense,Subscriptions
+303,13-04-2021,589.98,Income,Groceries
+304,13-04-2021,372.23,Income,Entertainment
+305,13-04-2021,993.74,Expense,Utilities
+306,14-04-2021,52.9,Income,Groceries
+307,14-04-2021,402.33,Income,Movies
+308,14-04-2021,577.0,Income,Subscriptions
+309,14-04-2021,545.73,Expense,Rent
+310,15-04-2021,168.57,Income,Groceries
+311,15-04-2021,485.87,Expense,Utilities
+312,16-04-2021,898.67,Income,Coffee
+313,16-04-2021,826.66,Income,Bonus
+314,16-04-2021,275.77,Expense,Interest
+315,17-04-2021,874.35,Income,Entertainment
+316,17-04-2021,157.8,Expense,Rent
+317,18-04-2021,329.78,Income,Transport
+318,18-04-2021,930.27,Income,Rent
+319,18-04-2021,748.63,Income,Freelance
+320,18-04-2021,600.57,Expense,Shopping
+321,19-04-2021,897.53,Income,Utilities
+322,19-04-2021,280.16,Expense,Interest
+323,20-04-2021,342.63,Income,Movies
+324,21-04-2021,768.05,Expense,Bonus
+325,21-04-2021,157.88,Expense,Car Maintenance
+326,21-04-2021,602.7,Income,Utilities
+327,21-04-2021,493.26,Income,Utilities
+328,22-04-2021,594.93,Income,Shopping
+329,22-04-2021,646.75,Expense,Entertainment
+330,22-04-2021,622.72,Income,Rent
+331,23-04-2021,861.47,Income,Interest
+332,23-04-2021,392.54,Income,Interest
+333,23-04-2021,949.62,Expense,Rent
+334,23-04-2021,936.73,Expense,Coffee
+335,23-04-2021,269.07,Income,Coffee
+336,24-04-2021,540.01,Income,Internet Bill
+337,24-04-2021,966.97,Expense,Coffee
+338,25-04-2021,144.13,Expense,Internet Bill
+339,26-04-2021,773.33,Income,Bonus
+340,26-04-2021,47.24,Expense,Shopping
+341,27-04-2021,93.18,Income,Internet Bill
+342,27-04-2021,178.2,Income,Groceries
+343,27-04-2021,138.28,Expense,Transport
+344,27-04-2021,930.8,Expense,Subscriptions
+345,28-04-2021,894.87,Expense,Bonus
+346,28-04-2021,46.59,Income,Car Maintenance
+347,29-04-2021,810.47,Expense,Car Maintenance
+348,29-04-2021,81.28,Income,Entertainment
+349,30-04-2021,288.36,Income,Shopping
+350,30-04-2021,255.44,Expense,Rent
+351,30-04-2021,692.3,Expense,Coffee
+352,30-04-2021,586.5,Expense,Salary
+353,30-04-2021,470.14,Expense,Salary
+354,01-05-2021,827.24,Income,Rent
+355,01-05-2021,10.48,Expense,Car Maintenance
+356,01-05-2021,458.67,Expense,Movies
+357,01-05-2021,813.16,Income,Coffee
+358,02-05-2021,600.8,Expense,Dining Out
+359,02-05-2021,437.54,Expense,Internet Bill
+360,02-05-2021,701.42,Income,Dining Out
+361,03-05-2021,551.03,Expense,Car Maintenance
+362,03-05-2021,454.02,Income,Dining Out
+363,04-05-2021,874.57,Income,Rent
+364,04-05-2021,63.78,Expense,Internet Bill
+365,05-05-2021,641.02,Income,Dining Out
+366,05-05-2021,409.97,Income,Groceries
+367,06-05-2021,970.1,Expense,Dining Out
+368,06-05-2021,328.48,Expense,Coffee
+369,06-05-2021,256.2,Expense,Transport
+370,06-05-2021,431.44,Income,Shopping
+371,06-05-2021,879.67,Income,Rent
+372,07-05-2021,930.71,Income,Transport
+373,07-05-2021,488.22,Expense,Car Maintenance
+374,08-05-2021,582.88,Expense,Shopping
+375,08-05-2021,912.66,Expense,Entertainment
+376,08-05-2021,788.86,Expense,Coffee
+377,08-05-2021,165.41,Income,Bonus
+378,09-05-2021,966.68,Expense,Entertainment
+379,10-05-2021,130.46,Expense,Movies
+380,10-05-2021,774.48,Expense,Car Maintenance
+381,10-05-2021,517.63,Expense,Utilities
+382,10-05-2021,658.33,Expense,Transport
+383,10-05-2021,744.9,Income,Utilities
+384,11-05-2021,694.97,Expense,Entertainment
+385,11-05-2021,223.76,Expense,Subscriptions
+386,11-05-2021,948.21,Expense,Bonus
+387,11-05-2021,913.23,Income,Internet Bill
+388,11-05-2021,224.04,Expense,Entertainment
+389,12-05-2021,554.53,Expense,Movies
+390,12-05-2021,657.27,Expense,Interest
+391,12-05-2021,777.24,Income,Internet Bill
+392,12-05-2021,391.31,Income,Transport
+393,12-05-2021,633.56,Expense,Rent
+394,13-05-2021,668.28,Income,Rent
+395,13-05-2021,275.99,Expense,Groceries
+396,14-05-2021,613.35,Income,Internet Bill
+397,15-05-2021,85.68,Income,Dining Out
+398,15-05-2021,783.99,Expense,Utilities
+399,15-05-2021,604.26,Income,Dining Out
+400,16-05-2021,297.17,Expense,Transport
+401,17-05-2021,897.93,Expense,Movies
+402,17-05-2021,760.81,Expense,Interest
+403,17-05-2021,261.07,Income,Interest
+404,18-05-2021,161.11,Expense,Salary
+405,18-05-2021,266.37,Income,Bonus
+406,18-05-2021,608.52,Expense,Salary
+407,18-05-2021,802.15,Income,Car Maintenance
+408,19-05-2021,897.99,Income,Transport
+409,19-05-2021,467.3,Income,Shopping
+410,20-05-2021,708.02,Expense,Transport
+411,21-05-2021,840.18,Expense,Bonus
+412,21-05-2021,208.1,Income,Car Maintenance
+413,21-05-2021,724.82,Income,Bonus
+414,21-05-2021,621.97,Income,Utilities
+415,21-05-2021,554.53,Income,Transport
+416,22-05-2021,787.84,Expense,Movies
+417,22-05-2021,358.43,Income,Subscriptions
+418,22-05-2021,711.25,Income,Salary
+419,22-05-2021,638.31,Income,Salary
+420,23-05-2021,231.99,Expense,Entertainment
+421,23-05-2021,750.67,Income,Bonus
+422,23-05-2021,717.2,Expense,Coffee
+423,23-05-2021,188.85,Expense,Transport
+424,24-05-2021,587.42,Income,Freelance
+425,24-05-2021,436.71,Expense,Interest
+426,24-05-2021,67.48,Expense,Car Maintenance
+427,24-05-2021,378.44,Income,Utilities
+428,24-05-2021,925.13,Expense,Interest
+429,25-05-2021,330.85,Expense,Rent
+430,25-05-2021,447.53,Expense,Car Maintenance
+431,26-05-2021,246.01,Expense,Subscriptions
+432,26-05-2021,921.33,Expense,Groceries
+433,26-05-2021,859.13,Expense,Bonus
+434,26-05-2021,997.47,Income,Shopping
+435,26-05-2021,838.16,Expense,Salary
+436,27-05-2021,267.14,Expense,Dining Out
+437,27-05-2021,163.39,Income,Shopping
+438,27-05-2021,389.32,Expense,Movies
+439,27-05-2021,223.51,Income,Subscriptions
+440,27-05-2021,407.33,Income,Interest
+441,28-05-2021,364.98,Expense,Groceries
+442,28-05-2021,119.22,Expense,Groceries
+443,28-05-2021,395.8,Expense,Bonus
+444,28-05-2021,830.65,Expense,Interest
+445,29-05-2021,961.5,Income,Interest
+446,29-05-2021,833.39,Income,Movies
+447,29-05-2021,10.11,Income,Shopping
+448,29-05-2021,794.07,Income,Dining Out
+449,29-05-2021,819.09,Income,Shopping
+450,30-05-2021,665.03,Expense,Utilities
+451,30-05-2021,43.26,Income,Groceries
+452,31-05-2021,266.96,Income,Interest
+453,31-05-2021,461.03,Income,Interest
+454,31-05-2021,468.18,Expense,Utilities
+455,31-05-2021,660.23,Income,Transport
+456,31-05-2021,333.13,Income,Transport
+457,01-06-2021,759.76,Expense,Movies
+458,01-06-2021,298.71,Income,Interest
+459,01-06-2021,541.83,Income,Entertainment
+460,01-06-2021,633.49,Income,Coffee
+461,02-06-2021,789.77,Expense,Car Maintenance
+462,03-06-2021,794.93,Expense,Rent
+463,03-06-2021,119.88,Expense,Movies
+464,03-06-2021,742.95,Income,Groceries
+465,03-06-2021,231.24,Expense,Entertainment
+466,04-06-2021,29.39,Income,Internet Bill
+467,04-06-2021,68.32,Expense,Utilities
+468,04-06-2021,950.5,Income,Movies
+469,04-06-2021,96.79,Income,Dining Out
+470,05-06-2021,455.14,Income,Car Maintenance
+471,06-06-2021,671.78,Income,Rent
+472,06-06-2021,919.66,Expense,Entertainment
+473,06-06-2021,98.72,Expense,Rent
+474,06-06-2021,509.29,Income,Internet Bill
+475,06-06-2021,463.04,Income,Internet Bill
+476,07-06-2021,552.72,Income,Interest
+477,07-06-2021,179.56,Expense,Subscriptions
+478,08-06-2021,669.3,Income,Utilities
+479,08-06-2021,882.06,Expense,Shopping
+480,08-06-2021,554.44,Income,Entertainment
+481,09-06-2021,932.81,Expense,Salary
+482,09-06-2021,640.98,Income,Internet Bill
+483,10-06-2021,375.52,Income,Movies
+484,10-06-2021,114.23,Income,Groceries
+485,11-06-2021,24.39,Expense,Subscriptions
+486,11-06-2021,409.64,Income,Salary
+487,12-06-2021,789.79,Income,Internet Bill
+488,12-06-2021,124.35,Income,Coffee
+489,12-06-2021,695.48,Income,Coffee
+490,12-06-2021,538.35,Expense,Entertainment
+491,13-06-2021,764.65,Expense,Interest
+492,13-06-2021,655.48,Expense,Car Maintenance
+493,13-06-2021,271.62,Income,Subscriptions
+494,13-06-2021,225.04,Income,Shopping
+495,14-06-2021,616.25,Income,Internet Bill
+496,14-06-2021,517.54,Income,Shopping
+497,15-06-2021,785.6,Income,Car Maintenance
+498,16-06-2021,673.58,Expense,Groceries
+499,16-06-2021,888.16,Expense,Car Maintenance
+500,16-06-2021,93.62,Expense,Subscriptions
+501,17-06-2021,931.44,Income,Entertainment
+502,18-06-2021,647.01,Income,Transport
+503,18-06-2021,811.58,Income,Utilities
+504,18-06-2021,63.08,Income,Dining Out
+505,18-06-2021,116.56,Expense,Entertainment
+506,18-06-2021,349.56,Income,Rent
+507,19-06-2021,887.91,Income,Internet Bill
+508,20-06-2021,942.15,Income,Transport
+509,21-06-2021,809.44,Expense,Entertainment
+510,21-06-2021,990.61,Expense,Car Maintenance
+511,21-06-2021,143.61,Income,Rent
+512,22-06-2021,439.83,Income,Groceries
+513,22-06-2021,26.11,Expense,Subscriptions
+514,22-06-2021,597.11,Expense,Freelance
+515,23-06-2021,987.07,Income,Movies
+516,23-06-2021,952.9,Expense,Subscriptions
+517,23-06-2021,58.12,Expense,Bonus
+518,24-06-2021,469.55,Expense,Movies
+519,24-06-2021,831.52,Income,Groceries
+520,25-06-2021,672.1,Income,Rent
+521,25-06-2021,840.36,Expense,Coffee
+522,26-06-2021,15.86,Expense,Transport
+523,26-06-2021,981.85,Income,Subscriptions
+524,26-06-2021,145.67,Income,Shopping
+525,26-06-2021,504.57,Income,Groceries
+526,27-06-2021,520.45,Expense,Internet Bill
+527,28-06-2021,475.4,Expense,Bonus
+528,28-06-2021,760.62,Income,Utilities
+529,28-06-2021,680.95,Income,Groceries
+530,28-06-2021,796.56,Expense,Car Maintenance
+531,29-06-2021,504.75,Expense,Interest
+532,29-06-2021,470.89,Income,Entertainment
+533,30-06-2021,319.47,Income,Interest
+534,30-06-2021,155.74,Income,Transport
+535,30-06-2021,956.0,Expense,Transport
+536,30-06-2021,817.11,Income,Internet Bill
+537,01-07-2021,131.87,Income,Salary
+538,02-07-2021,808.22,Expense,Salary
+539,02-07-2021,48.76,Income,Coffee
+540,02-07-2021,695.79,Expense,Interest
+541,03-07-2021,665.64,Income,Bonus
+542,03-07-2021,82.1,Income,Freelance
+543,03-07-2021,669.14,Income,Freelance
+544,04-07-2021,503.86,Expense,Utilities
+545,05-07-2021,328.76,Income,Transport
+546,05-07-2021,187.62,Income,Transport
+547,05-07-2021,760.99,Expense,Bonus
+548,06-07-2021,433.76,Expense,Bonus
+549,06-07-2021,367.91,Income,Entertainment
+550,07-07-2021,564.63,Expense,Subscriptions
+551,07-07-2021,409.79,Expense,Entertainment
+552,08-07-2021,169.18,Expense,Transport
+553,08-07-2021,856.83,Expense,Interest
+554,08-07-2021,584.26,Expense,Movies
+555,09-07-2021,411.64,Income,Subscriptions
+556,09-07-2021,99.08,Expense,Entertainment
+557,09-07-2021,229.2,Income,Car Maintenance
+558,09-07-2021,376.06,Expense,Bonus
+559,10-07-2021,951.36,Income,Salary
+560,10-07-2021,18.8,Income,Rent
+561,10-07-2021,395.32,Income,Groceries
+562,11-07-2021,684.54,Expense,Dining Out
+563,11-07-2021,294.48,Expense,Freelance
+564,11-07-2021,250.67,Income,Interest
+565,12-07-2021,973.03,Expense,Salary
+566,12-07-2021,187.05,Income,Dining Out
+567,13-07-2021,434.41,Expense,Dining Out
+568,13-07-2021,592.1,Expense,Salary
+569,13-07-2021,139.54,Expense,Internet Bill
+570,14-07-2021,846.19,Expense,Shopping
+571,14-07-2021,615.66,Expense,Groceries
+572,14-07-2021,318.09,Income,Coffee
+573,14-07-2021,225.68,Expense,Car Maintenance
+574,15-07-2021,317.05,Income,Subscriptions
+575,15-07-2021,108.64,Income,Dining Out
+576,15-07-2021,211.45,Income,Utilities
+577,16-07-2021,328.4,Income,Groceries
+578,16-07-2021,504.0,Income,Car Maintenance
+579,17-07-2021,220.2,Income,Rent
+580,17-07-2021,139.2,Income,Interest
+581,18-07-2021,883.4,Expense,Movies
+582,19-07-2021,598.44,Expense,Car Maintenance
+583,20-07-2021,738.48,Expense,Subscriptions
+584,20-07-2021,717.53,Expense,Transport
+585,20-07-2021,848.41,Income,Freelance
+586,20-07-2021,53.86,Expense,Coffee
+587,20-07-2021,330.89,Income,Shopping
+588,21-07-2021,846.87,Income,Groceries
+589,21-07-2021,890.81,Income,Car Maintenance
+590,21-07-2021,329.16,Expense,Bonus
+591,21-07-2021,478.26,Income,Car Maintenance
+592,22-07-2021,95.74,Income,Groceries
+593,22-07-2021,637.72,Expense,Entertainment
+594,22-07-2021,256.11,Income,Car Maintenance
+595,22-07-2021,585.48,Income,Rent
+596,23-07-2021,878.17,Expense,Freelance
+597,23-07-2021,206.86,Income,Dining Out
+598,23-07-2021,398.0,Expense,Coffee
+599,23-07-2021,595.36,Income,Car Maintenance
+600,24-07-2021,464.11,Expense,Car Maintenance
+601,24-07-2021,909.06,Expense,Movies
+602,24-07-2021,365.69,Income,Dining Out
+603,24-07-2021,328.33,Expense,Movies
+604,25-07-2021,214.86,Expense,Dining Out
+605,25-07-2021,768.65,Expense,Car Maintenance
+606,25-07-2021,68.22,Expense,Coffee
+607,26-07-2021,547.71,Expense,Movies
+608,26-07-2021,700.95,Expense,Transport
+609,26-07-2021,458.38,Expense,Shopping
+610,26-07-2021,360.02,Income,Internet Bill
+611,27-07-2021,918.48,Income,Coffee
+612,27-07-2021,766.95,Expense,Entertainment
+613,28-07-2021,185.73,Expense,Dining Out
+614,28-07-2021,643.96,Income,Freelance
+615,29-07-2021,282.73,Income,Shopping
+616,29-07-2021,840.09,Income,Rent
+617,29-07-2021,104.5,Income,Car Maintenance
+618,29-07-2021,703.6,Income,Rent
+619,30-07-2021,278.98,Income,Transport
+620,30-07-2021,14.69,Expense,Salary
+621,30-07-2021,116.18,Expense,Interest
+622,30-07-2021,622.96,Expense,Groceries
+623,31-07-2021,774.72,Expense,Subscriptions
+624,31-07-2021,715.49,Expense,Freelance
+625,31-07-2021,198.05,Expense,Salary
+626,01-08-2021,938.89,Income,Rent
+627,01-08-2021,149.14,Expense,Subscriptions
+628,01-08-2021,750.31,Expense,Coffee
+629,01-08-2021,163.58,Income,Rent
+630,02-08-2021,994.36,Income,Groceries
+631,02-08-2021,93.2,Income,Groceries
+632,02-08-2021,39.29,Income,Movies
+633,02-08-2021,746.81,Expense,Bonus
+634,02-08-2021,642.58,Expense,Subscriptions
+635,03-08-2021,848.72,Expense,Car Maintenance
+636,03-08-2021,983.06,Expense,Rent
+637,03-08-2021,227.43,Income,Car Maintenance
+638,03-08-2021,556.24,Income,Dining Out
+639,04-08-2021,549.99,Income,Groceries
+640,04-08-2021,515.13,Income,Rent
+641,04-08-2021,258.87,Expense,Dining Out
+642,05-08-2021,566.12,Expense,Subscriptions
+643,05-08-2021,868.39,Income,Dining Out
+644,05-08-2021,816.78,Income,Freelance
+645,05-08-2021,731.57,Expense,Groceries
+646,05-08-2021,389.85,Income,Car Maintenance
+647,06-08-2021,849.34,Expense,Subscriptions
+648,07-08-2021,694.3,Expense,Dining Out
+649,07-08-2021,824.81,Income,Subscriptions
+650,07-08-2021,178.52,Expense,Bonus
+651,08-08-2021,673.54,Income,Entertainment
+652,08-08-2021,156.45,Income,Car Maintenance
+653,09-08-2021,943.51,Income,Groceries
+654,10-08-2021,810.1,Income,Transport
+655,10-08-2021,223.79,Expense,Groceries
+656,10-08-2021,846.96,Income,Subscriptions
+657,10-08-2021,831.12,Income,Coffee
+658,10-08-2021,943.91,Income,Entertainment
+659,11-08-2021,724.28,Expense,Car Maintenance
+660,11-08-2021,698.57,Income,Entertainment
+661,11-08-2021,411.02,Expense,Salary
+662,11-08-2021,226.0,Income,Dining Out
+663,12-08-2021,645.75,Income,Movies
+664,12-08-2021,463.4,Expense,Dining Out
+665,12-08-2021,550.55,Income,Coffee
+666,12-08-2021,378.25,Income,Freelance
+667,13-08-2021,731.36,Income,Movies
+668,13-08-2021,978.31,Income,Movies
+669,14-08-2021,282.39,Expense,Subscriptions
+670,14-08-2021,202.54,Income,Movies
+671,14-08-2021,583.93,Expense,Interest
+672,14-08-2021,623.56,Income,Subscriptions
+673,14-08-2021,255.05,Expense,Freelance
+674,15-08-2021,46.29,Income,Groceries
+675,15-08-2021,684.05,Expense,Groceries
+676,16-08-2021,421.73,Expense,Entertainment
+677,16-08-2021,96.15,Income,Dining Out
+678,17-08-2021,490.11,Expense,Groceries
+679,17-08-2021,657.84,Expense,Bonus
+680,17-08-2021,458.53,Expense,Rent
+681,17-08-2021,869.84,Expense,Subscriptions
+682,18-08-2021,772.87,Income,Rent
+683,18-08-2021,734.89,Income,Utilities
+684,19-08-2021,702.16,Income,Transport
+685,19-08-2021,347.05,Expense,Subscriptions
+686,20-08-2021,322.73,Income,Interest
+687,20-08-2021,166.78,Income,Subscriptions
+688,20-08-2021,783.21,Income,Movies
+689,20-08-2021,384.48,Expense,Entertainment
+690,20-08-2021,437.47,Income,Rent
+691,21-08-2021,641.58,Expense,Internet Bill
+692,21-08-2021,154.5,Income,Entertainment
+693,21-08-2021,620.91,Expense,Car Maintenance
+694,21-08-2021,316.94,Expense,Utilities
+695,21-08-2021,239.76,Expense,Shopping
+696,22-08-2021,904.22,Expense,Shopping
+697,22-08-2021,986.68,Income,Bonus
+698,22-08-2021,164.82,Income,Dining Out
+699,22-08-2021,619.34,Income,Interest
+700,22-08-2021,322.98,Income,Freelance
+701,23-08-2021,714.3,Expense,Freelance
+702,23-08-2021,346.71,Income,Interest
+703,24-08-2021,237.57,Expense,Utilities
+704,25-08-2021,602.97,Expense,Entertainment
+705,25-08-2021,811.94,Income,Internet Bill
+706,26-08-2021,199.71,Income,Freelance
+707,26-08-2021,920.22,Income,Utilities
+708,26-08-2021,255.57,Income,Groceries
+709,26-08-2021,305.37,Income,Freelance
+710,26-08-2021,659.47,Income,Dining Out
+711,27-08-2021,574.5,Expense,Groceries
+712,28-08-2021,768.85,Income,Transport
+713,29-08-2021,798.57,Income,Car Maintenance
+714,29-08-2021,43.59,Income,Coffee
+715,29-08-2021,456.85,Expense,Salary
+716,30-08-2021,403.58,Income,Entertainment
+717,30-08-2021,510.19,Income,Rent
+718,30-08-2021,399.28,Expense,Coffee
+719,31-08-2021,109.47,Expense,Movies
+720,31-08-2021,303.12,Expense,Car Maintenance
+721,31-08-2021,471.07,Income,Car Maintenance
+722,31-08-2021,76.09,Income,Interest
+723,31-08-2021,921.31,Income,Groceries
+724,01-09-2021,500.45,Expense,Shopping
+725,01-09-2021,457.39,Expense,Car Maintenance
+726,01-09-2021,473.39,Expense,Subscriptions
+727,01-09-2021,896.41,Income,Subscriptions
+728,01-09-2021,489.42,Expense,Utilities
+729,02-09-2021,194.83,Income,Utilities
+730,03-09-2021,478.24,Expense,Utilities
+731,03-09-2021,243.75,Income,Dining Out
+732,04-09-2021,661.23,Income,Entertainment
+733,04-09-2021,642.69,Income,Bonus
+734,04-09-2021,484.04,Expense,Utilities
+735,05-09-2021,622.29,Income,Coffee
+736,05-09-2021,776.81,Income,Rent
+737,05-09-2021,720.05,Income,Entertainment
+738,05-09-2021,740.79,Income,Dining Out
+739,06-09-2021,25.33,Income,Shopping
+740,06-09-2021,954.27,Expense,Transport
+741,06-09-2021,572.29,Expense,Salary
+742,06-09-2021,617.79,Expense,Shopping
+743,06-09-2021,29.43,Expense,Salary
+744,07-09-2021,490.0,Income,Shopping
+745,07-09-2021,220.81,Expense,Movies
+746,07-09-2021,172.81,Income,Coffee
+747,07-09-2021,750.33,Income,Entertainment
+748,08-09-2021,861.48,Expense,Transport
+749,08-09-2021,36.56,Expense,Rent
+750,09-09-2021,901.81,Income,Rent
+751,09-09-2021,638.3,Income,Entertainment
+752,09-09-2021,978.57,Expense,Coffee
+753,09-09-2021,254.32,Income,Salary
+754,09-09-2021,72.81,Expense,Salary
+755,10-09-2021,507.13,Income,Shopping
+756,10-09-2021,312.53,Income,Subscriptions
+757,10-09-2021,772.93,Expense,Groceries
+758,10-09-2021,634.0,Income,Interest
+759,10-09-2021,160.34,Expense,Movies
+760,11-09-2021,824.76,Expense,Shopping
+761,11-09-2021,903.79,Expense,Dining Out
+762,11-09-2021,470.06,Expense,Car Maintenance
+763,12-09-2021,706.16,Income,Shopping
+764,12-09-2021,158.98,Income,Shopping
+765,12-09-2021,917.37,Expense,Freelance
+766,12-09-2021,205.59,Expense,Interest
+767,12-09-2021,265.36,Expense,Movies
+768,13-09-2021,715.03,Income,Transport
+769,13-09-2021,532.79,Expense,Transport
+770,13-09-2021,537.11,Expense,Shopping
+771,13-09-2021,985.5,Expense,Interest
+772,14-09-2021,794.31,Expense,Salary
+773,14-09-2021,172.98,Income,Entertainment
+774,14-09-2021,276.74,Expense,Interest
+775,14-09-2021,796.49,Expense,Shopping
+776,14-09-2021,994.06,Income,Entertainment
+777,15-09-2021,263.98,Income,Dining Out
+778,16-09-2021,439.67,Income,Utilities
+779,16-09-2021,557.48,Income,Salary
+780,16-09-2021,108.52,Expense,Shopping
+781,17-09-2021,826.08,Expense,Bonus
+782,18-09-2021,478.87,Expense,Freelance
+783,18-09-2021,192.55,Expense,Freelance
+784,18-09-2021,585.76,Income,Bonus
+785,18-09-2021,219.81,Income,Shopping
+786,19-09-2021,640.38,Income,Shopping
+787,19-09-2021,881.05,Expense,Freelance
+788,19-09-2021,899.9,Income,Coffee
+789,19-09-2021,537.09,Income,Car Maintenance
+790,20-09-2021,171.84,Expense,Rent
+791,20-09-2021,520.36,Expense,Rent
+792,20-09-2021,751.13,Expense,Transport
+793,20-09-2021,710.08,Expense,Car Maintenance
+794,21-09-2021,190.79,Income,Dining Out
+795,21-09-2021,578.83,Income,Freelance
+796,21-09-2021,403.69,Income,Salary
+797,22-09-2021,195.32,Expense,Entertainment
+798,22-09-2021,127.65,Income,Rent
+799,22-09-2021,556.91,Expense,Car Maintenance
+800,23-09-2021,578.16,Expense,Interest
+801,23-09-2021,516.48,Expense,Salary
+802,23-09-2021,582.19,Income,Salary
+803,23-09-2021,340.14,Income,Internet Bill
+804,24-09-2021,337.08,Income,Rent
+805,25-09-2021,206.61,Expense,Transport
+806,25-09-2021,694.82,Income,Bonus
+807,25-09-2021,102.89,Expense,Dining Out
+808,25-09-2021,970.69,Income,Internet Bill
+809,26-09-2021,106.31,Expense,Car Maintenance
+810,26-09-2021,339.08,Expense,Groceries
+811,26-09-2021,70.85,Income,Salary
+812,26-09-2021,439.65,Expense,Subscriptions
+813,26-09-2021,561.02,Income,Salary
+814,27-09-2021,299.04,Income,Interest
+815,28-09-2021,145.6,Expense,Car Maintenance
+816,28-09-2021,474.21,Expense,Freelance
+817,29-09-2021,231.67,Income,Subscriptions
+818,30-09-2021,395.68,Expense,Groceries
+819,30-09-2021,952.87,Expense,Coffee
+820,01-10-2021,790.44,Income,Bonus
+821,01-10-2021,967.0,Expense,Coffee
+822,01-10-2021,466.89,Expense,Groceries
+823,01-10-2021,910.47,Expense,Groceries
+824,01-10-2021,210.13,Expense,Car Maintenance
+825,02-10-2021,751.76,Income,Movies
+826,02-10-2021,46.98,Income,Freelance
+827,03-10-2021,442.13,Income,Movies
+828,03-10-2021,436.79,Income,Groceries
+829,03-10-2021,930.5,Income,Rent
+830,03-10-2021,269.41,Income,Groceries
+831,04-10-2021,732.41,Income,Shopping
+832,05-10-2021,135.26,Expense,Transport
+833,05-10-2021,360.29,Income,Movies
+834,06-10-2021,320.37,Income,Dining Out
+835,06-10-2021,377.77,Expense,Internet Bill
+836,07-10-2021,685.89,Income,Bonus
+837,07-10-2021,260.04,Income,Dining Out
+838,07-10-2021,281.15,Income,Transport
+839,07-10-2021,280.54,Expense,Freelance
+840,08-10-2021,788.11,Income,Interest
+841,08-10-2021,28.09,Expense,Freelance
+842,08-10-2021,537.57,Income,Utilities
+843,08-10-2021,795.9,Income,Freelance
+844,08-10-2021,74.85,Income,Movies
+845,09-10-2021,497.93,Expense,Utilities
+846,09-10-2021,129.7,Income,Bonus
+847,09-10-2021,259.88,Income,Rent
+848,09-10-2021,884.95,Expense,Coffee
+849,10-10-2021,675.73,Income,Coffee
+850,10-10-2021,670.11,Expense,Salary
+851,10-10-2021,410.44,Expense,Interest
+852,10-10-2021,950.56,Expense,Salary
+853,11-10-2021,921.95,Income,Utilities
+854,11-10-2021,478.78,Income,Utilities
+855,11-10-2021,503.72,Income,Groceries
+856,11-10-2021,809.16,Expense,Entertainment
+857,11-10-2021,989.23,Expense,Interest
+858,12-10-2021,31.13,Income,Freelance
+859,13-10-2021,322.49,Income,Bonus
+860,14-10-2021,188.45,Income,Movies
+861,14-10-2021,912.23,Expense,Salary
+862,14-10-2021,207.6,Income,Interest
+863,15-10-2021,682.4,Expense,Interest
+864,15-10-2021,76.39,Income,Salary
+865,15-10-2021,620.33,Income,Shopping
+866,15-10-2021,17.61,Income,Transport
+867,16-10-2021,640.21,Expense,Groceries
+868,17-10-2021,550.1,Expense,Car Maintenance
+869,17-10-2021,357.45,Expense,Car Maintenance
+870,17-10-2021,425.71,Income,Dining Out
+871,17-10-2021,958.88,Expense,Freelance
+872,18-10-2021,214.14,Income,Groceries
+873,19-10-2021,620.55,Expense,Internet Bill
+874,19-10-2021,913.21,Expense,Freelance
+875,19-10-2021,354.26,Expense,Coffee
+876,19-10-2021,502.96,Expense,Shopping
+877,20-10-2021,560.8,Income,Movies
+878,20-10-2021,561.37,Income,Rent
+879,21-10-2021,505.27,Income,Transport
+880,21-10-2021,242.8,Income,Entertainment
+881,21-10-2021,102.93,Expense,Shopping
+882,22-10-2021,465.62,Expense,Car Maintenance
+883,22-10-2021,112.63,Expense,Groceries
+884,23-10-2021,287.16,Expense,Car Maintenance
+885,23-10-2021,781.76,Expense,Coffee
+886,23-10-2021,698.27,Income,Salary
+887,23-10-2021,63.23,Expense,Internet Bill
+888,24-10-2021,661.44,Income,Rent
+889,24-10-2021,25.45,Income,Subscriptions
+890,25-10-2021,235.2,Income,Salary
+891,25-10-2021,734.68,Expense,Salary
+892,25-10-2021,373.62,Income,Car Maintenance
+893,25-10-2021,349.13,Expense,Bonus
+894,26-10-2021,547.79,Income,Rent
+895,27-10-2021,291.37,Expense,Rent
+896,28-10-2021,168.19,Income,Transport
+897,28-10-2021,175.94,Expense,Coffee
+898,28-10-2021,52.73,Income,Internet Bill
+899,29-10-2021,340.1,Expense,Movies
+900,29-10-2021,464.32,Expense,Entertainment
+901,29-10-2021,243.29,Expense,Freelance
+902,29-10-2021,454.38,Expense,Freelance
+903,30-10-2021,768.2,Income,Groceries
+904,30-10-2021,136.44,Expense,Entertainment
+905,30-10-2021,278.91,Expense,Bonus
+906,30-10-2021,234.6,Expense,Car Maintenance
+907,31-10-2021,665.0,Income,Groceries
+908,31-10-2021,31.44,Income,Subscriptions
+909,01-11-2021,45.92,Expense,Transport
+910,01-11-2021,862.62,Income,Utilities
+911,01-11-2021,97.02,Income,Car Maintenance
+912,01-11-2021,773.42,Income,Movies
+913,01-11-2021,674.16,Income,Transport
+914,02-11-2021,821.06,Income,Coffee
+915,02-11-2021,786.13,Income,Interest
+916,03-11-2021,232.02,Expense,Entertainment
+917,03-11-2021,680.83,Income,Subscriptions
+918,03-11-2021,450.68,Expense,Salary
+919,04-11-2021,104.49,Income,Bonus
+920,05-11-2021,132.95,Expense,Entertainment
+921,05-11-2021,612.08,Expense,Movies
+922,05-11-2021,591.53,Expense,Salary
+923,05-11-2021,893.9,Income,Dining Out
+924,06-11-2021,611.49,Income,Interest
+925,06-11-2021,927.79,Expense,Salary
+926,07-11-2021,769.84,Income,Subscriptions
+927,07-11-2021,614.09,Expense,Utilities
+928,08-11-2021,495.97,Expense,Coffee
+929,08-11-2021,262.35,Income,Utilities
+930,08-11-2021,307.31,Income,Entertainment
+931,09-11-2021,414.38,Expense,Car Maintenance
+932,09-11-2021,363.86,Expense,Entertainment
+933,09-11-2021,74.06,Income,Dining Out
+934,10-11-2021,576.09,Income,Movies
+935,10-11-2021,371.33,Income,Groceries
+936,11-11-2021,59.29,Expense,Salary
+937,11-11-2021,725.73,Expense,Movies
+938,11-11-2021,138.19,Income,Movies
+939,11-11-2021,141.55,Income,Shopping
+940,11-11-2021,841.45,Expense,Rent
+941,12-11-2021,759.46,Expense,Groceries
+942,13-11-2021,937.53,Expense,Shopping
+943,13-11-2021,850.95,Expense,Coffee
+944,14-11-2021,352.23,Expense,Shopping
+945,14-11-2021,701.41,Expense,Movies
+946,14-11-2021,515.44,Expense,Interest
+947,14-11-2021,986.25,Expense,Rent
+948,15-11-2021,75.31,Income,Dining Out
+949,15-11-2021,136.91,Income,Shopping
+950,16-11-2021,246.48,Expense,Subscriptions
+951,16-11-2021,893.3,Expense,Utilities
+952,16-11-2021,469.1,Income,Salary
+953,17-11-2021,123.57,Expense,Freelance
+954,17-11-2021,312.2,Expense,Shopping
+955,18-11-2021,506.99,Income,Internet Bill
+956,18-11-2021,563.67,Income,Salary
+957,19-11-2021,340.54,Expense,Groceries
+958,19-11-2021,508.89,Income,Transport
+959,19-11-2021,950.4,Expense,Movies
+960,19-11-2021,603.34,Expense,Shopping
+961,20-11-2021,457.35,Income,Bonus
+962,20-11-2021,400.77,Income,Rent
+963,20-11-2021,769.65,Income,Coffee
+964,21-11-2021,971.96,Income,Subscriptions
+965,21-11-2021,257.81,Income,Shopping
+966,21-11-2021,401.97,Income,Car Maintenance
+967,22-11-2021,794.09,Expense,Transport
+968,22-11-2021,739.45,Expense,Freelance
+969,22-11-2021,193.37,Expense,Car Maintenance
+970,23-11-2021,95.71,Expense,Interest
+971,23-11-2021,320.73,Expense,Groceries
+972,23-11-2021,362.77,Expense,Entertainment
+973,24-11-2021,992.53,Expense,Entertainment
+974,25-11-2021,954.87,Income,Shopping
+975,26-11-2021,156.64,Income,Subscriptions
+976,26-11-2021,210.08,Expense,Rent
+977,27-11-2021,605.62,Expense,Internet Bill
+978,27-11-2021,76.55,Income,Internet Bill
+979,28-11-2021,203.38,Expense,Groceries
+980,29-11-2021,506.25,Income,Internet Bill
+981,29-11-2021,246.98,Income,Dining Out
+982,30-11-2021,764.92,Income,Rent
+983,30-11-2021,269.06,Income,Interest
+984,30-11-2021,65.07,Income,Subscriptions
+985,30-11-2021,697.8,Income,Utilities
+986,30-11-2021,72.86,Income,Dining Out
+987,01-12-2021,449.14,Expense,Bonus
+988,01-12-2021,486.93,Income,Utilities
+989,02-12-2021,583.71,Expense,Groceries
+990,02-12-2021,595.1,Income,Entertainment
+991,02-12-2021,387.77,Expense,Coffee
+992,02-12-2021,554.64,Income,Shopping
+993,02-12-2021,251.9,Expense,Bonus
+994,03-12-2021,403.83,Expense,Salary
+995,03-12-2021,190.07,Income,Subscriptions
+996,03-12-2021,602.29,Income,Transport
+997,03-12-2021,310.0,Income,Interest
+998,03-12-2021,722.69,Income,Dining Out
+999,04-12-2021,926.37,Income,Movies
+1000,04-12-2021,845.79,Income,Dining Out
+1001,04-12-2021,173.64,Income,Car Maintenance
+1002,04-12-2021,184.54,Income,Entertainment
+1003,04-12-2021,111.73,Expense,Salary
+1004,05-12-2021,881.04,Income,Salary
+1005,05-12-2021,645.36,Expense,Car Maintenance
+1006,05-12-2021,193.38,Expense,Freelance
+1007,05-12-2021,402.65,Income,Transport
+1008,05-12-2021,706.05,Expense,Interest
+1009,06-12-2021,796.35,Expense,Movies
+1010,06-12-2021,121.02,Expense,Interest
+1011,06-12-2021,377.28,Expense,Internet Bill
+1012,06-12-2021,301.01,Expense,Groceries
+1013,07-12-2021,405.01,Expense,Freelance
+1014,07-12-2021,464.96,Income,Bonus
+1015,08-12-2021,658.29,Expense,Bonus
+1016,08-12-2021,752.51,Income,Transport
+1017,08-12-2021,670.61,Income,Coffee
+1018,08-12-2021,351.91,Expense,Freelance
+1019,08-12-2021,542.77,Income,Utilities
+1020,09-12-2021,323.69,Income,Bonus
+1021,09-12-2021,237.8,Income,Interest
+1022,09-12-2021,101.7,Expense,Transport
+1023,10-12-2021,53.83,Expense,Subscriptions
+1024,10-12-2021,600.75,Income,Car Maintenance
+1025,10-12-2021,795.95,Income,Dining Out
+1026,10-12-2021,424.67,Expense,Groceries
+1027,10-12-2021,76.52,Expense,Transport
+1028,11-12-2021,687.35,Income,Entertainment
+1029,11-12-2021,971.21,Income,Subscriptions
+1030,11-12-2021,864.93,Income,Coffee
+1031,11-12-2021,166.47,Income,Coffee
+1032,11-12-2021,694.53,Expense,Rent
+1033,12-12-2021,649.27,Expense,Rent
+1034,12-12-2021,660.81,Expense,Salary
+1035,12-12-2021,808.8,Income,Dining Out
+1036,13-12-2021,337.11,Income,Interest
+1037,13-12-2021,453.44,Income,Freelance
+1038,14-12-2021,14.44,Income,Salary
+1039,14-12-2021,129.95,Income,Subscriptions
+1040,14-12-2021,773.64,Expense,Car Maintenance
+1041,14-12-2021,326.9,Expense,Utilities
+1042,14-12-2021,880.96,Expense,Interest
+1043,15-12-2021,854.56,Income,Interest
+1044,15-12-2021,112.23,Expense,Shopping
+1045,15-12-2021,733.13,Expense,Dining Out
+1046,15-12-2021,754.02,Income,Movies
+1047,16-12-2021,210.06,Income,Dining Out
+1048,16-12-2021,610.62,Income,Freelance
+1049,16-12-2021,607.86,Expense,Groceries
+1050,16-12-2021,322.56,Income,Movies
+1051,16-12-2021,549.81,Income,Utilities
+1052,17-12-2021,643.92,Expense,Coffee
+1053,17-12-2021,125.44,Expense,Dining Out
+1054,17-12-2021,30.96,Expense,Rent
+1055,18-12-2021,259.15,Income,Subscriptions
+1056,19-12-2021,152.81,Expense,Utilities
+1057,19-12-2021,29.13,Expense,Internet Bill
+1058,19-12-2021,922.29,Income,Car Maintenance
+1059,20-12-2021,276.71,Income,Subscriptions
+1060,20-12-2021,354.94,Income,Car Maintenance
+1061,21-12-2021,418.95,Income,Salary
+1062,21-12-2021,196.08,Income,Movies
+1063,21-12-2021,466.03,Income,Coffee
+1064,22-12-2021,946.5,Expense,Interest
+1065,22-12-2021,624.08,Income,Interest
+1066,22-12-2021,221.07,Expense,Freelance
+1067,23-12-2021,137.18,Income,Bonus
+1068,23-12-2021,52.12,Expense,Subscriptions
+1069,23-12-2021,63.38,Expense,Salary
+1070,23-12-2021,760.21,Income,Transport
+1071,24-12-2021,224.66,Income,Shopping
+1072,24-12-2021,511.14,Income,Dining Out
+1073,24-12-2021,444.32,Expense,Interest
+1074,25-12-2021,346.85,Expense,Entertainment
+1075,25-12-2021,610.79,Expense,Interest
+1076,25-12-2021,795.71,Expense,Groceries
+1077,25-12-2021,167.68,Income,Dining Out
+1078,25-12-2021,64.13,Income,Transport
+1079,26-12-2021,646.2,Expense,Interest
+1080,26-12-2021,590.43,Income,Dining Out
+1081,26-12-2021,474.41,Income,Subscriptions
+1082,27-12-2021,440.93,Income,Transport
+1083,28-12-2021,705.74,Income,Interest
+1084,28-12-2021,660.7,Expense,Freelance
+1085,28-12-2021,251.76,Expense,Bonus
+1086,28-12-2021,664.27,Expense,Subscriptions
+1087,29-12-2021,295.4,Expense,Groceries
+1088,30-12-2021,608.75,Expense,Salary
+1089,30-12-2021,923.17,Expense,Freelance
+1090,30-12-2021,832.88,Expense,Interest
+1091,30-12-2021,718.73,Income,Entertainment
+1092,31-12-2021,200.91,Income,Utilities
+1093,31-12-2021,796.63,Expense,Salary
+1094,01-01-2022,56.4,Expense,Dining Out
+1095,01-01-2022,232.86,Expense,Freelance
+1096,01-01-2022,771.78,Expense,Freelance
+1097,01-01-2022,304.87,Expense,Rent
+1098,02-01-2022,70.23,Expense,Bonus
+1099,02-01-2022,823.36,Expense,Freelance
+1100,03-01-2022,827.31,Expense,Car Maintenance
+1101,03-01-2022,611.18,Expense,Utilities
+1102,04-01-2022,111.68,Expense,Shopping
+1103,04-01-2022,147.22,Income,Subscriptions
+1104,04-01-2022,507.02,Income,Rent
+1105,05-01-2022,716.65,Expense,Subscriptions
+1106,05-01-2022,466.8,Income,Movies
+1107,05-01-2022,168.66,Income,Salary
+1108,06-01-2022,86.73,Expense,Salary
+1109,06-01-2022,437.4,Expense,Interest
+1110,07-01-2022,933.17,Expense,Interest
+1111,08-01-2022,496.07,Expense,Shopping
+1112,08-01-2022,778.49,Income,Transport
+1113,08-01-2022,721.5,Expense,Subscriptions
+1114,08-01-2022,391.45,Income,Subscriptions
+1115,09-01-2022,211.15,Income,Rent
+1116,09-01-2022,705.99,Income,Subscriptions
+1117,10-01-2022,889.26,Income,Shopping
+1118,10-01-2022,786.73,Expense,Internet Bill
+1119,10-01-2022,438.57,Income,Transport
+1120,11-01-2022,928.37,Income,Freelance
+1121,12-01-2022,855.71,Income,Shopping
+1122,12-01-2022,155.92,Expense,Groceries
+1123,13-01-2022,807.21,Expense,Rent
+1124,13-01-2022,542.05,Expense,Internet Bill
+1125,13-01-2022,369.92,Income,Rent
+1126,14-01-2022,416.43,Expense,Groceries
+1127,14-01-2022,652.64,Expense,Car Maintenance
+1128,15-01-2022,859.07,Income,Movies
+1129,15-01-2022,704.69,Expense,Dining Out
+1130,15-01-2022,263.76,Expense,Car Maintenance
+1131,15-01-2022,523.86,Expense,Transport
+1132,15-01-2022,343.3,Expense,Movies
+1133,16-01-2022,663.13,Income,Interest
+1134,16-01-2022,608.04,Income,Subscriptions
+1135,16-01-2022,562.29,Income,Transport
+1136,16-01-2022,146.23,Expense,Coffee
+1137,17-01-2022,419.74,Income,Interest
+1138,17-01-2022,191.75,Income,Salary
+1139,17-01-2022,87.19,Expense,Movies
+1140,18-01-2022,835.36,Expense,Entertainment
+1141,18-01-2022,500.01,Income,Utilities
+1142,19-01-2022,312.63,Expense,Internet Bill
+1143,19-01-2022,799.73,Income,Bonus
+1144,19-01-2022,507.82,Income,Transport
+1145,19-01-2022,943.61,Expense,Entertainment
+1146,20-01-2022,276.72,Income,Dining Out
+1147,20-01-2022,219.79,Expense,Coffee
+1148,20-01-2022,29.51,Expense,Shopping
+1149,20-01-2022,847.09,Income,Rent
+1150,21-01-2022,912.98,Expense,Car Maintenance
+1151,22-01-2022,932.93,Expense,Coffee
+1152,22-01-2022,548.68,Expense,Subscriptions
+1153,23-01-2022,368.06,Income,Shopping
+1154,23-01-2022,295.7,Income,Internet Bill
+1155,23-01-2022,566.59,Income,Groceries
+1156,23-01-2022,525.45,Income,Freelance
+1157,23-01-2022,589.02,Expense,Car Maintenance
+1158,24-01-2022,59.28,Income,Groceries
+1159,25-01-2022,151.34,Expense,Dining Out
+1160,26-01-2022,746.62,Income,Coffee
+1161,26-01-2022,25.52,Expense,Utilities
+1162,26-01-2022,851.05,Income,Salary
+1163,26-01-2022,715.58,Income,Coffee
+1164,26-01-2022,414.02,Income,Transport
+1165,27-01-2022,253.9,Expense,Utilities
+1166,27-01-2022,456.92,Income,Interest
+1167,28-01-2022,246.46,Expense,Movies
+1168,28-01-2022,207.23,Income,Shopping
+1169,28-01-2022,38.77,Income,Transport
+1170,29-01-2022,892.69,Expense,Dining Out
+1171,29-01-2022,889.26,Expense,Movies
+1172,29-01-2022,846.66,Expense,Coffee
+1173,29-01-2022,574.83,Income,Utilities
+1174,29-01-2022,141.37,Expense,Shopping
+1175,30-01-2022,528.84,Expense,Car Maintenance
+1176,30-01-2022,144.6,Expense,Transport
+1177,30-01-2022,392.82,Income,Interest
+1178,30-01-2022,939.5,Expense,Bonus
+1179,30-01-2022,974.99,Expense,Groceries
+1180,31-01-2022,948.5,Expense,Groceries
+1181,01-02-2022,490.29,Income,Entertainment
+1182,01-02-2022,45.08,Expense,Groceries
+1183,01-02-2022,674.5,Income,Utilities
+1184,01-02-2022,964.52,Income,Freelance
+1185,01-02-2022,866.05,Expense,Interest
+1186,02-02-2022,251.44,Expense,Transport
+1187,03-02-2022,930.77,Income,Subscriptions
+1188,03-02-2022,983.59,Expense,Subscriptions
+1189,03-02-2022,771.68,Income,Subscriptions
+1190,04-02-2022,791.05,Income,Entertainment
+1191,04-02-2022,842.62,Income,Subscriptions
+1192,04-02-2022,889.02,Expense,Coffee
+1193,04-02-2022,508.82,Income,Salary
+1194,05-02-2022,916.16,Expense,Car Maintenance
+1195,05-02-2022,550.42,Income,Groceries
+1196,05-02-2022,987.26,Income,Utilities
+1197,05-02-2022,980.06,Income,Entertainment
+1198,06-02-2022,284.15,Expense,Movies
+1199,06-02-2022,991.31,Expense,Bonus
+1200,06-02-2022,927.1,Income,Movies
+1201,06-02-2022,341.85,Income,Rent
+1202,06-02-2022,700.5,Expense,Subscriptions
+1203,07-02-2022,60.18,Income,Car Maintenance
+1204,07-02-2022,331.52,Income,Coffee
+1205,07-02-2022,175.98,Income,Interest
+1206,07-02-2022,654.82,Income,Groceries
+1207,08-02-2022,562.34,Income,Utilities
+1208,08-02-2022,964.52,Expense,Car Maintenance
+1209,09-02-2022,435.68,Expense,Car Maintenance
+1210,09-02-2022,623.59,Income,Dining Out
+1211,09-02-2022,423.27,Expense,Salary
+1212,10-02-2022,87.69,Expense,Groceries
+1213,11-02-2022,241.54,Income,Rent
+1214,11-02-2022,856.07,Expense,Movies
+1215,11-02-2022,805.62,Expense,Internet Bill
+1216,12-02-2022,944.7,Expense,Shopping
+1217,12-02-2022,652.76,Income,Car Maintenance
+1218,13-02-2022,681.62,Expense,Freelance
+1219,13-02-2022,24.91,Expense,Utilities
+1220,13-02-2022,430.87,Income,Dining Out
+1221,13-02-2022,941.51,Expense,Interest
+1222,14-02-2022,248.22,Expense,Transport
+1223,14-02-2022,339.48,Income,Internet Bill
+1224,14-02-2022,455.17,Income,Coffee
+1225,14-02-2022,594.23,Income,Internet Bill
+1226,15-02-2022,908.62,Income,Bonus
+1227,15-02-2022,757.55,Expense,Car Maintenance
+1228,16-02-2022,582.95,Income,Subscriptions
+1229,16-02-2022,496.27,Expense,Interest
+1230,16-02-2022,994.09,Income,Salary
+1231,17-02-2022,382.35,Expense,Subscriptions
+1232,18-02-2022,24.18,Expense,Bonus
+1233,19-02-2022,897.96,Expense,Coffee
+1234,19-02-2022,262.34,Expense,Car Maintenance
+1235,20-02-2022,94.38,Income,Shopping
+1236,21-02-2022,287.29,Expense,Movies
+1237,22-02-2022,790.48,Income,Transport
+1238,22-02-2022,449.65,Expense,Movies
+1239,22-02-2022,280.82,Income,Rent
+1240,23-02-2022,539.36,Expense,Interest
+1241,23-02-2022,238.36,Expense,Interest
+1242,24-02-2022,677.87,Income,Car Maintenance
+1243,24-02-2022,317.06,Expense,Groceries
+1244,24-02-2022,974.9,Expense,Utilities
+1245,24-02-2022,403.14,Expense,Bonus
+1246,24-02-2022,672.45,Expense,Car Maintenance
+1247,25-02-2022,528.1,Expense,Transport
+1248,25-02-2022,287.51,Expense,Salary
+1249,25-02-2022,335.62,Expense,Shopping
+1250,25-02-2022,363.59,Income,Utilities
+1251,26-02-2022,672.15,Income,Subscriptions
+1252,26-02-2022,565.61,Expense,Subscriptions
+1253,26-02-2022,32.79,Expense,Dining Out
+1254,26-02-2022,31.9,Expense,Entertainment
+1255,27-02-2022,93.8,Expense,Entertainment
+1256,27-02-2022,45.11,Expense,Rent
+1257,28-02-2022,700.36,Expense,Salary
+1258,28-02-2022,110.28,Expense,Transport
+1259,28-02-2022,451.63,Income,Transport
+1260,01-03-2022,239.43,Expense,Interest
+1261,02-03-2022,168.03,Income,Movies
+1262,03-03-2022,399.43,Expense,Internet Bill
+1263,03-03-2022,454.47,Expense,Movies
+1264,03-03-2022,414.6,Income,Movies
+1265,04-03-2022,678.57,Expense,Subscriptions
+1266,04-03-2022,672.16,Expense,Freelance
+1267,04-03-2022,122.4,Expense,Shopping
+1268,04-03-2022,920.79,Income,Entertainment
+1269,05-03-2022,745.65,Expense,Salary
+1270,05-03-2022,518.85,Expense,Shopping
+1271,05-03-2022,126.65,Income,Subscriptions
+1272,05-03-2022,519.57,Expense,Subscriptions
+1273,05-03-2022,486.96,Income,Movies
+1274,06-03-2022,810.7,Income,Car Maintenance
+1275,06-03-2022,722.45,Income,Utilities
+1276,06-03-2022,743.09,Expense,Rent
+1277,07-03-2022,683.38,Income,Freelance
+1278,08-03-2022,629.42,Expense,Bonus
+1279,08-03-2022,449.33,Expense,Subscriptions
+1280,09-03-2022,894.33,Income,Car Maintenance
+1281,10-03-2022,692.27,Income,Dining Out
+1282,11-03-2022,485.98,Expense,Groceries
+1283,11-03-2022,199.1,Expense,Transport
+1284,11-03-2022,597.56,Income,Car Maintenance
+1285,11-03-2022,564.3,Expense,Internet Bill
+1286,12-03-2022,378.85,Income,Interest
+1287,12-03-2022,954.5,Income,Shopping
+1288,12-03-2022,437.35,Income,Bonus
+1289,12-03-2022,711.05,Expense,Subscriptions
+1290,12-03-2022,936.54,Income,Internet Bill
+1291,13-03-2022,955.55,Expense,Freelance
+1292,13-03-2022,902.31,Expense,Entertainment
+1293,13-03-2022,914.93,Expense,Utilities
+1294,14-03-2022,619.19,Expense,Car Maintenance
+1295,14-03-2022,493.32,Expense,Movies
+1296,15-03-2022,867.95,Income,Car Maintenance
+1297,16-03-2022,929.34,Income,Groceries
+1298,16-03-2022,681.15,Expense,Subscriptions
+1299,17-03-2022,684.89,Income,Transport
+1300,17-03-2022,483.09,Expense,Rent
+1301,17-03-2022,340.6,Income,Bonus
+1302,17-03-2022,132.77,Expense,Movies
+1303,17-03-2022,547.86,Income,Transport
+1304,18-03-2022,647.25,Income,Car Maintenance
+1305,19-03-2022,51.27,Expense,Entertainment
+1306,20-03-2022,583.04,Expense,Rent
+1307,20-03-2022,384.51,Income,Subscriptions
+1308,20-03-2022,57.18,Expense,Transport
+1309,21-03-2022,719.5,Income,Bonus
+1310,22-03-2022,268.35,Expense,Movies
+1311,22-03-2022,932.3,Income,Rent
+1312,22-03-2022,990.28,Income,Subscriptions
+1313,22-03-2022,335.69,Expense,Subscriptions
+1314,23-03-2022,360.99,Income,Utilities
+1315,23-03-2022,250.51,Income,Dining Out
+1316,23-03-2022,531.4,Expense,Subscriptions
+1317,24-03-2022,530.98,Income,Bonus
+1318,24-03-2022,544.9,Income,Shopping
+1319,25-03-2022,178.16,Income,Utilities
+1320,25-03-2022,880.62,Expense,Utilities
+1321,26-03-2022,960.59,Income,Salary
+1322,26-03-2022,241.07,Income,Internet Bill
+1323,26-03-2022,485.61,Expense,Car Maintenance
+1324,26-03-2022,186.53,Expense,Interest
+1325,27-03-2022,712.58,Income,Freelance
+1326,27-03-2022,886.76,Expense,Internet Bill
+1327,28-03-2022,479.4,Expense,Car Maintenance
+1328,28-03-2022,245.45,Expense,Transport
+1329,28-03-2022,882.78,Expense,Salary
+1330,28-03-2022,302.45,Expense,Internet Bill
+1331,28-03-2022,719.35,Income,Movies
+1332,29-03-2022,867.12,Expense,Subscriptions
+1333,29-03-2022,772.63,Income,Internet Bill
+1334,30-03-2022,924.44,Income,Internet Bill
+1335,30-03-2022,156.64,Expense,Coffee
+1336,30-03-2022,611.17,Expense,Rent
+1337,31-03-2022,798.89,Income,Car Maintenance
+1338,01-04-2022,98.16,Income,Transport
+1339,02-04-2022,951.26,Income,Salary
+1340,03-04-2022,255.24,Expense,Rent
+1341,03-04-2022,548.0,Income,Rent
+1342,04-04-2022,100.72,Expense,Entertainment
+1343,05-04-2022,776.11,Income,Bonus
+1344,05-04-2022,193.72,Income,Rent
+1345,06-04-2022,67.07,Expense,Shopping
+1346,06-04-2022,176.64,Expense,Internet Bill
+1347,06-04-2022,799.36,Expense,Utilities
+1348,06-04-2022,189.66,Income,Shopping
+1349,06-04-2022,563.58,Expense,Transport
+1350,07-04-2022,965.62,Income,Salary
+1351,07-04-2022,406.87,Income,Entertainment
+1352,07-04-2022,731.0,Income,Rent
+1353,07-04-2022,739.62,Expense,Transport
+1354,08-04-2022,966.51,Expense,Coffee
+1355,09-04-2022,579.71,Income,Internet Bill
+1356,09-04-2022,285.07,Expense,Salary
+1357,09-04-2022,354.43,Expense,Coffee
+1358,10-04-2022,647.51,Expense,Salary
+1359,10-04-2022,474.39,Expense,Transport
+1360,11-04-2022,232.31,Expense,Transport
+1361,11-04-2022,662.44,Income,Bonus
+1362,11-04-2022,285.94,Expense,Entertainment
+1363,11-04-2022,977.54,Income,Interest
+1364,11-04-2022,423.06,Income,Shopping
+1365,12-04-2022,636.16,Income,Shopping
+1366,12-04-2022,855.42,Expense,Entertainment
+1367,12-04-2022,290.98,Expense,Freelance
+1368,12-04-2022,51.78,Expense,Dining Out
+1369,12-04-2022,744.15,Income,Dining Out
+1370,13-04-2022,986.74,Income,Utilities
+1371,14-04-2022,67.6,Expense,Entertainment
+1372,14-04-2022,791.8,Expense,Internet Bill
+1373,14-04-2022,372.22,Expense,Dining Out
+1374,15-04-2022,917.44,Income,Salary
+1375,15-04-2022,633.16,Expense,Transport
+1376,16-04-2022,173.3,Income,Car Maintenance
+1377,16-04-2022,355.05,Income,Freelance
+1378,16-04-2022,293.07,Expense,Salary
+1379,16-04-2022,258.74,Expense,Rent
+1380,17-04-2022,358.63,Income,Coffee
+1381,17-04-2022,821.1,Income,Dining Out
+1382,17-04-2022,854.54,Income,Movies
+1383,17-04-2022,774.07,Expense,Movies
+1384,17-04-2022,931.76,Income,Dining Out
+1385,18-04-2022,154.82,Expense,Entertainment
+1386,19-04-2022,301.23,Income,Coffee
+1387,19-04-2022,707.82,Income,Salary
+1388,19-04-2022,780.02,Expense,Car Maintenance
+1389,20-04-2022,773.33,Expense,Movies
+1390,20-04-2022,240.66,Expense,Car Maintenance
+1391,20-04-2022,869.21,Income,Interest
+1392,20-04-2022,960.83,Expense,Groceries
+1393,20-04-2022,777.77,Expense,Entertainment
+1394,21-04-2022,115.83,Expense,Freelance
+1395,21-04-2022,670.26,Income,Groceries
+1396,22-04-2022,919.52,Income,Shopping
+1397,23-04-2022,831.61,Expense,Coffee
+1398,23-04-2022,590.07,Expense,Utilities
+1399,23-04-2022,691.2,Income,Movies
+1400,23-04-2022,146.7,Expense,Bonus
+1401,24-04-2022,659.13,Income,Car Maintenance
+1402,24-04-2022,879.02,Income,Entertainment
+1403,24-04-2022,205.19,Income,Transport
+1404,24-04-2022,767.84,Income,Freelance
+1405,24-04-2022,862.63,Expense,Groceries
+1406,25-04-2022,572.62,Expense,Car Maintenance
+1407,25-04-2022,950.84,Income,Movies
+1408,25-04-2022,921.38,Income,Internet Bill
+1409,25-04-2022,669.18,Expense,Coffee
+1410,26-04-2022,188.36,Income,Movies
+1411,26-04-2022,777.91,Expense,Car Maintenance
+1412,26-04-2022,709.13,Income,Coffee
+1413,26-04-2022,796.91,Income,Interest
+1414,26-04-2022,615.16,Expense,Rent
+1415,27-04-2022,235.55,Expense,Transport
+1416,27-04-2022,815.79,Expense,Car Maintenance
+1417,27-04-2022,92.55,Expense,Car Maintenance
+1418,27-04-2022,336.54,Income,Dining Out
+1419,28-04-2022,357.14,Expense,Dining Out
+1420,28-04-2022,406.99,Income,Transport
+1421,28-04-2022,558.68,Expense,Movies
+1422,28-04-2022,396.55,Income,Dining Out
+1423,28-04-2022,78.7,Income,Salary
+1424,29-04-2022,359.1,Expense,Utilities
+1425,29-04-2022,320.81,Expense,Transport
+1426,29-04-2022,403.79,Expense,Dining Out
+1427,29-04-2022,68.24,Expense,Bonus
+1428,29-04-2022,690.58,Income,Shopping
+1429,30-04-2022,10.82,Expense,Bonus
+1430,01-05-2022,747.87,Income,Freelance
+1431,01-05-2022,22.68,Expense,Interest
+1432,01-05-2022,131.31,Income,Groceries
+1433,02-05-2022,678.02,Expense,Dining Out
+1434,02-05-2022,268.51,Income,Utilities
+1435,02-05-2022,905.72,Income,Shopping
+1436,02-05-2022,532.02,Expense,Utilities
+1437,03-05-2022,594.87,Expense,Freelance
+1438,03-05-2022,443.31,Expense,Shopping
+1439,03-05-2022,670.2,Expense,Internet Bill
+1440,03-05-2022,232.9,Income,Interest
+1441,03-05-2022,226.39,Expense,Dining Out
+1442,04-05-2022,481.61,Expense,Subscriptions
+1443,04-05-2022,467.47,Income,Subscriptions
+1444,04-05-2022,339.76,Expense,Movies
+1445,05-05-2022,98.43,Income,Utilities
+1446,06-05-2022,115.99,Expense,Dining Out
+1447,06-05-2022,35.5,Expense,Coffee
+1448,06-05-2022,776.47,Expense,Movies
+1449,07-05-2022,206.26,Income,Movies
+1450,08-05-2022,724.76,Income,Rent
+1451,08-05-2022,172.89,Income,Subscriptions
+1452,08-05-2022,570.76,Income,Movies
+1453,09-05-2022,72.21,Expense,Dining Out
+1454,09-05-2022,809.6,Income,Utilities
+1455,10-05-2022,732.51,Expense,Internet Bill
+1456,11-05-2022,467.65,Expense,Rent
+1457,12-05-2022,970.63,Expense,Groceries
+1458,12-05-2022,873.14,Income,Movies
+1459,12-05-2022,715.94,Expense,Groceries
+1460,13-05-2022,842.23,Expense,Entertainment
+1461,13-05-2022,214.9,Expense,Movies
+1462,14-05-2022,740.58,Expense,Salary
+1463,14-05-2022,950.88,Expense,Shopping
+1464,14-05-2022,176.3,Income,Movies
+1465,14-05-2022,64.59,Expense,Subscriptions
+1466,15-05-2022,981.15,Income,Subscriptions
+1467,15-05-2022,358.26,Expense,Internet Bill
+1468,15-05-2022,396.46,Income,Movies
+1469,16-05-2022,759.68,Expense,Rent
+1470,16-05-2022,794.64,Income,Freelance
+1471,16-05-2022,221.91,Income,Car Maintenance
+1472,16-05-2022,645.77,Expense,Coffee
+1473,17-05-2022,778.27,Expense,Salary
+1474,18-05-2022,619.71,Income,Groceries
+1475,18-05-2022,280.5,Income,Coffee
+1476,18-05-2022,147.85,Expense,Entertainment
+1477,18-05-2022,915.76,Expense,Dining Out
+1478,18-05-2022,55.32,Expense,Salary
+1479,19-05-2022,731.45,Expense,Movies
+1480,19-05-2022,623.63,Income,Subscriptions
+1481,19-05-2022,190.6,Income,Dining Out
+1482,19-05-2022,599.26,Expense,Freelance
+1483,19-05-2022,486.69,Income,Movies
+1484,20-05-2022,511.71,Expense,Utilities
+1485,20-05-2022,104.52,Income,Salary
+1486,20-05-2022,351.62,Expense,Movies
+1487,20-05-2022,92.2,Expense,Coffee
+1488,21-05-2022,963.37,Income,Salary
+1489,21-05-2022,353.76,Income,Subscriptions
+1490,22-05-2022,786.92,Income,Entertainment
+1491,22-05-2022,788.09,Expense,Coffee
+1492,22-05-2022,868.16,Income,Utilities
+1493,22-05-2022,988.31,Expense,Utilities
+1494,22-05-2022,259.67,Expense,Car Maintenance
+1495,23-05-2022,889.05,Income,Rent
+1496,23-05-2022,193.86,Income,Internet Bill
+1497,23-05-2022,801.8,Income,Freelance
+1498,23-05-2022,766.41,Expense,Entertainment
+1499,23-05-2022,843.08,Income,Coffee
+1500,24-05-2022,803.32,Income,Salary
+1501,25-05-2022,114.23,Income,Freelance
+1502,25-05-2022,705.44,Expense,Transport
+1503,25-05-2022,883.01,Income,Freelance
+1504,25-05-2022,597.7,Income,Movies
+1505,26-05-2022,70.37,Income,Salary
+1506,26-05-2022,918.9,Income,Salary
+1507,26-05-2022,806.38,Expense,Internet Bill
+1508,26-05-2022,341.89,Income,Rent
+1509,27-05-2022,864.98,Income,Entertainment
+1510,27-05-2022,849.45,Income,Shopping
+1511,27-05-2022,143.76,Income,Freelance
+1512,28-05-2022,766.1,Income,Dining Out
+1513,28-05-2022,92.47,Income,Freelance
+1514,29-05-2022,65.33,Expense,Utilities
+1515,29-05-2022,607.76,Income,Freelance
+1516,29-05-2022,306.94,Income,Rent
+1517,29-05-2022,585.11,Income,Interest
+1518,29-05-2022,658.1,Income,Car Maintenance
+1519,30-05-2022,258.05,Income,Shopping
+1520,30-05-2022,49.95,Income,Internet Bill
+1521,30-05-2022,121.73,Income,Groceries
+1522,30-05-2022,301.76,Income,Movies
+1523,31-05-2022,470.73,Expense,Dining Out
+1524,31-05-2022,639.24,Expense,Rent
+1525,31-05-2022,626.84,Income,Transport
+1526,31-05-2022,677.52,Income,Dining Out
+1527,31-05-2022,492.76,Income,Salary
+1528,01-06-2022,803.13,Expense,Shopping
+1529,01-06-2022,370.05,Income,Bonus
+1530,02-06-2022,27.98,Expense,Movies
+1531,02-06-2022,359.11,Expense,Entertainment
+1532,03-06-2022,755.38,Expense,Groceries
+1533,03-06-2022,295.55,Expense,Groceries
+1534,03-06-2022,595.37,Income,Movies
+1535,03-06-2022,934.0,Income,Rent
+1536,03-06-2022,213.57,Expense,Subscriptions
+1537,04-06-2022,18.62,Expense,Rent
+1538,04-06-2022,705.63,Income,Groceries
+1539,05-06-2022,24.93,Expense,Car Maintenance
+1540,06-06-2022,542.03,Expense,Bonus
+1541,06-06-2022,492.52,Income,Coffee
+1542,06-06-2022,33.14,Income,Coffee
+1543,06-06-2022,968.77,Expense,Salary
+1544,07-06-2022,171.47,Expense,Freelance
+1545,07-06-2022,746.22,Income,Subscriptions
+1546,07-06-2022,663.18,Expense,Internet Bill
+1547,07-06-2022,632.64,Expense,Subscriptions
+1548,07-06-2022,770.73,Expense,Bonus
+1549,08-06-2022,407.87,Expense,Utilities
+1550,08-06-2022,614.53,Expense,Internet Bill
+1551,09-06-2022,835.56,Expense,Movies
+1552,09-06-2022,281.95,Income,Dining Out
+1553,09-06-2022,570.86,Expense,Subscriptions
+1554,09-06-2022,470.92,Income,Salary
+1555,10-06-2022,185.46,Expense,Shopping
+1556,11-06-2022,911.38,Expense,Salary
+1557,11-06-2022,629.4,Income,Bonus
+1558,11-06-2022,286.57,Expense,Subscriptions
+1559,12-06-2022,393.66,Expense,Entertainment
+1560,12-06-2022,492.23,Income,Interest
+1561,12-06-2022,317.14,Expense,Salary
+1562,13-06-2022,783.46,Income,Interest
+1563,14-06-2022,387.61,Income,Salary
+1564,15-06-2022,416.86,Income,Rent
+1565,15-06-2022,853.33,Expense,Entertainment
+1566,16-06-2022,846.85,Expense,Internet Bill
+1567,16-06-2022,921.89,Income,Shopping
+1568,16-06-2022,633.28,Income,Groceries
+1569,16-06-2022,990.58,Expense,Utilities
+1570,17-06-2022,365.69,Expense,Coffee
+1571,17-06-2022,885.03,Expense,Internet Bill
+1572,17-06-2022,198.79,Expense,Transport
+1573,17-06-2022,786.94,Income,Shopping
+1574,18-06-2022,296.5,Income,Transport
+1575,18-06-2022,290.77,Expense,Internet Bill
+1576,19-06-2022,892.17,Income,Rent
+1577,19-06-2022,619.43,Expense,Bonus
+1578,20-06-2022,610.62,Expense,Bonus
+1579,20-06-2022,152.92,Expense,Entertainment
+1580,20-06-2022,886.93,Income,Movies
+1581,20-06-2022,140.77,Income,Transport
+1582,20-06-2022,839.18,Income,Dining Out
+1583,21-06-2022,33.91,Expense,Car Maintenance
+1584,21-06-2022,922.43,Income,Utilities
+1585,21-06-2022,678.92,Expense,Interest
+1586,22-06-2022,122.34,Expense,Freelance
+1587,22-06-2022,544.56,Expense,Subscriptions
+1588,22-06-2022,883.1,Income,Salary
+1589,23-06-2022,580.11,Expense,Rent
+1590,24-06-2022,996.39,Expense,Salary
+1591,24-06-2022,716.9,Expense,Internet Bill
+1592,25-06-2022,861.82,Expense,Shopping
+1593,25-06-2022,472.59,Income,Entertainment
+1594,25-06-2022,681.65,Income,Dining Out
+1595,25-06-2022,894.38,Income,Bonus
+1596,25-06-2022,349.81,Expense,Rent
+1597,26-06-2022,916.75,Expense,Utilities
+1598,26-06-2022,644.85,Expense,Subscriptions
+1599,26-06-2022,354.57,Expense,Freelance
+1600,26-06-2022,440.72,Expense,Groceries
+1601,27-06-2022,840.54,Expense,Internet Bill
+1602,27-06-2022,372.75,Income,Groceries
+1603,27-06-2022,769.58,Expense,Transport
+1604,27-06-2022,397.44,Expense,Interest
+1605,27-06-2022,152.01,Expense,Interest
+1606,28-06-2022,933.33,Expense,Shopping
+1607,29-06-2022,476.96,Expense,Freelance
+1608,29-06-2022,793.21,Income,Groceries
+1609,29-06-2022,15.71,Expense,Car Maintenance
+1610,29-06-2022,372.27,Income,Freelance
+1611,29-06-2022,851.31,Expense,Bonus
+1612,30-06-2022,728.34,Expense,Movies
+1613,30-06-2022,396.08,Expense,Groceries
+1614,30-06-2022,652.52,Expense,Car Maintenance
+1615,30-06-2022,826.46,Income,Coffee
+1616,30-06-2022,231.39,Expense,Car Maintenance
+1617,01-07-2022,174.95,Expense,Dining Out
+1618,02-07-2022,816.1,Expense,Coffee
+1619,02-07-2022,457.96,Income,Entertainment
+1620,02-07-2022,624.06,Expense,Car Maintenance
+1621,02-07-2022,840.2,Income,Movies
+1622,03-07-2022,233.6,Expense,Dining Out
+1623,03-07-2022,426.41,Expense,Subscriptions
+1624,03-07-2022,58.59,Income,Coffee
+1625,03-07-2022,980.34,Expense,Salary
+1626,04-07-2022,489.16,Income,Salary
+1627,04-07-2022,963.96,Expense,Rent
+1628,05-07-2022,702.55,Income,Interest
+1629,05-07-2022,463.92,Income,Transport
+1630,05-07-2022,795.59,Income,Car Maintenance
+1631,05-07-2022,972.84,Income,Subscriptions
+1632,05-07-2022,856.4,Expense,Transport
+1633,06-07-2022,332.96,Income,Subscriptions
+1634,06-07-2022,365.25,Income,Utilities
+1635,07-07-2022,484.08,Income,Bonus
+1636,07-07-2022,303.81,Expense,Internet Bill
+1637,07-07-2022,762.29,Expense,Freelance
+1638,08-07-2022,479.08,Income,Coffee
+1639,08-07-2022,229.36,Expense,Transport
+1640,08-07-2022,838.23,Expense,Shopping
+1641,09-07-2022,494.88,Expense,Internet Bill
+1642,10-07-2022,524.29,Income,Entertainment
+1643,10-07-2022,78.19,Income,Freelance
+1644,10-07-2022,695.1,Income,Internet Bill
+1645,10-07-2022,352.71,Expense,Dining Out
+1646,10-07-2022,235.92,Expense,Freelance
+1647,11-07-2022,629.89,Income,Subscriptions
+1648,12-07-2022,64.37,Expense,Coffee
+1649,13-07-2022,359.19,Expense,Transport
+1650,13-07-2022,493.13,Income,Car Maintenance
+1651,13-07-2022,443.86,Expense,Groceries
+1652,13-07-2022,104.53,Income,Entertainment
+1653,14-07-2022,686.88,Expense,Utilities
+1654,14-07-2022,692.62,Expense,Movies
+1655,14-07-2022,343.82,Income,Salary
+1656,14-07-2022,784.44,Income,Utilities
+1657,15-07-2022,251.1,Income,Rent
+1658,16-07-2022,504.4,Income,Coffee
+1659,16-07-2022,186.08,Expense,Salary
+1660,16-07-2022,847.16,Expense,Coffee
+1661,16-07-2022,413.12,Income,Interest
+1662,17-07-2022,76.16,Expense,Salary
+1663,17-07-2022,527.88,Expense,Groceries
+1664,17-07-2022,487.35,Income,Coffee
+1665,17-07-2022,584.75,Income,Rent
+1666,18-07-2022,541.16,Expense,Movies
+1667,18-07-2022,63.45,Income,Entertainment
+1668,19-07-2022,407.58,Expense,Bonus
+1669,19-07-2022,150.0,Income,Interest
+1670,19-07-2022,179.81,Expense,Shopping
+1671,19-07-2022,864.52,Income,Rent
+1672,19-07-2022,844.53,Expense,Subscriptions
+1673,20-07-2022,182.24,Income,Freelance
+1674,20-07-2022,33.76,Expense,Transport
+1675,21-07-2022,764.71,Income,Freelance
+1676,21-07-2022,592.84,Income,Movies
+1677,21-07-2022,498.23,Expense,Groceries
+1678,21-07-2022,596.04,Income,Salary
+1679,21-07-2022,284.97,Income,Internet Bill
+1680,22-07-2022,849.81,Income,Groceries
+1681,22-07-2022,68.43,Income,Car Maintenance
+1682,22-07-2022,583.98,Income,Subscriptions
+1683,22-07-2022,229.1,Expense,Movies
+1684,23-07-2022,995.24,Income,Internet Bill
+1685,23-07-2022,343.44,Income,Bonus
+1686,23-07-2022,221.22,Income,Entertainment
+1687,24-07-2022,562.44,Income,Car Maintenance
+1688,24-07-2022,456.66,Income,Interest
+1689,24-07-2022,374.95,Expense,Car Maintenance
+1690,24-07-2022,988.72,Income,Groceries
+1691,24-07-2022,299.84,Expense,Subscriptions
+1692,25-07-2022,153.93,Expense,Transport
+1693,25-07-2022,619.6,Expense,Freelance
+1694,26-07-2022,886.1,Expense,Bonus
+1695,26-07-2022,501.15,Expense,Interest
+1696,26-07-2022,997.98,Expense,Salary
+1697,27-07-2022,179.53,Income,Internet Bill
+1698,27-07-2022,303.59,Income,Internet Bill
+1699,28-07-2022,320.35,Income,Coffee
+1700,28-07-2022,557.71,Income,Salary
+1701,28-07-2022,382.46,Expense,Groceries
+1702,28-07-2022,726.5,Expense,Interest
+1703,28-07-2022,14.26,Expense,Movies
+1704,29-07-2022,393.04,Expense,Dining Out
+1705,30-07-2022,207.29,Income,Groceries
+1706,30-07-2022,177.24,Expense,Entertainment
+1707,30-07-2022,850.36,Income,Utilities
+1708,30-07-2022,791.64,Expense,Dining Out
+1709,30-07-2022,928.87,Expense,Rent
+1710,31-07-2022,547.55,Expense,Interest
+1711,01-08-2022,713.63,Expense,Movies
+1712,01-08-2022,162.98,Income,Subscriptions
+1713,01-08-2022,327.11,Expense,Utilities
+1714,02-08-2022,439.44,Income,Salary
+1715,02-08-2022,915.07,Expense,Rent
+1716,02-08-2022,871.1,Expense,Coffee
+1717,02-08-2022,350.94,Income,Movies
+1718,02-08-2022,585.53,Expense,Transport
+1719,03-08-2022,638.06,Income,Utilities
+1720,04-08-2022,977.01,Expense,Coffee
+1721,05-08-2022,167.42,Income,Shopping
+1722,06-08-2022,52.68,Income,Utilities
+1723,07-08-2022,953.29,Income,Car Maintenance
+1724,07-08-2022,716.5,Expense,Internet Bill
+1725,07-08-2022,837.79,Income,Subscriptions
+1726,08-08-2022,958.92,Income,Salary
+1727,09-08-2022,824.57,Expense,Transport
+1728,10-08-2022,796.2,Expense,Shopping
+1729,10-08-2022,424.27,Expense,Utilities
+1730,11-08-2022,982.01,Expense,Interest
+1731,11-08-2022,834.61,Income,Internet Bill
+1732,11-08-2022,217.41,Income,Bonus
+1733,11-08-2022,958.06,Expense,Coffee
+1734,12-08-2022,281.44,Income,Entertainment
+1735,12-08-2022,342.02,Expense,Internet Bill
+1736,12-08-2022,378.57,Expense,Internet Bill
+1737,13-08-2022,700.53,Income,Dining Out
+1738,13-08-2022,432.59,Income,Bonus
+1739,13-08-2022,544.8,Expense,Salary
+1740,13-08-2022,300.19,Income,Salary
+1741,13-08-2022,905.36,Income,Utilities
+1742,14-08-2022,993.42,Expense,Salary
+1743,14-08-2022,452.22,Income,Bonus
+1744,14-08-2022,109.12,Expense,Freelance
+1745,15-08-2022,565.32,Income,Internet Bill
+1746,15-08-2022,412.65,Income,Salary
+1747,16-08-2022,737.98,Expense,Freelance
+1748,16-08-2022,434.53,Income,Freelance
+1749,16-08-2022,991.35,Income,Freelance
+1750,17-08-2022,72.47,Income,Transport
+1751,17-08-2022,639.62,Income,Interest
+1752,17-08-2022,26.79,Income,Salary
+1753,17-08-2022,710.21,Expense,Shopping
+1754,17-08-2022,69.25,Income,Utilities
+1755,18-08-2022,349.05,Income,Coffee
+1756,18-08-2022,417.3,Income,Interest
+1757,18-08-2022,517.04,Expense,Entertainment
+1758,19-08-2022,904.1,Income,Coffee
+1759,19-08-2022,126.77,Income,Internet Bill
+1760,19-08-2022,382.43,Income,Salary
+1761,19-08-2022,580.09,Expense,Dining Out
+1762,20-08-2022,499.39,Expense,Interest
+1763,20-08-2022,645.84,Expense,Interest
+1764,20-08-2022,334.7,Income,Internet Bill
+1765,20-08-2022,194.51,Income,Dining Out
+1766,21-08-2022,755.43,Income,Entertainment
+1767,21-08-2022,905.03,Income,Bonus
+1768,21-08-2022,103.38,Income,Internet Bill
+1769,21-08-2022,940.65,Expense,Coffee
+1770,22-08-2022,31.41,Expense,Interest
+1771,23-08-2022,994.65,Income,Freelance
+1772,24-08-2022,88.91,Income,Coffee
+1773,24-08-2022,314.67,Income,Internet Bill
+1774,24-08-2022,935.52,Income,Coffee
+1775,24-08-2022,784.87,Income,Interest
+1776,25-08-2022,458.23,Income,Entertainment
+1777,26-08-2022,693.47,Income,Salary
+1778,26-08-2022,879.75,Income,Shopping
+1779,27-08-2022,547.46,Expense,Dining Out
+1780,27-08-2022,387.74,Income,Shopping
+1781,27-08-2022,27.07,Expense,Freelance
+1782,28-08-2022,970.32,Income,Movies
+1783,28-08-2022,38.1,Expense,Transport
+1784,28-08-2022,121.49,Income,Shopping
+1785,28-08-2022,955.4,Expense,Internet Bill
+1786,28-08-2022,879.97,Income,Interest
+1787,29-08-2022,735.6,Expense,Subscriptions
+1788,30-08-2022,458.99,Expense,Coffee
+1789,30-08-2022,576.28,Expense,Transport
+1790,31-08-2022,657.25,Income,Transport
+1791,01-09-2022,42.88,Income,Rent
+1792,01-09-2022,559.07,Income,Groceries
+1793,02-09-2022,336.34,Expense,Coffee
+1794,02-09-2022,971.77,Expense,Car Maintenance
+1795,03-09-2022,585.8,Income,Rent
+1796,03-09-2022,124.42,Expense,Rent
+1797,03-09-2022,779.17,Expense,Utilities
+1798,03-09-2022,981.71,Income,Groceries
+1799,03-09-2022,912.58,Expense,Interest
+1800,04-09-2022,802.39,Expense,Freelance
+1801,04-09-2022,19.47,Income,Internet Bill
+1802,04-09-2022,121.21,Income,Car Maintenance
+1803,04-09-2022,718.14,Income,Salary
+1804,05-09-2022,211.44,Income,Internet Bill
+1805,05-09-2022,814.36,Expense,Groceries
+1806,06-09-2022,990.07,Income,Dining Out
+1807,07-09-2022,875.77,Expense,Subscriptions
+1808,07-09-2022,334.62,Income,Freelance
+1809,07-09-2022,764.94,Expense,Subscriptions
+1810,07-09-2022,413.11,Income,Bonus
+1811,07-09-2022,52.28,Income,Movies
+1812,08-09-2022,805.7,Income,Salary
+1813,08-09-2022,569.37,Income,Transport
+1814,08-09-2022,621.24,Expense,Freelance
+1815,09-09-2022,641.41,Income,Car Maintenance
+1816,09-09-2022,559.87,Income,Subscriptions
+1817,10-09-2022,424.07,Expense,Freelance
+1818,10-09-2022,500.86,Expense,Salary
+1819,10-09-2022,573.8,Expense,Coffee
+1820,10-09-2022,364.09,Income,Dining Out
+1821,10-09-2022,705.53,Expense,Groceries
+1822,11-09-2022,809.92,Expense,Dining Out
+1823,11-09-2022,65.36,Income,Entertainment
+1824,11-09-2022,105.99,Expense,Transport
+1825,11-09-2022,963.0,Expense,Car Maintenance
+1826,12-09-2022,541.19,Expense,Rent
+1827,13-09-2022,665.43,Expense,Bonus
+1828,13-09-2022,133.8,Expense,Car Maintenance
+1829,13-09-2022,556.92,Income,Car Maintenance
+1830,14-09-2022,135.38,Expense,Rent
+1831,14-09-2022,440.18,Income,Utilities
+1832,14-09-2022,185.0,Expense,Coffee
+1833,15-09-2022,830.06,Expense,Freelance
+1834,15-09-2022,927.76,Expense,Dining Out
+1835,15-09-2022,652.9,Income,Car Maintenance
+1836,15-09-2022,320.29,Income,Freelance
+1837,15-09-2022,557.27,Expense,Entertainment
+1838,16-09-2022,740.16,Expense,Utilities
+1839,16-09-2022,299.02,Income,Utilities
+1840,16-09-2022,51.29,Income,Internet Bill
+1841,16-09-2022,439.23,Expense,Transport
+1842,17-09-2022,122.43,Income,Dining Out
+1843,17-09-2022,811.29,Income,Coffee
+1844,17-09-2022,874.93,Income,Coffee
+1845,18-09-2022,539.99,Expense,Coffee
+1846,18-09-2022,193.02,Expense,Salary
+1847,18-09-2022,795.52,Expense,Transport
+1848,18-09-2022,436.11,Income,Car Maintenance
+1849,18-09-2022,16.81,Income,Freelance
+1850,19-09-2022,478.29,Income,Shopping
+1851,19-09-2022,14.83,Income,Coffee
+1852,19-09-2022,635.22,Income,Subscriptions
+1853,20-09-2022,800.82,Expense,Shopping
+1854,20-09-2022,798.12,Income,Car Maintenance
+1855,20-09-2022,229.28,Expense,Groceries
+1856,21-09-2022,237.6,Expense,Salary
+1857,21-09-2022,80.13,Income,Utilities
+1858,21-09-2022,559.62,Expense,Freelance
+1859,21-09-2022,816.46,Income,Dining Out
+1860,22-09-2022,477.8,Expense,Shopping
+1861,22-09-2022,275.02,Income,Car Maintenance
+1862,22-09-2022,457.29,Expense,Freelance
+1863,22-09-2022,526.04,Income,Dining Out
+1864,23-09-2022,945.73,Income,Coffee
+1865,23-09-2022,79.91,Expense,Movies
+1866,23-09-2022,846.34,Income,Car Maintenance
+1867,23-09-2022,725.33,Expense,Shopping
+1868,24-09-2022,527.43,Expense,Movies
+1869,24-09-2022,858.81,Income,Transport
+1870,24-09-2022,800.36,Income,Groceries
+1871,25-09-2022,12.74,Income,Bonus
+1872,25-09-2022,250.3,Expense,Interest
+1873,25-09-2022,704.24,Income,Rent
+1874,26-09-2022,172.1,Expense,Groceries
+1875,26-09-2022,435.63,Expense,Freelance
+1876,27-09-2022,122.42,Income,Groceries
+1877,27-09-2022,124.05,Income,Bonus
+1878,27-09-2022,142.68,Expense,Subscriptions
+1879,27-09-2022,861.32,Income,Rent
+1880,28-09-2022,600.39,Expense,Internet Bill
+1881,28-09-2022,85.52,Expense,Internet Bill
+1882,28-09-2022,940.31,Expense,Groceries
+1883,28-09-2022,507.64,Expense,Movies
+1884,28-09-2022,839.77,Expense,Groceries
+1885,29-09-2022,911.59,Income,Groceries
+1886,29-09-2022,298.84,Income,Car Maintenance
+1887,29-09-2022,180.61,Expense,Dining Out
+1888,29-09-2022,659.22,Income,Coffee
+1889,29-09-2022,251.64,Expense,Dining Out
+1890,30-09-2022,321.73,Expense,Car Maintenance
+1891,30-09-2022,137.05,Income,Transport
+1892,30-09-2022,277.1,Income,Shopping
+1893,30-09-2022,420.12,Income,Dining Out
+1894,01-10-2022,941.46,Income,Rent
+1895,02-10-2022,761.78,Expense,Movies
+1896,03-10-2022,143.27,Expense,Freelance
+1897,03-10-2022,977.96,Expense,Car Maintenance
+1898,03-10-2022,892.89,Expense,Coffee
+1899,03-10-2022,613.95,Income,Dining Out
+1900,03-10-2022,633.83,Expense,Groceries
+1901,04-10-2022,120.47,Expense,Dining Out
+1902,04-10-2022,935.45,Expense,Utilities
+1903,04-10-2022,733.68,Income,Coffee
+1904,05-10-2022,739.63,Expense,Subscriptions
+1905,05-10-2022,760.05,Expense,Coffee
+1906,05-10-2022,245.01,Expense,Groceries
+1907,06-10-2022,442.93,Expense,Dining Out
+1908,06-10-2022,172.51,Expense,Coffee
+1909,06-10-2022,275.76,Income,Bonus
+1910,06-10-2022,98.16,Income,Car Maintenance
+1911,06-10-2022,877.51,Expense,Entertainment
+1912,07-10-2022,459.16,Expense,Shopping
+1913,07-10-2022,217.95,Income,Coffee
+1914,07-10-2022,470.82,Income,Interest
+1915,07-10-2022,825.35,Income,Coffee
+1916,07-10-2022,650.04,Expense,Movies
+1917,08-10-2022,866.23,Expense,Interest
+1918,08-10-2022,169.77,Expense,Groceries
+1919,08-10-2022,769.02,Income,Car Maintenance
+1920,08-10-2022,549.92,Income,Rent
+1921,09-10-2022,990.97,Income,Car Maintenance
+1922,09-10-2022,581.65,Expense,Utilities
+1923,09-10-2022,281.04,Income,Movies
+1924,10-10-2022,802.7,Income,Rent
+1925,10-10-2022,96.95,Expense,Rent
+1926,10-10-2022,915.52,Expense,Groceries
+1927,11-10-2022,380.25,Expense,Bonus
+1928,11-10-2022,132.29,Expense,Entertainment
+1929,12-10-2022,603.62,Income,Freelance
+1930,12-10-2022,156.07,Expense,Bonus
+1931,13-10-2022,283.42,Expense,Bonus
+1932,13-10-2022,899.64,Expense,Utilities
+1933,13-10-2022,914.19,Expense,Bonus
+1934,13-10-2022,577.2,Expense,Salary
+1935,14-10-2022,96.15,Income,Utilities
+1936,14-10-2022,283.24,Expense,Movies
+1937,14-10-2022,445.2,Expense,Subscriptions
+1938,14-10-2022,693.42,Expense,Movies
+1939,15-10-2022,406.46,Expense,Shopping
+1940,15-10-2022,986.11,Expense,Car Maintenance
+1941,15-10-2022,22.99,Income,Freelance
+1942,15-10-2022,603.6,Income,Interest
+1943,16-10-2022,316.7,Expense,Interest
+1944,16-10-2022,87.49,Income,Utilities
+1945,16-10-2022,60.43,Income,Coffee
+1946,17-10-2022,664.0,Income,Utilities
+1947,17-10-2022,956.99,Expense,Entertainment
+1948,17-10-2022,196.03,Expense,Rent
+1949,17-10-2022,646.52,Expense,Bonus
+1950,18-10-2022,708.38,Income,Shopping
+1951,18-10-2022,67.84,Income,Utilities
+1952,19-10-2022,593.26,Expense,Movies
+1953,19-10-2022,671.79,Income,Movies
+1954,19-10-2022,821.13,Income,Coffee
+1955,19-10-2022,588.01,Expense,Entertainment
+1956,19-10-2022,675.13,Income,Subscriptions
+1957,20-10-2022,693.26,Expense,Entertainment
+1958,20-10-2022,984.26,Income,Bonus
+1959,20-10-2022,196.9,Income,Bonus
+1960,20-10-2022,15.9,Income,Salary
+1961,21-10-2022,561.54,Expense,Car Maintenance
+1962,21-10-2022,350.3,Expense,Car Maintenance
+1963,21-10-2022,257.94,Income,Dining Out
+1964,21-10-2022,502.57,Income,Shopping
+1965,22-10-2022,697.1,Income,Entertainment
+1966,22-10-2022,67.71,Expense,Utilities
+1967,22-10-2022,665.42,Expense,Dining Out
+1968,23-10-2022,775.11,Expense,Coffee
+1969,23-10-2022,168.18,Income,Interest
+1970,23-10-2022,765.67,Income,Dining Out
+1971,24-10-2022,536.63,Expense,Transport
+1972,24-10-2022,804.02,Income,Utilities
+1973,24-10-2022,431.92,Income,Movies
+1974,25-10-2022,667.78,Income,Subscriptions
+1975,26-10-2022,119.23,Income,Utilities
+1976,26-10-2022,795.38,Expense,Car Maintenance
+1977,26-10-2022,649.63,Expense,Movies
+1978,27-10-2022,194.99,Expense,Transport
+1979,27-10-2022,668.65,Income,Movies
+1980,28-10-2022,47.87,Income,Shopping
+1981,29-10-2022,372.38,Income,Transport
+1982,29-10-2022,259.7,Expense,Interest
+1983,29-10-2022,197.24,Expense,Salary
+1984,29-10-2022,636.95,Expense,Rent
+1985,29-10-2022,93.89,Expense,Shopping
+1986,30-10-2022,824.79,Expense,Movies
+1987,30-10-2022,776.67,Income,Freelance
+1988,30-10-2022,375.21,Income,Car Maintenance
+1989,30-10-2022,183.24,Expense,Internet Bill
+1990,31-10-2022,763.19,Income,Freelance
+1991,31-10-2022,629.5,Expense,Groceries
+1992,01-11-2022,746.99,Income,Interest
+1993,01-11-2022,906.32,Expense,Freelance
+1994,01-11-2022,59.35,Expense,Bonus
+1995,02-11-2022,991.74,Expense,Internet Bill
+1996,02-11-2022,932.8,Expense,Rent
+1997,02-11-2022,887.64,Expense,Subscriptions
+1998,03-11-2022,506.23,Income,Transport
+1999,03-11-2022,249.33,Income,Subscriptions
+2000,03-11-2022,678.05,Expense,Entertainment
+2001,03-11-2022,47.7,Expense,Transport
+2002,04-11-2022,180.32,Income,Groceries
+2003,05-11-2022,38.25,Income,Transport
+2004,05-11-2022,85.27,Expense,Movies
+2005,05-11-2022,547.33,Expense,Dining Out
+2006,06-11-2022,333.33,Expense,Utilities
+2007,06-11-2022,45.77,Income,Rent
+2008,07-11-2022,741.88,Income,Transport
+2009,07-11-2022,196.74,Income,Internet Bill
+2010,07-11-2022,321.66,Income,Subscriptions
+2011,08-11-2022,139.26,Income,Dining Out
+2012,09-11-2022,520.63,Income,Interest
+2013,09-11-2022,527.8,Expense,Internet Bill
+2014,09-11-2022,136.29,Expense,Dining Out
+2015,09-11-2022,767.17,Income,Shopping
+2016,10-11-2022,715.8,Expense,Interest
+2017,10-11-2022,884.15,Expense,Transport
+2018,11-11-2022,876.93,Income,Dining Out
+2019,11-11-2022,279.18,Income,Movies
+2020,11-11-2022,306.69,Income,Groceries
+2021,11-11-2022,807.93,Income,Bonus
+2022,12-11-2022,794.86,Income,Coffee
+2023,12-11-2022,133.48,Expense,Transport
+2024,12-11-2022,232.89,Income,Groceries
+2025,12-11-2022,860.37,Expense,Dining Out
+2026,12-11-2022,800.16,Income,Internet Bill
+2027,13-11-2022,900.57,Income,Salary
+2028,13-11-2022,737.7,Expense,Car Maintenance
+2029,13-11-2022,537.83,Income,Internet Bill
+2030,14-11-2022,342.69,Income,Freelance
+2031,14-11-2022,432.16,Income,Utilities
+2032,14-11-2022,78.66,Expense,Salary
+2033,14-11-2022,895.49,Income,Subscriptions
+2034,14-11-2022,186.25,Income,Transport
+2035,15-11-2022,981.24,Income,Internet Bill
+2036,16-11-2022,484.64,Income,Freelance
+2037,16-11-2022,192.46,Income,Transport
+2038,16-11-2022,482.88,Income,Freelance
+2039,16-11-2022,851.67,Income,Freelance
+2040,17-11-2022,66.47,Income,Coffee
+2041,17-11-2022,307.14,Expense,Salary
+2042,18-11-2022,872.33,Income,Coffee
+2043,18-11-2022,794.02,Expense,Dining Out
+2044,18-11-2022,939.67,Expense,Interest
+2045,18-11-2022,828.23,Expense,Subscriptions
+2046,18-11-2022,197.3,Income,Utilities
+2047,19-11-2022,766.88,Income,Internet Bill
+2048,19-11-2022,424.64,Income,Coffee
+2049,19-11-2022,782.7,Income,Subscriptions
+2050,20-11-2022,179.98,Expense,Bonus
+2051,20-11-2022,944.47,Income,Transport
+2052,20-11-2022,464.69,Expense,Movies
+2053,20-11-2022,668.11,Expense,Subscriptions
+2054,20-11-2022,772.62,Income,Entertainment
+2055,21-11-2022,770.29,Income,Transport
+2056,21-11-2022,963.1,Expense,Freelance
+2057,21-11-2022,174.85,Expense,Rent
+2058,21-11-2022,397.39,Income,Transport
+2059,22-11-2022,37.3,Income,Subscriptions
+2060,22-11-2022,651.77,Income,Salary
+2061,22-11-2022,639.66,Income,Internet Bill
+2062,22-11-2022,594.01,Expense,Utilities
+2063,23-11-2022,582.37,Income,Interest
+2064,23-11-2022,149.2,Income,Utilities
+2065,23-11-2022,473.96,Income,Coffee
+2066,23-11-2022,63.86,Expense,Freelance
+2067,23-11-2022,845.99,Expense,Entertainment
+2068,24-11-2022,993.37,Expense,Transport
+2069,24-11-2022,105.31,Income,Groceries
+2070,24-11-2022,268.88,Income,Internet Bill
+2071,25-11-2022,96.15,Expense,Shopping
+2072,25-11-2022,165.32,Income,Entertainment
+2073,26-11-2022,881.54,Income,Rent
+2074,26-11-2022,479.47,Income,Shopping
+2075,26-11-2022,640.52,Expense,Rent
+2076,26-11-2022,546.77,Income,Rent
+2077,26-11-2022,234.4,Expense,Shopping
+2078,27-11-2022,558.68,Expense,Salary
+2079,27-11-2022,337.41,Expense,Coffee
+2080,27-11-2022,204.76,Income,Internet Bill
+2081,27-11-2022,234.61,Income,Utilities
+2082,27-11-2022,619.25,Income,Rent
+2083,28-11-2022,286.73,Expense,Movies
+2084,29-11-2022,90.07,Expense,Dining Out
+2085,29-11-2022,863.85,Expense,Interest
+2086,30-11-2022,676.32,Expense,Bonus
+2087,30-11-2022,362.52,Expense,Dining Out
+2088,30-11-2022,434.8,Expense,Transport
+2089,30-11-2022,967.55,Expense,Salary
+2090,01-12-2022,144.76,Income,Entertainment
+2091,01-12-2022,445.2,Income,Transport
+2092,01-12-2022,815.64,Income,Transport
+2093,01-12-2022,979.94,Income,Entertainment
+2094,01-12-2022,770.27,Expense,Dining Out
+2095,02-12-2022,395.02,Expense,Car Maintenance
+2096,02-12-2022,677.91,Expense,Coffee
+2097,02-12-2022,825.93,Income,Entertainment
+2098,02-12-2022,249.54,Expense,Groceries
+2099,02-12-2022,187.93,Expense,Groceries
+2100,03-12-2022,467.41,Income,Transport
+2101,04-12-2022,521.53,Income,Rent
+2102,04-12-2022,221.05,Income,Transport
+2103,04-12-2022,316.07,Expense,Bonus
+2104,05-12-2022,416.42,Income,Movies
+2105,05-12-2022,122.97,Income,Car Maintenance
+2106,06-12-2022,879.13,Income,Rent
+2107,06-12-2022,285.04,Expense,Movies
+2108,06-12-2022,786.29,Income,Salary
+2109,06-12-2022,147.46,Income,Movies
+2110,07-12-2022,834.6,Expense,Dining Out
+2111,07-12-2022,441.32,Income,Dining Out
+2112,07-12-2022,502.03,Income,Shopping
+2113,07-12-2022,661.35,Expense,Rent
+2114,08-12-2022,927.92,Income,Subscriptions
+2115,08-12-2022,314.97,Expense,Shopping
+2116,08-12-2022,641.18,Expense,Freelance
+2117,08-12-2022,550.3,Income,Rent
+2118,09-12-2022,251.75,Expense,Movies
+2119,10-12-2022,546.35,Expense,Salary
+2120,10-12-2022,109.79,Expense,Transport
+2121,11-12-2022,282.78,Income,Interest
+2122,11-12-2022,541.29,Income,Car Maintenance
+2123,11-12-2022,580.72,Income,Entertainment
+2124,12-12-2022,762.62,Income,Rent
+2125,12-12-2022,734.33,Income,Salary
+2126,12-12-2022,271.8,Income,Internet Bill
+2127,12-12-2022,933.65,Expense,Bonus
+2128,13-12-2022,45.56,Expense,Freelance
+2129,13-12-2022,757.82,Expense,Utilities
+2130,13-12-2022,651.59,Expense,Rent
+2131,13-12-2022,796.58,Income,Dining Out
+2132,13-12-2022,707.48,Income,Car Maintenance
+2133,14-12-2022,414.91,Income,Coffee
+2134,14-12-2022,496.06,Expense,Interest
+2135,14-12-2022,487.91,Income,Utilities
+2136,14-12-2022,692.51,Expense,Freelance
+2137,14-12-2022,828.54,Expense,Internet Bill
+2138,15-12-2022,413.38,Income,Bonus
+2139,15-12-2022,693.13,Income,Transport
+2140,15-12-2022,924.28,Expense,Coffee
+2141,15-12-2022,731.6,Expense,Coffee
+2142,16-12-2022,372.01,Income,Interest
+2143,17-12-2022,575.05,Income,Groceries
+2144,17-12-2022,679.42,Expense,Subscriptions
+2145,18-12-2022,12.71,Expense,Movies
+2146,19-12-2022,987.85,Income,Bonus
+2147,19-12-2022,702.44,Income,Coffee
+2148,19-12-2022,515.81,Expense,Freelance
+2149,19-12-2022,833.14,Income,Groceries
+2150,20-12-2022,479.22,Expense,Entertainment
+2151,20-12-2022,82.07,Expense,Shopping
+2152,20-12-2022,984.01,Income,Movies
+2153,20-12-2022,757.89,Income,Movies
+2154,20-12-2022,434.6,Expense,Groceries
+2155,21-12-2022,871.7,Expense,Internet Bill
+2156,21-12-2022,802.32,Expense,Freelance
+2157,22-12-2022,354.68,Income,Bonus
+2158,22-12-2022,95.12,Expense,Movies
+2159,22-12-2022,805.36,Expense,Utilities
+2160,22-12-2022,174.79,Income,Groceries
+2161,23-12-2022,238.33,Income,Rent
+2162,23-12-2022,361.28,Income,Transport
+2163,23-12-2022,635.53,Income,Interest
+2164,23-12-2022,167.06,Expense,Rent
+2165,24-12-2022,404.72,Expense,Groceries
+2166,25-12-2022,726.23,Expense,Transport
+2167,25-12-2022,448.92,Income,Subscriptions
+2168,25-12-2022,550.25,Income,Interest
+2169,25-12-2022,313.83,Expense,Entertainment
+2170,25-12-2022,985.03,Expense,Rent
+2171,26-12-2022,383.35,Expense,Utilities
+2172,26-12-2022,779.74,Expense,Interest
+2173,26-12-2022,716.41,Expense,Transport
+2174,26-12-2022,924.7,Expense,Utilities
+2175,26-12-2022,16.09,Expense,Transport
+2176,27-12-2022,23.95,Expense,Internet Bill
+2177,27-12-2022,910.77,Expense,Movies
+2178,27-12-2022,551.89,Expense,Subscriptions
+2179,27-12-2022,271.62,Income,Shopping
+2180,28-12-2022,916.21,Income,Bonus
+2181,28-12-2022,65.42,Income,Subscriptions
+2182,28-12-2022,245.7,Income,Internet Bill
+2183,28-12-2022,155.83,Expense,Rent
+2184,29-12-2022,523.43,Income,Subscriptions
+2185,29-12-2022,410.58,Income,Utilities
+2186,29-12-2022,603.46,Expense,Utilities
+2187,29-12-2022,781.4,Expense,Transport
+2188,29-12-2022,648.96,Expense,Salary
+2189,30-12-2022,988.53,Expense,Bonus
+2190,30-12-2022,537.73,Income,Car Maintenance
+2191,30-12-2022,681.2,Expense,Subscriptions
+2192,31-12-2022,820.1,Income,Entertainment
+2193,01-01-2023,567.17,Expense,Car Maintenance
+2194,01-01-2023,640.52,Expense,Rent
+2195,02-01-2023,25.33,Expense,Coffee
+2196,03-01-2023,452.54,Income,Coffee
+2197,03-01-2023,374.71,Expense,Movies
+2198,03-01-2023,733.6,Income,Interest
+2199,04-01-2023,100.39,Income,Car Maintenance
+2200,04-01-2023,408.97,Expense,Freelance
+2201,04-01-2023,451.34,Expense,Shopping
+2202,04-01-2023,371.48,Income,Interest
+2203,04-01-2023,964.5,Income,Interest
+2204,05-01-2023,553.79,Income,Transport
+2205,05-01-2023,95.45,Income,Bonus
+2206,05-01-2023,243.85,Income,Transport
+2207,05-01-2023,214.91,Expense,Internet Bill
+2208,05-01-2023,912.73,Expense,Coffee
+2209,06-01-2023,435.6,Expense,Shopping
+2210,06-01-2023,130.04,Expense,Coffee
+2211,06-01-2023,315.29,Expense,Transport
+2212,06-01-2023,808.07,Expense,Interest
+2213,06-01-2023,194.3,Expense,Interest
+2214,07-01-2023,531.52,Income,Groceries
+2215,07-01-2023,14.65,Expense,Shopping
+2216,07-01-2023,230.56,Income,Groceries
+2217,07-01-2023,443.38,Expense,Rent
+2218,07-01-2023,680.69,Income,Bonus
+2219,08-01-2023,529.62,Income,Utilities
+2220,08-01-2023,712.22,Expense,Interest
+2221,09-01-2023,885.94,Expense,Bonus
+2222,09-01-2023,826.46,Income,Utilities
+2223,10-01-2023,932.47,Income,Car Maintenance
+2224,11-01-2023,207.35,Expense,Internet Bill
+2225,12-01-2023,507.83,Income,Dining Out
+2226,13-01-2023,750.61,Expense,Transport
+2227,13-01-2023,288.69,Expense,Groceries
+2228,13-01-2023,524.42,Expense,Dining Out
+2229,14-01-2023,113.01,Income,Interest
+2230,14-01-2023,505.01,Expense,Subscriptions
+2231,14-01-2023,733.08,Income,Subscriptions
+2232,15-01-2023,277.68,Expense,Car Maintenance
+2233,15-01-2023,994.64,Income,Transport
+2234,16-01-2023,934.44,Expense,Internet Bill
+2235,16-01-2023,21.37,Income,Interest
+2236,16-01-2023,271.34,Income,Coffee
+2237,16-01-2023,830.84,Income,Utilities
+2238,16-01-2023,45.98,Income,Subscriptions
+2239,17-01-2023,249.23,Expense,Transport
+2240,17-01-2023,471.36,Income,Bonus
+2241,17-01-2023,397.71,Expense,Transport
+2242,17-01-2023,958.98,Expense,Coffee
+2243,17-01-2023,842.57,Expense,Internet Bill
+2244,18-01-2023,950.38,Expense,Movies
+2245,18-01-2023,123.4,Income,Freelance
+2246,18-01-2023,672.48,Income,Internet Bill
+2247,18-01-2023,49.69,Expense,Transport
+2248,19-01-2023,343.3,Expense,Movies
+2249,19-01-2023,351.11,Expense,Dining Out
+2250,19-01-2023,323.25,Expense,Groceries
+2251,19-01-2023,563.52,Income,Coffee
+2252,19-01-2023,261.55,Expense,Car Maintenance
+2253,20-01-2023,669.04,Expense,Car Maintenance
+2254,20-01-2023,161.58,Expense,Subscriptions
+2255,20-01-2023,595.51,Expense,Transport
+2256,20-01-2023,424.55,Income,Car Maintenance
+2257,21-01-2023,743.53,Income,Bonus
+2258,22-01-2023,509.92,Expense,Shopping
+2259,22-01-2023,849.13,Expense,Entertainment
+2260,22-01-2023,762.6,Income,Car Maintenance
+2261,22-01-2023,901.53,Income,Entertainment
+2262,23-01-2023,140.3,Income,Rent
+2263,23-01-2023,248.32,Income,Movies
+2264,24-01-2023,320.7,Expense,Shopping
+2265,25-01-2023,265.84,Income,Movies
+2266,25-01-2023,654.22,Expense,Transport
+2267,25-01-2023,726.43,Expense,Dining Out
+2268,26-01-2023,229.21,Expense,Groceries
+2269,26-01-2023,130.87,Expense,Internet Bill
+2270,26-01-2023,458.32,Expense,Transport
+2271,26-01-2023,32.23,Income,Freelance
+2272,27-01-2023,403.79,Income,Internet Bill
+2273,27-01-2023,569.0,Expense,Movies
+2274,28-01-2023,129.7,Expense,Rent
+2275,28-01-2023,890.81,Expense,Bonus
+2276,29-01-2023,454.7,Expense,Interest
+2277,29-01-2023,97.59,Income,Entertainment
+2278,29-01-2023,846.86,Income,Car Maintenance
+2279,30-01-2023,204.96,Expense,Car Maintenance
+2280,30-01-2023,323.16,Income,Coffee
+2281,31-01-2023,562.67,Income,Subscriptions
+2282,31-01-2023,411.55,Income,Shopping
+2283,01-02-2023,410.32,Income,Salary
+2284,02-02-2023,404.38,Income,Car Maintenance
+2285,02-02-2023,867.06,Income,Utilities
+2286,02-02-2023,407.22,Expense,Utilities
+2287,03-02-2023,447.97,Income,Entertainment
+2288,04-02-2023,137.34,Expense,Groceries
+2289,04-02-2023,337.54,Income,Subscriptions
+2290,04-02-2023,224.82,Expense,Subscriptions
+2291,04-02-2023,605.76,Expense,Movies
+2292,04-02-2023,654.02,Income,Utilities
+2293,05-02-2023,328.03,Income,Coffee
+2294,05-02-2023,377.01,Income,Dining Out
+2295,05-02-2023,770.13,Income,Groceries
+2296,05-02-2023,492.83,Expense,Transport
+2297,06-02-2023,55.69,Income,Transport
+2298,06-02-2023,376.79,Income,Salary
+2299,06-02-2023,401.17,Expense,Salary
+2300,06-02-2023,121.37,Expense,Transport
+2301,06-02-2023,17.78,Income,Salary
+2302,07-02-2023,700.24,Income,Internet Bill
+2303,07-02-2023,922.54,Expense,Entertainment
+2304,07-02-2023,232.71,Income,Utilities
+2305,08-02-2023,733.16,Income,Movies
+2306,08-02-2023,17.35,Income,Movies
+2307,08-02-2023,39.14,Income,Interest
+2308,08-02-2023,753.32,Income,Rent
+2309,09-02-2023,208.96,Income,Coffee
+2310,09-02-2023,639.17,Income,Movies
+2311,09-02-2023,332.22,Expense,Car Maintenance
+2312,09-02-2023,512.85,Expense,Freelance
+2313,09-02-2023,161.71,Income,Subscriptions
+2314,10-02-2023,591.32,Expense,Entertainment
+2315,10-02-2023,268.26,Expense,Entertainment
+2316,10-02-2023,694.55,Income,Subscriptions
+2317,11-02-2023,653.33,Expense,Bonus
+2318,12-02-2023,699.04,Expense,Interest
+2319,12-02-2023,721.65,Expense,Freelance
+2320,12-02-2023,954.64,Expense,Entertainment
+2321,12-02-2023,524.27,Income,Salary
+2322,13-02-2023,767.28,Income,Transport
+2323,13-02-2023,640.02,Income,Subscriptions
+2324,13-02-2023,125.21,Income,Utilities
+2325,14-02-2023,937.67,Income,Coffee
+2326,14-02-2023,147.46,Income,Salary
+2327,14-02-2023,290.4,Income,Transport
+2328,15-02-2023,801.28,Expense,Entertainment
+2329,15-02-2023,748.96,Expense,Salary
+2330,15-02-2023,167.98,Expense,Salary
+2331,15-02-2023,262.17,Income,Subscriptions
+2332,16-02-2023,821.87,Income,Transport
+2333,16-02-2023,667.44,Expense,Car Maintenance
+2334,16-02-2023,732.94,Income,Shopping
+2335,16-02-2023,959.9,Income,Subscriptions
+2336,16-02-2023,255.36,Income,Car Maintenance
+2337,17-02-2023,209.68,Expense,Subscriptions
+2338,17-02-2023,389.83,Income,Subscriptions
+2339,17-02-2023,381.28,Expense,Bonus
+2340,17-02-2023,794.22,Expense,Car Maintenance
+2341,17-02-2023,815.11,Expense,Freelance
+2342,18-02-2023,704.35,Expense,Interest
+2343,18-02-2023,38.88,Expense,Utilities
+2344,18-02-2023,695.33,Expense,Interest
+2345,18-02-2023,86.05,Expense,Rent
+2346,19-02-2023,118.13,Income,Dining Out
+2347,20-02-2023,802.79,Expense,Coffee
+2348,20-02-2023,63.42,Income,Transport
+2349,20-02-2023,835.33,Income,Salary
+2350,20-02-2023,37.75,Expense,Salary
+2351,20-02-2023,378.98,Expense,Subscriptions
+2352,21-02-2023,263.63,Income,Groceries
+2353,22-02-2023,598.64,Expense,Salary
+2354,23-02-2023,994.26,Income,Bonus
+2355,23-02-2023,220.15,Income,Internet Bill
+2356,23-02-2023,995.87,Income,Shopping
+2357,23-02-2023,405.19,Expense,Shopping
+2358,23-02-2023,335.87,Income,Entertainment
+2359,24-02-2023,765.05,Income,Coffee
+2360,25-02-2023,947.68,Expense,Subscriptions
+2361,26-02-2023,15.01,Income,Transport
+2362,26-02-2023,912.18,Income,Utilities
+2363,26-02-2023,53.92,Income,Movies
+2364,27-02-2023,177.37,Expense,Car Maintenance
+2365,28-02-2023,575.12,Expense,Rent
+2366,28-02-2023,852.67,Income,Internet Bill
+2367,01-03-2023,56.75,Expense,Movies
+2368,02-03-2023,75.04,Expense,Transport
+2369,02-03-2023,420.57,Expense,Groceries
+2370,03-03-2023,415.82,Expense,Rent
+2371,03-03-2023,384.81,Income,Transport
+2372,04-03-2023,996.2,Income,Subscriptions
+2373,04-03-2023,688.17,Income,Car Maintenance
+2374,05-03-2023,569.57,Income,Salary
+2375,05-03-2023,730.57,Income,Rent
+2376,05-03-2023,337.87,Income,Internet Bill
+2377,06-03-2023,995.36,Expense,Entertainment
+2378,07-03-2023,42.87,Income,Coffee
+2379,07-03-2023,932.16,Income,Car Maintenance
+2380,08-03-2023,741.88,Expense,Shopping
+2381,08-03-2023,587.34,Income,Transport
+2382,09-03-2023,306.42,Expense,Transport
+2383,09-03-2023,878.65,Income,Rent
+2384,09-03-2023,701.87,Expense,Bonus
+2385,09-03-2023,585.31,Expense,Transport
+2386,10-03-2023,859.72,Expense,Internet Bill
+2387,10-03-2023,633.82,Expense,Groceries
+2388,11-03-2023,404.49,Expense,Coffee
+2389,11-03-2023,701.66,Income,Rent
+2390,12-03-2023,33.24,Expense,Coffee
+2391,12-03-2023,806.19,Expense,Subscriptions
+2392,12-03-2023,195.07,Income,Salary
+2393,12-03-2023,23.64,Income,Transport
+2394,13-03-2023,561.05,Income,Entertainment
+2395,14-03-2023,427.57,Expense,Car Maintenance
+2396,15-03-2023,387.92,Expense,Utilities
+2397,15-03-2023,955.85,Expense,Transport
+2398,16-03-2023,579.0,Income,Utilities
+2399,16-03-2023,36.0,Income,Interest
+2400,16-03-2023,310.35,Income,Salary
+2401,17-03-2023,349.66,Income,Dining Out
+2402,17-03-2023,65.73,Expense,Salary
+2403,17-03-2023,892.98,Income,Shopping
+2404,17-03-2023,667.6,Income,Shopping
+2405,18-03-2023,46.61,Income,Coffee
+2406,18-03-2023,626.91,Income,Shopping
+2407,18-03-2023,28.94,Income,Movies
+2408,18-03-2023,296.75,Income,Dining Out
+2409,18-03-2023,137.26,Income,Movies
+2410,19-03-2023,678.66,Expense,Transport
+2411,19-03-2023,27.41,Expense,Freelance
+2412,19-03-2023,711.41,Expense,Entertainment
+2413,20-03-2023,425.58,Expense,Movies
+2414,20-03-2023,399.81,Income,Bonus
+2415,20-03-2023,894.21,Income,Dining Out
+2416,20-03-2023,292.76,Income,Bonus
+2417,20-03-2023,686.57,Expense,Car Maintenance
+2418,21-03-2023,698.95,Income,Salary
+2419,21-03-2023,315.49,Expense,Utilities
+2420,22-03-2023,295.21,Income,Salary
+2421,22-03-2023,60.19,Expense,Shopping
+2422,22-03-2023,101.59,Income,Salary
+2423,23-03-2023,442.67,Income,Dining Out
+2424,23-03-2023,745.06,Expense,Utilities
+2425,23-03-2023,40.41,Expense,Subscriptions
+2426,23-03-2023,31.39,Income,Subscriptions
+2427,23-03-2023,710.01,Income,Internet Bill
+2428,24-03-2023,86.78,Expense,Movies
+2429,24-03-2023,194.42,Income,Car Maintenance
+2430,24-03-2023,783.18,Income,Movies
+2431,24-03-2023,958.76,Income,Interest
+2432,25-03-2023,855.39,Income,Freelance
+2433,26-03-2023,670.59,Expense,Shopping
+2434,27-03-2023,394.75,Income,Movies
+2435,27-03-2023,852.33,Income,Entertainment
+2436,27-03-2023,701.99,Expense,Groceries
+2437,27-03-2023,198.67,Income,Subscriptions
+2438,27-03-2023,97.82,Income,Movies
+2439,28-03-2023,653.65,Expense,Car Maintenance
+2440,28-03-2023,235.68,Income,Car Maintenance
+2441,28-03-2023,372.0,Expense,Coffee
+2442,28-03-2023,310.0,Expense,Entertainment
+2443,29-03-2023,677.16,Expense,Utilities
+2444,29-03-2023,727.37,Expense,Utilities
+2445,29-03-2023,118.33,Income,Shopping
+2446,30-03-2023,233.36,Income,Subscriptions
+2447,31-03-2023,50.79,Expense,Rent
+2448,31-03-2023,201.12,Income,Freelance
+2449,31-03-2023,173.76,Income,Utilities
+2450,31-03-2023,809.56,Expense,Dining Out
+2451,31-03-2023,657.15,Expense,Utilities
+2452,01-04-2023,705.43,Expense,Movies
+2453,02-04-2023,152.92,Income,Rent
+2454,02-04-2023,508.51,Expense,Internet Bill
+2455,03-04-2023,848.8,Income,Salary
+2456,03-04-2023,677.11,Income,Shopping
+2457,03-04-2023,194.74,Income,Coffee
+2458,03-04-2023,520.44,Expense,Movies
+2459,04-04-2023,329.28,Income,Internet Bill
+2460,04-04-2023,831.31,Income,Interest
+2461,05-04-2023,273.43,Expense,Shopping
+2462,06-04-2023,280.37,Expense,Shopping
+2463,06-04-2023,429.83,Expense,Subscriptions
+2464,06-04-2023,574.1,Expense,Car Maintenance
+2465,07-04-2023,566.95,Income,Car Maintenance
+2466,07-04-2023,118.34,Income,Rent
+2467,07-04-2023,687.15,Income,Freelance
+2468,07-04-2023,131.17,Expense,Subscriptions
+2469,07-04-2023,97.4,Income,Internet Bill
+2470,08-04-2023,507.35,Expense,Groceries
+2471,08-04-2023,295.43,Income,Car Maintenance
+2472,08-04-2023,612.04,Income,Utilities
+2473,08-04-2023,396.27,Income,Groceries
+2474,08-04-2023,202.59,Income,Entertainment
+2475,09-04-2023,492.72,Income,Internet Bill
+2476,10-04-2023,691.4,Income,Utilities
+2477,10-04-2023,896.72,Expense,Salary
+2478,10-04-2023,168.92,Income,Movies
+2479,10-04-2023,537.11,Expense,Groceries
+2480,11-04-2023,256.11,Expense,Movies
+2481,11-04-2023,970.74,Expense,Salary
+2482,11-04-2023,70.15,Income,Transport
+2483,12-04-2023,86.5,Expense,Interest
+2484,12-04-2023,72.61,Expense,Bonus
+2485,12-04-2023,858.53,Expense,Subscriptions
+2486,12-04-2023,941.12,Income,Entertainment
+2487,13-04-2023,582.74,Income,Internet Bill
+2488,13-04-2023,243.33,Income,Shopping
+2489,14-04-2023,747.74,Income,Salary
+2490,14-04-2023,893.22,Income,Shopping
+2491,14-04-2023,901.02,Expense,Interest
+2492,15-04-2023,293.42,Expense,Rent
+2493,15-04-2023,388.43,Expense,Utilities
+2494,15-04-2023,90.03,Income,Salary
+2495,15-04-2023,830.81,Expense,Salary
+2496,15-04-2023,112.89,Income,Salary
+2497,16-04-2023,32.31,Expense,Bonus
+2498,16-04-2023,954.57,Income,Bonus
+2499,16-04-2023,769.95,Expense,Interest
+2500,16-04-2023,774.34,Expense,Car Maintenance
+2501,17-04-2023,804.04,Expense,Subscriptions
+2502,18-04-2023,836.22,Expense,Interest
+2503,18-04-2023,184.76,Expense,Transport
+2504,18-04-2023,574.41,Expense,Shopping
+2505,18-04-2023,605.27,Income,Rent
+2506,19-04-2023,10.71,Expense,Dining Out
+2507,20-04-2023,782.97,Income,Shopping
+2508,21-04-2023,127.37,Income,Shopping
+2509,22-04-2023,41.97,Expense,Freelance
+2510,22-04-2023,894.98,Income,Movies
+2511,22-04-2023,438.63,Income,Internet Bill
+2512,23-04-2023,775.51,Expense,Transport
+2513,23-04-2023,421.7,Income,Internet Bill
+2514,23-04-2023,432.87,Income,Internet Bill
+2515,23-04-2023,285.36,Expense,Groceries
+2516,23-04-2023,817.58,Expense,Entertainment
+2517,24-04-2023,955.81,Expense,Shopping
+2518,24-04-2023,682.51,Income,Utilities
+2519,24-04-2023,819.07,Expense,Transport
+2520,25-04-2023,927.84,Income,Transport
+2521,26-04-2023,787.5,Expense,Subscriptions
+2522,27-04-2023,109.49,Income,Subscriptions
+2523,28-04-2023,630.74,Expense,Freelance
+2524,28-04-2023,793.23,Income,Freelance
+2525,29-04-2023,675.24,Expense,Car Maintenance
+2526,29-04-2023,740.7,Expense,Car Maintenance
+2527,29-04-2023,808.17,Income,Utilities
+2528,29-04-2023,419.98,Expense,Entertainment
+2529,30-04-2023,160.76,Income,Internet Bill
+2530,30-04-2023,188.0,Income,Salary
+2531,30-04-2023,650.73,Expense,Bonus
+2532,30-04-2023,468.3,Income,Car Maintenance
+2533,30-04-2023,460.77,Expense,Subscriptions
+2534,01-05-2023,70.42,Income,Coffee
+2535,01-05-2023,658.62,Income,Bonus
+2536,01-05-2023,898.52,Income,Salary
+2537,01-05-2023,833.65,Expense,Car Maintenance
+2538,02-05-2023,632.12,Income,Interest
+2539,02-05-2023,540.25,Income,Subscriptions
+2540,02-05-2023,617.69,Expense,Groceries
+2541,02-05-2023,960.53,Expense,Bonus
+2542,02-05-2023,829.74,Income,Car Maintenance
+2543,03-05-2023,61.88,Income,Internet Bill
+2544,03-05-2023,82.18,Income,Dining Out
+2545,04-05-2023,838.12,Expense,Coffee
+2546,04-05-2023,160.17,Income,Bonus
+2547,05-05-2023,166.73,Expense,Utilities
+2548,05-05-2023,521.79,Income,Coffee
+2549,05-05-2023,200.23,Expense,Shopping
+2550,05-05-2023,794.32,Expense,Internet Bill
+2551,06-05-2023,351.33,Expense,Salary
+2552,06-05-2023,841.57,Expense,Entertainment
+2553,06-05-2023,347.8,Expense,Movies
+2554,07-05-2023,343.94,Expense,Utilities
+2555,07-05-2023,886.68,Income,Internet Bill
+2556,08-05-2023,916.57,Income,Groceries
+2557,08-05-2023,187.24,Income,Salary
+2558,08-05-2023,130.47,Expense,Utilities
+2559,08-05-2023,790.75,Income,Freelance
+2560,09-05-2023,270.49,Income,Internet Bill
+2561,09-05-2023,87.21,Expense,Movies
+2562,10-05-2023,468.53,Income,Shopping
+2563,10-05-2023,677.51,Income,Dining Out
+2564,10-05-2023,98.04,Expense,Coffee
+2565,10-05-2023,994.09,Income,Utilities
+2566,10-05-2023,255.01,Expense,Car Maintenance
+2567,11-05-2023,703.41,Income,Groceries
+2568,11-05-2023,125.94,Income,Salary
+2569,11-05-2023,999.23,Expense,Groceries
+2570,12-05-2023,462.62,Expense,Freelance
+2571,12-05-2023,897.2,Income,Entertainment
+2572,12-05-2023,315.81,Expense,Subscriptions
+2573,12-05-2023,795.4,Expense,Transport
+2574,12-05-2023,224.55,Income,Movies
+2575,13-05-2023,988.08,Expense,Groceries
+2576,13-05-2023,314.49,Expense,Groceries
+2577,13-05-2023,893.79,Expense,Dining Out
+2578,13-05-2023,238.01,Expense,Dining Out
+2579,14-05-2023,648.94,Income,Utilities
+2580,14-05-2023,819.7,Income,Rent
+2581,14-05-2023,922.0,Expense,Utilities
+2582,14-05-2023,220.83,Expense,Car Maintenance
+2583,15-05-2023,557.8,Expense,Subscriptions
+2584,15-05-2023,260.04,Expense,Entertainment
+2585,15-05-2023,935.26,Income,Groceries
+2586,15-05-2023,961.91,Expense,Bonus
+2587,16-05-2023,674.15,Income,Movies
+2588,16-05-2023,866.06,Income,Internet Bill
+2589,17-05-2023,833.58,Income,Shopping
+2590,18-05-2023,248.02,Income,Dining Out
+2591,18-05-2023,266.52,Income,Subscriptions
+2592,18-05-2023,691.26,Income,Internet Bill
+2593,18-05-2023,29.61,Expense,Rent
+2594,19-05-2023,25.8,Expense,Subscriptions
+2595,19-05-2023,67.96,Expense,Shopping
+2596,20-05-2023,20.77,Expense,Shopping
+2597,21-05-2023,394.18,Income,Groceries
+2598,21-05-2023,574.69,Income,Rent
+2599,22-05-2023,277.75,Income,Freelance
+2600,23-05-2023,238.48,Expense,Freelance
+2601,23-05-2023,815.92,Expense,Salary
+2602,23-05-2023,328.79,Income,Freelance
+2603,24-05-2023,701.71,Income,Entertainment
+2604,24-05-2023,578.53,Expense,Dining Out
+2605,24-05-2023,956.31,Expense,Car Maintenance
+2606,24-05-2023,257.29,Income,Coffee
+2607,25-05-2023,180.99,Expense,Interest
+2608,25-05-2023,79.09,Expense,Interest
+2609,26-05-2023,638.63,Expense,Movies
+2610,26-05-2023,313.62,Expense,Dining Out
+2611,26-05-2023,472.34,Income,Movies
+2612,26-05-2023,780.89,Income,Utilities
+2613,27-05-2023,227.29,Income,Movies
+2614,27-05-2023,721.12,Expense,Entertainment
+2615,27-05-2023,700.64,Expense,Transport
+2616,27-05-2023,592.02,Expense,Dining Out
+2617,27-05-2023,345.76,Income,Groceries
+2618,28-05-2023,776.52,Expense,Utilities
+2619,28-05-2023,741.53,Expense,Subscriptions
+2620,28-05-2023,479.33,Income,Dining Out
+2621,28-05-2023,154.12,Income,Interest
+2622,29-05-2023,169.4,Income,Coffee
+2623,30-05-2023,197.26,Income,Rent
+2624,31-05-2023,92.19,Expense,Salary
+2625,31-05-2023,806.31,Expense,Freelance
+2626,31-05-2023,567.84,Expense,Internet Bill
+2627,01-06-2023,835.15,Expense,Movies
+2628,01-06-2023,249.99,Income,Internet Bill
+2629,01-06-2023,860.1,Income,Salary
+2630,02-06-2023,884.48,Expense,Car Maintenance
+2631,02-06-2023,710.16,Expense,Bonus
+2632,02-06-2023,536.62,Expense,Entertainment
+2633,02-06-2023,614.22,Expense,Coffee
+2634,03-06-2023,695.65,Income,Entertainment
+2635,03-06-2023,942.87,Expense,Coffee
+2636,03-06-2023,90.63,Income,Shopping
+2637,03-06-2023,473.34,Income,Bonus
+2638,04-06-2023,149.99,Income,Utilities
+2639,04-06-2023,441.78,Income,Car Maintenance
+2640,04-06-2023,404.89,Income,Entertainment
+2641,04-06-2023,264.22,Income,Movies
+2642,05-06-2023,761.11,Income,Subscriptions
+2643,05-06-2023,774.27,Expense,Coffee
+2644,05-06-2023,169.02,Expense,Dining Out
+2645,05-06-2023,96.18,Income,Movies
+2646,06-06-2023,65.79,Expense,Dining Out
+2647,07-06-2023,675.4,Expense,Utilities
+2648,07-06-2023,524.7,Income,Bonus
+2649,07-06-2023,488.46,Income,Car Maintenance
+2650,08-06-2023,842.34,Expense,Transport
+2651,09-06-2023,238.18,Income,Bonus
+2652,09-06-2023,814.98,Income,Coffee
+2653,09-06-2023,146.55,Expense,Bonus
+2654,09-06-2023,856.31,Income,Coffee
+2655,09-06-2023,109.02,Income,Interest
+2656,10-06-2023,437.89,Income,Rent
+2657,10-06-2023,406.75,Income,Salary
+2658,10-06-2023,502.21,Expense,Entertainment
+2659,10-06-2023,476.3,Income,Coffee
+2660,10-06-2023,977.0,Income,Transport
+2661,11-06-2023,423.88,Expense,Subscriptions
+2662,11-06-2023,372.2,Expense,Car Maintenance
+2663,11-06-2023,716.8,Expense,Utilities
+2664,12-06-2023,856.66,Income,Entertainment
+2665,12-06-2023,348.61,Income,Salary
+2666,12-06-2023,454.79,Income,Rent
+2667,12-06-2023,375.33,Income,Transport
+2668,12-06-2023,808.18,Expense,Transport
+2669,13-06-2023,112.29,Expense,Car Maintenance
+2670,13-06-2023,657.42,Expense,Rent
+2671,13-06-2023,433.36,Expense,Utilities
+2672,13-06-2023,379.85,Expense,Coffee
+2673,13-06-2023,348.19,Expense,Movies
+2674,14-06-2023,459.92,Income,Transport
+2675,14-06-2023,526.49,Expense,Interest
+2676,15-06-2023,246.07,Income,Salary
+2677,15-06-2023,334.11,Income,Shopping
+2678,15-06-2023,192.16,Expense,Interest
+2679,15-06-2023,971.86,Expense,Groceries
+2680,16-06-2023,199.59,Expense,Utilities
+2681,17-06-2023,57.9,Income,Groceries
+2682,17-06-2023,818.64,Expense,Utilities
+2683,17-06-2023,441.3,Income,Coffee
+2684,18-06-2023,638.01,Income,Groceries
+2685,18-06-2023,441.75,Expense,Rent
+2686,18-06-2023,601.65,Income,Car Maintenance
+2687,18-06-2023,113.97,Income,Shopping
+2688,19-06-2023,964.42,Income,Utilities
+2689,20-06-2023,160.91,Income,Interest
+2690,20-06-2023,162.71,Expense,Car Maintenance
+2691,20-06-2023,56.16,Expense,Rent
+2692,21-06-2023,686.46,Expense,Subscriptions
+2693,21-06-2023,73.25,Expense,Utilities
+2694,21-06-2023,148.18,Expense,Transport
+2695,22-06-2023,587.77,Expense,Bonus
+2696,23-06-2023,518.6,Income,Internet Bill
+2697,24-06-2023,652.27,Expense,Subscriptions
+2698,24-06-2023,176.59,Expense,Movies
+2699,25-06-2023,660.34,Income,Freelance
+2700,25-06-2023,32.46,Income,Freelance
+2701,26-06-2023,618.94,Income,Salary
+2702,26-06-2023,848.83,Income,Utilities
+2703,26-06-2023,304.32,Income,Shopping
+2704,26-06-2023,29.62,Expense,Entertainment
+2705,26-06-2023,766.0,Expense,Groceries
+2706,27-06-2023,130.32,Expense,Subscriptions
+2707,28-06-2023,829.43,Expense,Transport
+2708,28-06-2023,572.32,Income,Subscriptions
+2709,28-06-2023,99.31,Income,Shopping
+2710,29-06-2023,944.23,Expense,Transport
+2711,29-06-2023,897.04,Expense,Entertainment
+2712,29-06-2023,626.87,Income,Rent
+2713,29-06-2023,427.08,Expense,Movies
+2714,29-06-2023,468.9,Income,Interest
+2715,30-06-2023,169.28,Expense,Transport
+2716,30-06-2023,400.39,Expense,Interest
+2717,30-06-2023,153.16,Expense,Salary
+2718,30-06-2023,681.75,Expense,Car Maintenance
+2719,01-07-2023,196.16,Expense,Coffee
+2720,02-07-2023,671.52,Expense,Bonus
+2721,02-07-2023,707.49,Expense,Shopping
+2722,02-07-2023,99.3,Income,Subscriptions
+2723,02-07-2023,332.58,Expense,Dining Out
+2724,03-07-2023,597.56,Income,Transport
+2725,03-07-2023,198.69,Income,Salary
+2726,03-07-2023,573.67,Expense,Utilities
+2727,04-07-2023,719.55,Expense,Entertainment
+2728,05-07-2023,741.48,Expense,Movies
+2729,05-07-2023,230.51,Expense,Interest
+2730,05-07-2023,74.63,Expense,Rent
+2731,05-07-2023,162.51,Expense,Freelance
+2732,06-07-2023,71.21,Income,Salary
+2733,06-07-2023,480.61,Expense,Dining Out
+2734,07-07-2023,840.28,Expense,Bonus
+2735,07-07-2023,660.27,Income,Rent
+2736,07-07-2023,740.76,Income,Movies
+2737,07-07-2023,321.98,Income,Utilities
+2738,08-07-2023,820.19,Income,Salary
+2739,09-07-2023,632.91,Income,Rent
+2740,09-07-2023,965.6,Income,Interest
+2741,09-07-2023,289.02,Income,Shopping
+2742,09-07-2023,239.09,Expense,Interest
+2743,09-07-2023,511.49,Expense,Internet Bill
+2744,10-07-2023,122.87,Expense,Shopping
+2745,10-07-2023,309.04,Income,Coffee
+2746,10-07-2023,897.22,Expense,Transport
+2747,10-07-2023,220.76,Expense,Groceries
+2748,11-07-2023,606.59,Income,Bonus
+2749,11-07-2023,484.01,Income,Dining Out
+2750,11-07-2023,328.75,Income,Rent
+2751,12-07-2023,324.3,Income,Entertainment
+2752,12-07-2023,273.41,Expense,Bonus
+2753,12-07-2023,730.54,Income,Transport
+2754,12-07-2023,680.18,Income,Groceries
+2755,12-07-2023,450.76,Income,Salary
+2756,13-07-2023,530.04,Income,Freelance
+2757,13-07-2023,212.4,Expense,Car Maintenance
+2758,14-07-2023,705.79,Income,Movies
+2759,14-07-2023,666.75,Income,Subscriptions
+2760,15-07-2023,513.07,Expense,Entertainment
+2761,15-07-2023,749.86,Expense,Movies
+2762,15-07-2023,240.18,Income,Entertainment
+2763,15-07-2023,727.91,Expense,Groceries
+2764,16-07-2023,403.28,Income,Groceries
+2765,16-07-2023,893.66,Income,Bonus
+2766,16-07-2023,145.62,Expense,Freelance
+2767,17-07-2023,567.31,Income,Freelance
+2768,17-07-2023,658.92,Expense,Internet Bill
+2769,17-07-2023,330.37,Income,Interest
+2770,17-07-2023,470.58,Expense,Transport
+2771,18-07-2023,129.16,Income,Salary
+2772,18-07-2023,206.48,Income,Bonus
+2773,19-07-2023,678.62,Expense,Freelance
+2774,19-07-2023,561.11,Expense,Transport
+2775,19-07-2023,242.79,Income,Coffee
+2776,19-07-2023,167.13,Income,Bonus
+2777,20-07-2023,738.67,Income,Bonus
+2778,20-07-2023,418.5,Expense,Rent
+2779,20-07-2023,240.8,Expense,Entertainment
+2780,20-07-2023,687.24,Expense,Car Maintenance
+2781,21-07-2023,55.63,Income,Freelance
+2782,21-07-2023,128.88,Income,Internet Bill
+2783,22-07-2023,392.22,Expense,Salary
+2784,22-07-2023,726.33,Income,Salary
+2785,22-07-2023,949.46,Expense,Freelance
+2786,23-07-2023,880.99,Expense,Groceries
+2787,23-07-2023,327.08,Expense,Rent
+2788,23-07-2023,22.83,Expense,Freelance
+2789,23-07-2023,34.45,Expense,Interest
+2790,24-07-2023,185.56,Income,Car Maintenance
+2791,24-07-2023,177.6,Income,Groceries
+2792,24-07-2023,831.87,Income,Transport
+2793,25-07-2023,664.44,Expense,Dining Out
+2794,25-07-2023,295.66,Income,Internet Bill
+2795,25-07-2023,887.86,Income,Subscriptions
+2796,26-07-2023,531.77,Income,Dining Out
+2797,26-07-2023,374.15,Income,Coffee
+2798,26-07-2023,750.04,Expense,Subscriptions
+2799,26-07-2023,188.02,Expense,Salary
+2800,27-07-2023,298.79,Expense,Coffee
+2801,27-07-2023,774.64,Income,Salary
+2802,27-07-2023,588.45,Income,Freelance
+2803,28-07-2023,189.28,Income,Internet Bill
+2804,28-07-2023,247.04,Expense,Internet Bill
+2805,28-07-2023,813.16,Expense,Interest
+2806,28-07-2023,28.0,Income,Utilities
+2807,28-07-2023,706.17,Expense,Freelance
+2808,29-07-2023,939.35,Income,Groceries
+2809,29-07-2023,426.47,Expense,Bonus
+2810,30-07-2023,473.8,Income,Rent
+2811,30-07-2023,203.49,Income,Freelance
+2812,31-07-2023,986.15,Expense,Dining Out
+2813,31-07-2023,496.78,Expense,Car Maintenance
+2814,01-08-2023,624.11,Expense,Freelance
+2815,01-08-2023,833.99,Income,Subscriptions
+2816,01-08-2023,432.16,Expense,Rent
+2817,02-08-2023,398.02,Income,Transport
+2818,02-08-2023,497.78,Expense,Rent
+2819,02-08-2023,423.02,Income,Freelance
+2820,03-08-2023,56.08,Income,Coffee
+2821,03-08-2023,691.2,Expense,Transport
+2822,04-08-2023,810.94,Income,Rent
+2823,04-08-2023,218.06,Income,Bonus
+2824,05-08-2023,494.49,Income,Rent
+2825,05-08-2023,552.08,Income,Utilities
+2826,05-08-2023,367.63,Income,Transport
+2827,05-08-2023,716.83,Expense,Transport
+2828,06-08-2023,970.37,Expense,Utilities
+2829,07-08-2023,764.49,Income,Entertainment
+2830,08-08-2023,595.82,Income,Coffee
+2831,09-08-2023,482.15,Expense,Salary
+2832,09-08-2023,370.1,Expense,Entertainment
+2833,09-08-2023,66.92,Income,Rent
+2834,09-08-2023,912.01,Income,Subscriptions
+2835,09-08-2023,435.24,Expense,Rent
+2836,10-08-2023,561.69,Expense,Shopping
+2837,10-08-2023,888.39,Income,Entertainment
+2838,10-08-2023,467.6,Income,Interest
+2839,10-08-2023,125.1,Income,Dining Out
+2840,11-08-2023,871.63,Expense,Movies
+2841,11-08-2023,459.0,Expense,Movies
+2842,12-08-2023,535.48,Income,Entertainment
+2843,12-08-2023,493.22,Expense,Dining Out
+2844,12-08-2023,482.99,Income,Utilities
+2845,13-08-2023,289.51,Expense,Internet Bill
+2846,13-08-2023,980.09,Income,Shopping
+2847,13-08-2023,265.27,Income,Movies
+2848,13-08-2023,499.48,Income,Bonus
+2849,14-08-2023,261.06,Income,Bonus
+2850,14-08-2023,82.43,Income,Dining Out
+2851,14-08-2023,24.22,Income,Freelance
+2852,14-08-2023,857.57,Income,Salary
+2853,14-08-2023,833.99,Expense,Bonus
+2854,15-08-2023,219.31,Income,Transport
+2855,15-08-2023,754.53,Expense,Internet Bill
+2856,15-08-2023,235.69,Income,Dining Out
+2857,15-08-2023,90.06,Income,Utilities
+2858,15-08-2023,890.07,Expense,Rent
+2859,16-08-2023,304.09,Expense,Shopping
+2860,16-08-2023,348.08,Expense,Shopping
+2861,17-08-2023,428.03,Expense,Internet Bill
+2862,17-08-2023,81.59,Expense,Salary
+2863,18-08-2023,482.45,Expense,Bonus
+2864,18-08-2023,872.34,Income,Rent
+2865,18-08-2023,417.42,Expense,Transport
+2866,18-08-2023,799.65,Expense,Shopping
+2867,18-08-2023,951.78,Expense,Dining Out
+2868,19-08-2023,250.95,Expense,Movies
+2869,19-08-2023,422.92,Expense,Shopping
+2870,19-08-2023,683.11,Expense,Subscriptions
+2871,20-08-2023,454.35,Expense,Rent
+2872,20-08-2023,430.95,Income,Bonus
+2873,20-08-2023,198.19,Expense,Interest
+2874,20-08-2023,924.4,Expense,Transport
+2875,20-08-2023,996.17,Income,Dining Out
+2876,21-08-2023,411.39,Income,Car Maintenance
+2877,21-08-2023,924.67,Income,Subscriptions
+2878,22-08-2023,573.24,Expense,Salary
+2879,23-08-2023,149.94,Expense,Transport
+2880,23-08-2023,218.53,Income,Movies
+2881,23-08-2023,178.77,Expense,Coffee
+2882,23-08-2023,292.06,Income,Car Maintenance
+2883,24-08-2023,49.75,Expense,Transport
+2884,24-08-2023,821.03,Expense,Rent
+2885,24-08-2023,619.95,Income,Internet Bill
+2886,25-08-2023,195.88,Income,Entertainment
+2887,25-08-2023,317.54,Income,Utilities
+2888,25-08-2023,763.58,Expense,Groceries
+2889,25-08-2023,438.79,Income,Bonus
+2890,26-08-2023,456.57,Expense,Entertainment
+2891,26-08-2023,806.47,Expense,Car Maintenance
+2892,27-08-2023,643.37,Income,Interest
+2893,27-08-2023,382.06,Income,Interest
+2894,27-08-2023,576.06,Income,Groceries
+2895,28-08-2023,558.28,Expense,Internet Bill
+2896,28-08-2023,733.75,Income,Freelance
+2897,29-08-2023,904.59,Income,Dining Out
+2898,30-08-2023,385.51,Expense,Movies
+2899,30-08-2023,636.67,Income,Subscriptions
+2900,31-08-2023,397.37,Expense,Entertainment
+2901,01-09-2023,373.7,Income,Dining Out
+2902,01-09-2023,949.31,Income,Dining Out
+2903,01-09-2023,618.56,Income,Freelance
+2904,02-09-2023,312.81,Expense,Internet Bill
+2905,02-09-2023,639.6,Income,Shopping
+2906,03-09-2023,549.23,Expense,Car Maintenance
+2907,03-09-2023,428.57,Income,Bonus
+2908,03-09-2023,372.4,Income,Utilities
+2909,03-09-2023,807.34,Income,Rent
+2910,03-09-2023,864.24,Income,Shopping
+2911,04-09-2023,429.65,Income,Shopping
+2912,05-09-2023,444.0,Income,Dining Out
+2913,05-09-2023,408.11,Income,Car Maintenance
+2914,05-09-2023,586.57,Income,Groceries
+2915,05-09-2023,618.66,Income,Movies
+2916,06-09-2023,567.83,Income,Transport
+2917,06-09-2023,337.85,Income,Car Maintenance
+2918,07-09-2023,678.12,Expense,Salary
+2919,08-09-2023,684.63,Expense,Subscriptions
+2920,09-09-2023,528.86,Income,Coffee
+2921,09-09-2023,10.76,Expense,Transport
+2922,10-09-2023,297.64,Income,Car Maintenance
+2923,10-09-2023,687.44,Expense,Groceries
+2924,10-09-2023,100.61,Expense,Dining Out
+2925,10-09-2023,895.72,Income,Subscriptions
+2926,10-09-2023,173.65,Income,Salary
+2927,11-09-2023,72.5,Expense,Utilities
+2928,11-09-2023,729.74,Expense,Rent
+2929,12-09-2023,146.07,Expense,Utilities
+2930,12-09-2023,880.84,Expense,Entertainment
+2931,12-09-2023,323.64,Expense,Utilities
+2932,12-09-2023,657.59,Expense,Coffee
+2933,12-09-2023,150.46,Expense,Utilities
+2934,13-09-2023,807.26,Expense,Rent
+2935,13-09-2023,259.65,Expense,Movies
+2936,13-09-2023,505.59,Expense,Dining Out
+2937,14-09-2023,975.02,Income,Bonus
+2938,14-09-2023,180.65,Income,Internet Bill
+2939,14-09-2023,245.69,Expense,Salary
+2940,15-09-2023,199.7,Income,Salary
+2941,15-09-2023,671.18,Expense,Bonus
+2942,16-09-2023,390.73,Income,Groceries
+2943,17-09-2023,536.68,Expense,Subscriptions
+2944,17-09-2023,578.34,Income,Freelance
+2945,17-09-2023,792.94,Income,Movies
+2946,17-09-2023,686.26,Income,Freelance
+2947,18-09-2023,776.46,Expense,Utilities
+2948,18-09-2023,779.93,Expense,Transport
+2949,18-09-2023,553.78,Expense,Coffee
+2950,18-09-2023,223.09,Expense,Bonus
+2951,18-09-2023,367.65,Expense,Subscriptions
+2952,19-09-2023,942.53,Expense,Coffee
+2953,19-09-2023,892.29,Income,Entertainment
+2954,19-09-2023,654.38,Expense,Transport
+2955,19-09-2023,903.55,Income,Entertainment
+2956,19-09-2023,198.46,Expense,Transport
+2957,20-09-2023,275.33,Expense,Shopping
+2958,20-09-2023,916.13,Expense,Entertainment
+2959,21-09-2023,822.04,Expense,Subscriptions
+2960,21-09-2023,737.8,Income,Bonus
+2961,22-09-2023,422.87,Expense,Rent
+2962,22-09-2023,887.15,Income,Bonus
+2963,22-09-2023,290.26,Income,Internet Bill
+2964,23-09-2023,835.55,Expense,Interest
+2965,23-09-2023,863.7,Income,Bonus
+2966,23-09-2023,340.95,Income,Transport
+2967,23-09-2023,876.63,Income,Dining Out
+2968,24-09-2023,38.93,Income,Transport
+2969,24-09-2023,772.05,Income,Interest
+2970,24-09-2023,908.53,Income,Internet Bill
+2971,24-09-2023,297.25,Income,Bonus
+2972,24-09-2023,367.87,Expense,Groceries
+2973,25-09-2023,546.54,Expense,Subscriptions
+2974,26-09-2023,770.45,Expense,Movies
+2975,27-09-2023,987.42,Expense,Rent
+2976,27-09-2023,269.11,Income,Utilities
+2977,28-09-2023,28.46,Income,Shopping
+2978,29-09-2023,194.18,Income,Subscriptions
+2979,29-09-2023,451.37,Expense,Bonus
+2980,29-09-2023,980.21,Income,Salary
+2981,29-09-2023,963.61,Income,Entertainment
+2982,30-09-2023,406.59,Expense,Movies
+2983,30-09-2023,297.57,Income,Groceries
+2984,30-09-2023,854.17,Expense,Movies
+2985,30-09-2023,966.2,Income,Transport
+2986,01-10-2023,340.45,Income,Movies
+2987,02-10-2023,909.3,Expense,Movies
+2988,03-10-2023,554.43,Income,Bonus
+2989,03-10-2023,202.98,Expense,Rent
+2990,04-10-2023,961.02,Expense,Internet Bill
+2991,04-10-2023,689.28,Expense,Entertainment
+2992,04-10-2023,199.89,Income,Freelance
+2993,04-10-2023,467.9,Expense,Freelance
+2994,05-10-2023,868.8,Income,Groceries
+2995,05-10-2023,937.54,Expense,Subscriptions
+2996,05-10-2023,675.99,Expense,Shopping
+2997,06-10-2023,920.43,Expense,Internet Bill
+2998,07-10-2023,398.73,Income,Car Maintenance
+2999,07-10-2023,818.55,Expense,Bonus
+3000,07-10-2023,327.0,Income,Movies
+3001,07-10-2023,503.31,Expense,Rent
+3002,07-10-2023,666.71,Expense,Car Maintenance
+3003,08-10-2023,609.37,Income,Utilities
+3004,08-10-2023,980.53,Income,Interest
+3005,08-10-2023,280.41,Income,Rent
+3006,09-10-2023,144.07,Expense,Interest
+3007,10-10-2023,672.16,Expense,Car Maintenance
+3008,11-10-2023,213.74,Expense,Car Maintenance
+3009,11-10-2023,50.87,Expense,Entertainment
+3010,11-10-2023,411.14,Expense,Internet Bill
+3011,12-10-2023,62.68,Income,Movies
+3012,12-10-2023,791.97,Expense,Transport
+3013,12-10-2023,589.56,Expense,Freelance
+3014,13-10-2023,49.11,Expense,Groceries
+3015,14-10-2023,333.1,Expense,Coffee
+3016,14-10-2023,654.1,Expense,Dining Out
+3017,15-10-2023,105.14,Income,Shopping
+3018,16-10-2023,726.47,Income,Car Maintenance
+3019,17-10-2023,968.23,Expense,Salary
+3020,17-10-2023,605.22,Expense,Salary
+3021,17-10-2023,408.29,Income,Freelance
+3022,18-10-2023,347.83,Expense,Subscriptions
+3023,18-10-2023,646.19,Income,Interest
+3024,18-10-2023,583.64,Income,Transport
+3025,18-10-2023,613.48,Income,Shopping
+3026,19-10-2023,105.69,Income,Subscriptions
+3027,19-10-2023,156.82,Expense,Dining Out
+3028,20-10-2023,648.64,Income,Shopping
+3029,21-10-2023,364.9,Expense,Subscriptions
+3030,21-10-2023,341.01,Income,Freelance
+3031,22-10-2023,767.37,Income,Salary
+3032,22-10-2023,520.74,Income,Entertainment
+3033,23-10-2023,768.66,Expense,Transport
+3034,23-10-2023,588.96,Expense,Bonus
+3035,24-10-2023,932.88,Income,Utilities
+3036,24-10-2023,200.3,Income,Groceries
+3037,25-10-2023,966.46,Expense,Rent
+3038,26-10-2023,241.28,Expense,Dining Out
+3039,27-10-2023,748.62,Expense,Dining Out
+3040,28-10-2023,351.93,Expense,Transport
+3041,28-10-2023,177.99,Expense,Dining Out
+3042,28-10-2023,425.89,Income,Groceries
+3043,28-10-2023,176.86,Expense,Shopping
+3044,29-10-2023,972.28,Expense,Salary
+3045,30-10-2023,526.55,Income,Coffee
+3046,30-10-2023,421.49,Income,Bonus
+3047,30-10-2023,573.74,Income,Rent
+3048,30-10-2023,102.1,Income,Shopping
+3049,31-10-2023,648.25,Income,Interest
+3050,31-10-2023,687.39,Expense,Transport
+3051,31-10-2023,828.76,Expense,Rent
+3052,31-10-2023,786.37,Expense,Shopping
+3053,01-11-2023,762.23,Income,Groceries
+3054,01-11-2023,284.05,Income,Salary
+3055,02-11-2023,719.36,Expense,Coffee
+3056,02-11-2023,729.94,Income,Utilities
+3057,02-11-2023,305.26,Expense,Dining Out
+3058,03-11-2023,156.81,Income,Dining Out
+3059,03-11-2023,899.25,Income,Bonus
+3060,03-11-2023,953.3,Income,Transport
+3061,03-11-2023,945.37,Income,Utilities
+3062,04-11-2023,594.58,Income,Interest
+3063,04-11-2023,25.18,Expense,Dining Out
+3064,04-11-2023,900.82,Income,Groceries
+3065,04-11-2023,536.14,Income,Internet Bill
+3066,04-11-2023,163.41,Income,Subscriptions
+3067,05-11-2023,322.71,Income,Coffee
+3068,05-11-2023,66.02,Income,Bonus
+3069,05-11-2023,715.76,Income,Groceries
+3070,05-11-2023,482.78,Income,Movies
+3071,05-11-2023,19.33,Income,Bonus
+3072,06-11-2023,392.59,Income,Transport
+3073,06-11-2023,625.88,Expense,Subscriptions
+3074,07-11-2023,485.03,Expense,Bonus
+3075,07-11-2023,705.91,Expense,Shopping
+3076,07-11-2023,426.94,Expense,Utilities
+3077,08-11-2023,989.19,Expense,Groceries
+3078,08-11-2023,82.26,Income,Freelance
+3079,08-11-2023,470.28,Income,Groceries
+3080,08-11-2023,902.67,Expense,Internet Bill
+3081,09-11-2023,680.98,Income,Dining Out
+3082,09-11-2023,692.51,Income,Shopping
+3083,09-11-2023,562.79,Income,Transport
+3084,09-11-2023,809.36,Expense,Rent
+3085,09-11-2023,569.66,Expense,Movies
+3086,10-11-2023,229.62,Expense,Dining Out
+3087,11-11-2023,918.17,Income,Salary
+3088,11-11-2023,514.0,Expense,Internet Bill
+3089,11-11-2023,974.18,Expense,Salary
+3090,11-11-2023,165.07,Expense,Transport
+3091,12-11-2023,471.81,Expense,Bonus
+3092,12-11-2023,883.48,Income,Subscriptions
+3093,12-11-2023,949.97,Expense,Movies
+3094,13-11-2023,48.96,Income,Movies
+3095,13-11-2023,195.45,Expense,Entertainment
+3096,13-11-2023,311.02,Expense,Dining Out
+3097,13-11-2023,861.49,Income,Subscriptions
+3098,13-11-2023,458.93,Expense,Coffee
+3099,14-11-2023,946.77,Expense,Car Maintenance
+3100,15-11-2023,390.13,Expense,Freelance
+3101,15-11-2023,532.21,Expense,Bonus
+3102,15-11-2023,267.6,Expense,Entertainment
+3103,15-11-2023,667.45,Income,Car Maintenance
+3104,16-11-2023,559.07,Expense,Bonus
+3105,17-11-2023,403.5,Income,Shopping
+3106,17-11-2023,708.59,Expense,Transport
+3107,18-11-2023,421.53,Income,Rent
+3108,18-11-2023,408.14,Expense,Entertainment
+3109,18-11-2023,700.61,Income,Groceries
+3110,18-11-2023,539.44,Expense,Dining Out
+3111,18-11-2023,353.41,Expense,Salary
+3112,19-11-2023,620.12,Income,Groceries
+3113,19-11-2023,418.95,Expense,Salary
+3114,19-11-2023,207.9,Income,Coffee
+3115,20-11-2023,334.51,Expense,Coffee
+3116,21-11-2023,591.81,Income,Internet Bill
+3117,21-11-2023,393.94,Expense,Coffee
+3118,21-11-2023,787.95,Expense,Coffee
+3119,21-11-2023,270.1,Expense,Movies
+3120,22-11-2023,135.1,Expense,Movies
+3121,22-11-2023,543.43,Income,Groceries
+3122,22-11-2023,30.92,Expense,Internet Bill
+3123,22-11-2023,746.16,Expense,Bonus
+3124,22-11-2023,41.85,Expense,Entertainment
+3125,23-11-2023,496.93,Expense,Entertainment
+3126,24-11-2023,72.65,Expense,Internet Bill
+3127,24-11-2023,470.68,Expense,Transport
+3128,24-11-2023,305.44,Income,Entertainment
+3129,25-11-2023,974.32,Income,Internet Bill
+3130,26-11-2023,487.54,Expense,Movies
+3131,26-11-2023,319.08,Expense,Salary
+3132,26-11-2023,410.32,Income,Internet Bill
+3133,27-11-2023,175.11,Income,Rent
+3134,28-11-2023,892.29,Income,Transport
+3135,28-11-2023,660.63,Expense,Groceries
+3136,28-11-2023,378.02,Expense,Groceries
+3137,28-11-2023,89.03,Income,Entertainment
+3138,29-11-2023,875.44,Income,Interest
+3139,29-11-2023,325.75,Income,Internet Bill
+3140,29-11-2023,414.8,Expense,Entertainment
+3141,30-11-2023,650.12,Expense,Bonus
+3142,30-11-2023,276.57,Income,Groceries
+3143,30-11-2023,381.71,Income,Freelance
+3144,30-11-2023,513.94,Expense,Car Maintenance
+3145,30-11-2023,820.92,Expense,Interest
+3146,01-12-2023,597.27,Income,Bonus
+3147,01-12-2023,891.43,Income,Dining Out
+3148,01-12-2023,554.43,Expense,Entertainment
+3149,01-12-2023,697.88,Income,Bonus
+3150,01-12-2023,775.52,Expense,Subscriptions
+3151,02-12-2023,652.44,Income,Car Maintenance
+3152,02-12-2023,691.23,Expense,Subscriptions
+3153,03-12-2023,96.72,Expense,Dining Out
+3154,03-12-2023,508.4,Income,Salary
+3155,03-12-2023,263.16,Income,Utilities
+3156,04-12-2023,949.53,Expense,Salary
+3157,04-12-2023,425.02,Income,Subscriptions
+3158,04-12-2023,651.75,Expense,Subscriptions
+3159,05-12-2023,159.34,Expense,Coffee
+3160,05-12-2023,180.94,Income,Movies
+3161,05-12-2023,243.88,Income,Utilities
+3162,05-12-2023,597.32,Income,Groceries
+3163,06-12-2023,857.55,Expense,Interest
+3164,06-12-2023,170.5,Expense,Dining Out
+3165,06-12-2023,749.44,Income,Coffee
+3166,06-12-2023,781.89,Income,Movies
+3167,06-12-2023,121.27,Income,Subscriptions
+3168,07-12-2023,790.56,Income,Shopping
+3169,07-12-2023,173.88,Income,Bonus
+3170,08-12-2023,123.17,Expense,Transport
+3171,08-12-2023,806.44,Income,Internet Bill
+3172,08-12-2023,151.51,Expense,Subscriptions
+3173,08-12-2023,701.1,Income,Car Maintenance
+3174,08-12-2023,557.62,Income,Groceries
+3175,09-12-2023,238.45,Expense,Movies
+3176,10-12-2023,335.11,Expense,Shopping
+3177,10-12-2023,360.52,Expense,Dining Out
+3178,10-12-2023,143.99,Income,Subscriptions
+3179,10-12-2023,244.12,Income,Utilities
+3180,10-12-2023,643.87,Income,Car Maintenance
+3181,11-12-2023,513.12,Expense,Movies
+3182,12-12-2023,967.06,Expense,Coffee
+3183,12-12-2023,893.79,Income,Subscriptions
+3184,13-12-2023,993.17,Income,Transport
+3185,14-12-2023,102.78,Expense,Car Maintenance
+3186,14-12-2023,130.15,Expense,Entertainment
+3187,15-12-2023,818.77,Expense,Transport
+3188,16-12-2023,486.58,Expense,Entertainment
+3189,17-12-2023,531.25,Expense,Movies
+3190,17-12-2023,213.89,Expense,Subscriptions
+3191,18-12-2023,10.3,Expense,Interest
+3192,18-12-2023,998.43,Expense,Groceries
+3193,19-12-2023,669.99,Income,Rent
+3194,19-12-2023,266.45,Expense,Dining Out
+3195,20-12-2023,142.04,Income,Transport
+3196,20-12-2023,358.33,Income,Freelance
+3197,21-12-2023,734.25,Expense,Subscriptions
+3198,21-12-2023,453.22,Income,Internet Bill
+3199,21-12-2023,640.17,Income,Bonus
+3200,22-12-2023,529.65,Income,Movies
+3201,23-12-2023,31.37,Income,Entertainment
+3202,23-12-2023,77.1,Expense,Shopping
+3203,23-12-2023,910.43,Income,Interest
+3204,23-12-2023,178.53,Income,Car Maintenance
+3205,23-12-2023,23.8,Income,Utilities
+3206,24-12-2023,386.03,Income,Groceries
+3207,24-12-2023,53.06,Expense,Internet Bill
+3208,24-12-2023,473.45,Expense,Bonus
+3209,24-12-2023,176.2,Income,Interest
+3210,25-12-2023,350.11,Income,Rent
+3211,26-12-2023,414.02,Income,Coffee
+3212,26-12-2023,665.5,Expense,Entertainment
+3213,27-12-2023,342.35,Expense,Subscriptions
+3214,27-12-2023,896.75,Expense,Utilities
+3215,28-12-2023,870.68,Expense,Utilities
+3216,28-12-2023,464.62,Income,Rent
+3217,29-12-2023,650.17,Income,Utilities
+3218,30-12-2023,650.95,Income,Transport
+3219,30-12-2023,832.28,Income,Car Maintenance
+3220,30-12-2023,305.62,Expense,Dining Out
+3221,30-12-2023,544.03,Expense,Salary
+3222,30-12-2023,680.14,Income,Transport
+3223,31-12-2023,810.0,Expense,Shopping
+3224,01-01-2024,819.89,Expense,Coffee
+3225,01-01-2024,351.36,Income,Groceries
+3226,01-01-2024,904.77,Expense,Interest
+3227,02-01-2024,849.6,Expense,Movies
+3228,02-01-2024,728.12,Income,Subscriptions
+3229,03-01-2024,504.58,Expense,Coffee
+3230,03-01-2024,572.04,Expense,Coffee
+3231,03-01-2024,96.3,Expense,Salary
+3232,03-01-2024,568.28,Income,Subscriptions
+3233,03-01-2024,826.42,Expense,Salary
+3234,04-01-2024,189.03,Income,Rent
+3235,04-01-2024,174.92,Expense,Groceries
+3236,05-01-2024,181.7,Expense,Dining Out
+3237,05-01-2024,198.84,Expense,Car Maintenance
+3238,05-01-2024,375.65,Expense,Subscriptions
+3239,05-01-2024,173.59,Income,Coffee
+3240,06-01-2024,742.08,Income,Subscriptions
+3241,06-01-2024,596.9,Expense,Entertainment
+3242,06-01-2024,50.81,Expense,Freelance
+3243,06-01-2024,833.22,Expense,Bonus
+3244,06-01-2024,799.46,Expense,Groceries
+3245,07-01-2024,741.61,Expense,Groceries
+3246,07-01-2024,857.8,Expense,Coffee
+3247,07-01-2024,171.59,Expense,Utilities
+3248,08-01-2024,424.75,Income,Movies
+3249,08-01-2024,470.66,Expense,Utilities
+3250,08-01-2024,282.82,Income,Dining Out
+3251,08-01-2024,345.68,Income,Freelance
+3252,09-01-2024,140.19,Expense,Movies
+3253,09-01-2024,342.84,Income,Entertainment
+3254,09-01-2024,277.98,Expense,Dining Out
+3255,09-01-2024,636.2,Expense,Salary
+3256,09-01-2024,707.88,Expense,Groceries
+3257,10-01-2024,634.13,Income,Entertainment
+3258,10-01-2024,135.55,Expense,Bonus
+3259,10-01-2024,966.94,Income,Shopping
+3260,10-01-2024,264.75,Income,Salary
+3261,10-01-2024,20.87,Income,Entertainment
+3262,11-01-2024,657.39,Expense,Interest
+3263,11-01-2024,478.82,Income,Bonus
+3264,11-01-2024,761.27,Expense,Rent
+3265,11-01-2024,133.33,Income,Car Maintenance
+3266,11-01-2024,940.3,Expense,Shopping
+3267,12-01-2024,711.69,Expense,Freelance
+3268,13-01-2024,297.17,Expense,Shopping
+3269,13-01-2024,649.11,Expense,Bonus
+3270,13-01-2024,788.98,Income,Car Maintenance
+3271,13-01-2024,826.1,Income,Utilities
+3272,14-01-2024,245.79,Income,Shopping
+3273,14-01-2024,413.5,Expense,Dining Out
+3274,14-01-2024,97.83,Income,Bonus
+3275,14-01-2024,592.66,Expense,Dining Out
+3276,14-01-2024,467.73,Income,Utilities
+3277,15-01-2024,766.79,Income,Interest
+3278,15-01-2024,831.28,Income,Subscriptions
+3279,15-01-2024,180.02,Expense,Utilities
+3280,16-01-2024,241.19,Expense,Subscriptions
+3281,17-01-2024,504.08,Income,Subscriptions
+3282,17-01-2024,794.61,Expense,Movies
+3283,17-01-2024,737.81,Income,Freelance
+3284,18-01-2024,407.09,Income,Utilities
+3285,18-01-2024,336.6,Expense,Shopping
+3286,18-01-2024,314.72,Income,Transport
+3287,18-01-2024,160.85,Expense,Movies
+3288,19-01-2024,408.27,Expense,Interest
+3289,19-01-2024,509.04,Income,Coffee
+3290,19-01-2024,647.16,Expense,Entertainment
+3291,19-01-2024,620.45,Income,Car Maintenance
+3292,20-01-2024,709.03,Expense,Transport
+3293,21-01-2024,982.22,Expense,Subscriptions
+3294,21-01-2024,870.38,Expense,Interest
+3295,22-01-2024,165.24,Expense,Car Maintenance
+3296,22-01-2024,316.2,Expense,Salary
+3297,22-01-2024,106.46,Income,Internet Bill
+3298,22-01-2024,970.84,Expense,Salary
+3299,23-01-2024,874.08,Expense,Bonus
+3300,23-01-2024,279.72,Income,Salary
+3301,23-01-2024,821.14,Income,Internet Bill
+3302,23-01-2024,418.73,Income,Interest
+3303,24-01-2024,70.65,Expense,Utilities
+3304,24-01-2024,383.53,Expense,Interest
+3305,24-01-2024,614.9,Expense,Freelance
+3306,24-01-2024,18.69,Income,Dining Out
+3307,24-01-2024,562.35,Expense,Transport
+3308,25-01-2024,608.24,Income,Car Maintenance
+3309,25-01-2024,685.21,Expense,Subscriptions
+3310,26-01-2024,466.22,Expense,Groceries
+3311,26-01-2024,707.58,Expense,Transport
+3312,27-01-2024,721.93,Expense,Shopping
+3313,27-01-2024,147.6,Income,Dining Out
+3314,27-01-2024,305.19,Expense,Transport
+3315,28-01-2024,559.95,Expense,Subscriptions
+3316,28-01-2024,769.62,Income,Transport
+3317,28-01-2024,565.42,Income,Entertainment
+3318,28-01-2024,686.47,Expense,Shopping
+3319,29-01-2024,605.74,Income,Bonus
+3320,30-01-2024,470.68,Income,Interest
+3321,30-01-2024,492.24,Income,Movies
+3322,31-01-2024,502.64,Expense,Movies
+3323,01-02-2024,624.96,Income,Internet Bill
+3324,01-02-2024,147.33,Income,Groceries
+3325,01-02-2024,539.95,Expense,Groceries
+3326,01-02-2024,261.23,Income,Subscriptions
+3327,01-02-2024,385.43,Income,Transport
+3328,02-02-2024,839.88,Income,Coffee
+3329,02-02-2024,707.99,Income,Utilities
+3330,03-02-2024,495.01,Expense,Shopping
+3331,03-02-2024,462.4,Income,Utilities
+3332,03-02-2024,76.94,Income,Freelance
+3333,03-02-2024,902.56,Income,Interest
+3334,04-02-2024,401.61,Income,Internet Bill
+3335,04-02-2024,249.63,Expense,Groceries
+3336,04-02-2024,590.98,Income,Interest
+3337,04-02-2024,229.81,Expense,Salary
+3338,04-02-2024,18.26,Expense,Salary
+3339,05-02-2024,922.33,Income,Rent
+3340,05-02-2024,533.77,Income,Coffee
+3341,05-02-2024,38.74,Income,Interest
+3342,05-02-2024,94.47,Income,Subscriptions
+3343,06-02-2024,862.86,Income,Dining Out
+3344,06-02-2024,905.77,Income,Internet Bill
+3345,06-02-2024,681.8,Income,Freelance
+3346,06-02-2024,536.03,Income,Entertainment
+3347,07-02-2024,592.64,Income,Utilities
+3348,07-02-2024,361.9,Income,Subscriptions
+3349,08-02-2024,606.02,Expense,Shopping
+3350,08-02-2024,174.81,Expense,Dining Out
+3351,08-02-2024,964.4,Expense,Coffee
+3352,08-02-2024,663.66,Income,Internet Bill
+3353,08-02-2024,126.64,Income,Rent
+3354,09-02-2024,560.79,Expense,Rent
+3355,09-02-2024,912.76,Income,Entertainment
+3356,10-02-2024,890.52,Income,Freelance
+3357,10-02-2024,174.45,Income,Groceries
+3358,10-02-2024,924.18,Expense,Groceries
+3359,10-02-2024,361.26,Expense,Subscriptions
+3360,10-02-2024,197.34,Income,Bonus
+3361,11-02-2024,608.32,Income,Transport
+3362,11-02-2024,249.36,Expense,Utilities
+3363,12-02-2024,295.31,Income,Interest
+3364,12-02-2024,576.78,Expense,Shopping
+3365,13-02-2024,708.46,Income,Movies
+3366,14-02-2024,965.38,Expense,Shopping
+3367,15-02-2024,262.25,Expense,Shopping
+3368,15-02-2024,604.05,Expense,Rent
+3369,16-02-2024,726.69,Income,Movies
+3370,16-02-2024,278.26,Expense,Dining Out
+3371,16-02-2024,471.85,Expense,Shopping
+3372,17-02-2024,27.38,Income,Rent
+3373,17-02-2024,823.85,Income,Car Maintenance
+3374,17-02-2024,663.62,Expense,Groceries
+3375,18-02-2024,749.71,Income,Utilities
+3376,18-02-2024,446.12,Expense,Groceries
+3377,18-02-2024,998.79,Income,Shopping
+3378,19-02-2024,35.68,Expense,Transport
+3379,20-02-2024,130.41,Income,Entertainment
+3380,20-02-2024,956.11,Income,Bonus
+3381,21-02-2024,271.89,Expense,Groceries
+3382,21-02-2024,670.96,Expense,Freelance
+3383,21-02-2024,560.75,Expense,Interest
+3384,21-02-2024,84.39,Expense,Internet Bill
+3385,21-02-2024,147.89,Expense,Interest
+3386,22-02-2024,178.1,Expense,Transport
+3387,22-02-2024,326.88,Income,Freelance
+3388,22-02-2024,138.73,Income,Internet Bill
+3389,22-02-2024,89.72,Expense,Groceries
+3390,23-02-2024,531.15,Income,Movies
+3391,24-02-2024,304.99,Income,Bonus
+3392,24-02-2024,342.16,Expense,Coffee
+3393,24-02-2024,482.19,Expense,Utilities
+3394,24-02-2024,771.48,Expense,Coffee
+3395,24-02-2024,914.62,Income,Dining Out
+3396,25-02-2024,421.89,Expense,Freelance
+3397,26-02-2024,842.09,Expense,Groceries
+3398,26-02-2024,567.77,Income,Dining Out
+3399,26-02-2024,182.46,Income,Internet Bill
+3400,27-02-2024,736.73,Expense,Entertainment
+3401,28-02-2024,413.4,Income,Bonus
+3402,28-02-2024,102.37,Income,Utilities
+3403,29-02-2024,104.9,Expense,Movies
+3404,01-03-2024,401.43,Expense,Utilities
+3405,01-03-2024,806.52,Income,Entertainment
+3406,01-03-2024,879.99,Income,Shopping
+3407,02-03-2024,465.47,Expense,Transport
+3408,02-03-2024,497.85,Expense,Dining Out
+3409,03-03-2024,903.03,Income,Bonus
+3410,03-03-2024,528.71,Income,Movies
+3411,03-03-2024,240.09,Expense,Rent
+3412,03-03-2024,324.17,Income,Entertainment
+3413,04-03-2024,33.5,Expense,Internet Bill
+3414,04-03-2024,918.29,Income,Movies
+3415,04-03-2024,374.48,Expense,Transport
+3416,04-03-2024,809.29,Income,Shopping
+3417,04-03-2024,565.62,Expense,Car Maintenance
+3418,05-03-2024,250.03,Expense,Rent
+3419,06-03-2024,793.36,Expense,Groceries
+3420,06-03-2024,108.69,Expense,Utilities
+3421,06-03-2024,154.81,Income,Movies
+3422,06-03-2024,424.82,Income,Bonus
+3423,07-03-2024,305.7,Income,Coffee
+3424,07-03-2024,195.81,Expense,Movies
+3425,07-03-2024,341.71,Expense,Dining Out
+3426,07-03-2024,64.54,Expense,Internet Bill
+3427,07-03-2024,620.46,Income,Bonus
+3428,08-03-2024,21.0,Expense,Entertainment
+3429,08-03-2024,390.92,Income,Movies
+3430,09-03-2024,551.99,Income,Internet Bill
+3431,09-03-2024,506.99,Income,Shopping
+3432,09-03-2024,437.9,Income,Salary
+3433,09-03-2024,762.02,Expense,Groceries
+3434,10-03-2024,868.98,Income,Interest
+3435,10-03-2024,826.99,Income,Internet Bill
+3436,10-03-2024,322.98,Income,Coffee
+3437,10-03-2024,909.86,Income,Shopping
+3438,11-03-2024,973.75,Income,Internet Bill
+3439,11-03-2024,866.27,Expense,Shopping
+3440,11-03-2024,314.54,Expense,Interest
+3441,12-03-2024,137.32,Expense,Subscriptions
+3442,13-03-2024,848.03,Income,Dining Out
+3443,13-03-2024,742.54,Expense,Shopping
+3444,14-03-2024,266.12,Expense,Subscriptions
+3445,14-03-2024,520.78,Expense,Car Maintenance
+3446,15-03-2024,897.25,Income,Interest
+3447,16-03-2024,600.57,Income,Groceries
+3448,17-03-2024,631.68,Income,Entertainment
+3449,17-03-2024,397.71,Income,Freelance
+3450,17-03-2024,243.56,Income,Shopping
+3451,18-03-2024,294.38,Income,Transport
+3452,18-03-2024,728.13,Income,Subscriptions
+3453,18-03-2024,98.15,Expense,Car Maintenance
+3454,18-03-2024,312.28,Income,Bonus
+3455,19-03-2024,470.64,Income,Transport
+3456,19-03-2024,162.88,Expense,Transport
+3457,20-03-2024,201.26,Income,Bonus
+3458,20-03-2024,379.41,Expense,Entertainment
+3459,20-03-2024,27.12,Income,Bonus
+3460,21-03-2024,428.25,Expense,Car Maintenance
+3461,21-03-2024,368.89,Income,Shopping
+3462,21-03-2024,907.44,Expense,Utilities
+3463,21-03-2024,625.95,Expense,Bonus
+3464,22-03-2024,914.12,Expense,Salary
+3465,22-03-2024,547.51,Income,Salary
+3466,23-03-2024,787.08,Expense,Coffee
+3467,23-03-2024,831.05,Income,Shopping
+3468,23-03-2024,920.08,Expense,Car Maintenance
+3469,23-03-2024,741.16,Income,Bonus
+3470,23-03-2024,326.46,Income,Coffee
+3471,24-03-2024,244.13,Income,Utilities
+3472,24-03-2024,351.06,Expense,Dining Out
+3473,25-03-2024,460.9,Expense,Rent
+3474,25-03-2024,828.49,Expense,Entertainment
+3475,25-03-2024,620.34,Expense,Bonus
+3476,26-03-2024,626.81,Income,Rent
+3477,26-03-2024,454.86,Expense,Dining Out
+3478,26-03-2024,241.94,Income,Car Maintenance
+3479,26-03-2024,608.81,Expense,Internet Bill
+3480,27-03-2024,531.94,Expense,Transport
+3481,27-03-2024,555.84,Income,Shopping
+3482,27-03-2024,412.1,Expense,Dining Out
+3483,27-03-2024,774.36,Expense,Bonus
+3484,27-03-2024,27.28,Expense,Shopping
+3485,28-03-2024,634.24,Expense,Dining Out
+3486,29-03-2024,457.16,Income,Bonus
+3487,29-03-2024,957.79,Expense,Interest
+3488,29-03-2024,484.97,Income,Internet Bill
+3489,30-03-2024,79.84,Income,Salary
+3490,30-03-2024,956.18,Expense,Salary
+3491,30-03-2024,836.97,Income,Internet Bill
+3492,31-03-2024,813.37,Income,Rent
+3493,31-03-2024,402.04,Expense,Internet Bill
+3494,31-03-2024,431.1,Expense,Shopping
+3495,31-03-2024,114.4,Expense,Subscriptions
+3496,31-03-2024,387.96,Expense,Subscriptions
+3497,01-04-2024,28.23,Expense,Salary
+3498,01-04-2024,594.56,Income,Transport
+3499,02-04-2024,236.8,Income,Interest
+3500,02-04-2024,489.26,Expense,Groceries
+3501,02-04-2024,781.0,Expense,Dining Out
+3502,02-04-2024,159.65,Expense,Car Maintenance
+3503,03-04-2024,89.41,Income,Rent
+3504,03-04-2024,184.6,Income,Transport
+3505,03-04-2024,342.88,Expense,Salary
+3506,04-04-2024,731.62,Income,Car Maintenance
+3507,05-04-2024,664.39,Income,Interest
+3508,05-04-2024,877.02,Income,Shopping
+3509,06-04-2024,135.65,Income,Subscriptions
+3510,06-04-2024,677.53,Income,Utilities
+3511,07-04-2024,776.07,Expense,Groceries
+3512,07-04-2024,113.13,Income,Bonus
+3513,07-04-2024,940.06,Income,Interest
+3514,07-04-2024,98.59,Income,Subscriptions
+3515,07-04-2024,946.2,Expense,Freelance
+3516,08-04-2024,137.38,Income,Utilities
+3517,09-04-2024,768.43,Income,Bonus
+3518,09-04-2024,490.77,Expense,Subscriptions
+3519,10-04-2024,294.3,Income,Subscriptions
+3520,11-04-2024,912.84,Expense,Groceries
+3521,12-04-2024,397.85,Income,Transport
+3522,12-04-2024,107.11,Expense,Interest
+3523,12-04-2024,924.9,Income,Utilities
+3524,12-04-2024,492.97,Income,Freelance
+3525,12-04-2024,652.4,Income,Bonus
+3526,13-04-2024,12.96,Income,Subscriptions
+3527,13-04-2024,849.84,Income,Freelance
+3528,13-04-2024,646.51,Income,Entertainment
+3529,13-04-2024,879.51,Expense,Groceries
+3530,14-04-2024,445.13,Income,Movies
+3531,14-04-2024,725.26,Expense,Entertainment
+3532,14-04-2024,914.31,Expense,Shopping
+3533,14-04-2024,159.07,Expense,Utilities
+3534,15-04-2024,378.54,Expense,Subscriptions
+3535,15-04-2024,710.22,Income,Interest
+3536,16-04-2024,88.2,Income,Transport
+3537,16-04-2024,349.96,Income,Groceries
+3538,16-04-2024,460.94,Income,Bonus
+3539,16-04-2024,51.95,Income,Utilities
+3540,17-04-2024,728.64,Income,Entertainment
+3541,18-04-2024,61.88,Income,Entertainment
+3542,19-04-2024,211.89,Income,Utilities
+3543,20-04-2024,833.7,Income,Groceries
+3544,20-04-2024,160.61,Expense,Rent
+3545,20-04-2024,974.01,Income,Utilities
+3546,20-04-2024,907.68,Income,Car Maintenance
+3547,21-04-2024,343.49,Expense,Bonus
+3548,21-04-2024,449.33,Expense,Movies
+3549,21-04-2024,155.44,Income,Freelance
+3550,21-04-2024,745.87,Income,Rent
+3551,21-04-2024,60.37,Expense,Salary
+3552,22-04-2024,561.35,Income,Salary
+3553,22-04-2024,246.37,Income,Interest
+3554,22-04-2024,102.9,Income,Coffee
+3555,23-04-2024,451.92,Income,Dining Out
+3556,24-04-2024,591.52,Expense,Bonus
+3557,24-04-2024,264.57,Expense,Coffee
+3558,24-04-2024,177.15,Income,Entertainment
+3559,25-04-2024,540.14,Income,Utilities
+3560,25-04-2024,629.76,Expense,Car Maintenance
+3561,25-04-2024,349.66,Income,Entertainment
+3562,25-04-2024,550.59,Income,Utilities
+3563,26-04-2024,279.85,Income,Transport
+3564,26-04-2024,566.88,Income,Interest
+3565,27-04-2024,824.86,Income,Car Maintenance
+3566,27-04-2024,368.08,Expense,Rent
+3567,27-04-2024,227.25,Income,Internet Bill
+3568,28-04-2024,209.48,Expense,Salary
+3569,28-04-2024,46.98,Expense,Internet Bill
+3570,28-04-2024,217.44,Expense,Subscriptions
+3571,29-04-2024,518.44,Income,Subscriptions
+3572,30-04-2024,402.52,Income,Shopping
+3573,30-04-2024,550.15,Expense,Rent
+3574,30-04-2024,929.19,Income,Movies
+3575,01-05-2024,756.41,Income,Entertainment
+3576,01-05-2024,425.95,Income,Groceries
+3577,02-05-2024,172.05,Expense,Groceries
+3578,02-05-2024,742.11,Income,Dining Out
+3579,02-05-2024,435.11,Income,Shopping
+3580,02-05-2024,925.28,Income,Utilities
+3581,03-05-2024,376.63,Income,Subscriptions
+3582,04-05-2024,763.92,Expense,Coffee
+3583,05-05-2024,205.75,Income,Freelance
+3584,05-05-2024,40.02,Expense,Coffee
+3585,05-05-2024,521.2,Expense,Shopping
+3586,05-05-2024,961.98,Expense,Interest
+3587,06-05-2024,609.51,Income,Bonus
+3588,07-05-2024,758.97,Expense,Groceries
+3589,07-05-2024,410.22,Income,Interest
+3590,08-05-2024,128.86,Expense,Shopping
+3591,08-05-2024,846.31,Income,Groceries
+3592,08-05-2024,286.01,Income,Bonus
+3593,08-05-2024,973.24,Expense,Subscriptions
+3594,09-05-2024,941.52,Expense,Coffee
+3595,09-05-2024,77.14,Expense,Car Maintenance
+3596,09-05-2024,636.21,Expense,Internet Bill
+3597,09-05-2024,73.87,Income,Freelance
+3598,10-05-2024,862.94,Income,Freelance
+3599,11-05-2024,653.13,Expense,Car Maintenance
+3600,11-05-2024,167.05,Income,Dining Out
+3601,11-05-2024,612.5,Expense,Internet Bill
+3602,12-05-2024,779.8,Income,Transport
+3603,12-05-2024,25.57,Expense,Subscriptions
+3604,12-05-2024,614.77,Expense,Dining Out
+3605,13-05-2024,383.49,Income,Entertainment
+3606,13-05-2024,185.92,Income,Shopping
+3607,14-05-2024,749.29,Income,Shopping
+3608,14-05-2024,372.35,Expense,Entertainment
+3609,15-05-2024,560.16,Income,Coffee
+3610,15-05-2024,718.2,Expense,Shopping
+3611,15-05-2024,101.17,Income,Transport
+3612,15-05-2024,739.61,Income,Transport
+3613,15-05-2024,325.69,Expense,Movies
+3614,16-05-2024,420.46,Income,Salary
+3615,16-05-2024,955.11,Expense,Rent
+3616,16-05-2024,151.69,Income,Salary
+3617,16-05-2024,769.56,Expense,Transport
+3618,17-05-2024,862.14,Income,Movies
+3619,17-05-2024,37.27,Income,Coffee
+3620,17-05-2024,894.13,Income,Dining Out
+3621,18-05-2024,392.52,Expense,Car Maintenance
+3622,18-05-2024,84.91,Expense,Interest
+3623,18-05-2024,123.85,Expense,Freelance
+3624,18-05-2024,905.01,Expense,Groceries
+3625,18-05-2024,558.34,Income,Utilities
+3626,19-05-2024,478.28,Expense,Bonus
+3627,19-05-2024,166.29,Income,Freelance
+3628,19-05-2024,788.8,Expense,Utilities
+3629,19-05-2024,661.78,Expense,Subscriptions
+3630,19-05-2024,210.84,Income,Dining Out
+3631,20-05-2024,869.81,Income,Rent
+3632,20-05-2024,739.66,Income,Utilities
+3633,20-05-2024,383.27,Income,Coffee
+3634,20-05-2024,923.27,Income,Car Maintenance
+3635,21-05-2024,624.57,Expense,Freelance
+3636,21-05-2024,781.68,Income,Freelance
+3637,22-05-2024,53.3,Income,Shopping
+3638,22-05-2024,873.06,Income,Groceries
+3639,22-05-2024,330.44,Expense,Subscriptions
+3640,22-05-2024,316.78,Expense,Movies
+3641,22-05-2024,798.67,Expense,Car Maintenance
+3642,23-05-2024,383.15,Income,Transport
+3643,23-05-2024,71.92,Income,Coffee
+3644,23-05-2024,889.15,Expense,Car Maintenance
+3645,24-05-2024,300.66,Income,Interest
+3646,24-05-2024,881.38,Expense,Dining Out
+3647,25-05-2024,457.87,Expense,Interest
+3648,26-05-2024,482.69,Expense,Car Maintenance
+3649,27-05-2024,858.23,Income,Freelance
+3650,27-05-2024,863.33,Expense,Utilities
+3651,27-05-2024,473.23,Income,Dining Out
+3652,28-05-2024,588.94,Income,Entertainment
+3653,28-05-2024,95.0,Income,Bonus
+3654,28-05-2024,671.13,Income,Salary
+3655,28-05-2024,557.51,Expense,Movies
+3656,29-05-2024,243.36,Income,Internet Bill
+3657,29-05-2024,978.1,Expense,Bonus
+3658,29-05-2024,720.11,Income,Interest
+3659,30-05-2024,737.9,Income,Coffee
+3660,30-05-2024,537.45,Expense,Subscriptions
+3661,30-05-2024,590.26,Income,Utilities
+3662,30-05-2024,468.01,Income,Entertainment
+3663,31-05-2024,998.59,Expense,Subscriptions
+3664,31-05-2024,131.36,Expense,Internet Bill
+3665,31-05-2024,963.49,Expense,Dining Out
+3666,01-06-2024,791.41,Income,Internet Bill
+3667,01-06-2024,863.5,Expense,Rent
+3668,02-06-2024,850.68,Expense,Freelance
+3669,03-06-2024,743.06,Expense,Shopping
+3670,03-06-2024,840.8,Expense,Rent
+3671,03-06-2024,574.78,Income,Interest
+3672,03-06-2024,854.87,Income,Utilities
+3673,04-06-2024,227.79,Expense,Entertainment
+3674,05-06-2024,400.7,Income,Rent
+3675,05-06-2024,134.06,Income,Dining Out
+3676,05-06-2024,473.71,Expense,Interest
+3677,05-06-2024,299.95,Expense,Bonus
+3678,06-06-2024,890.81,Expense,Rent
+3679,07-06-2024,338.77,Expense,Interest
+3680,07-06-2024,618.59,Expense,Internet Bill
+3681,07-06-2024,333.39,Income,Car Maintenance
+3682,08-06-2024,749.41,Income,Movies
+3683,09-06-2024,635.38,Expense,Shopping
+3684,10-06-2024,925.8,Income,Salary
+3685,10-06-2024,375.06,Income,Groceries
+3686,11-06-2024,386.15,Expense,Bonus
+3687,11-06-2024,404.37,Expense,Bonus
+3688,11-06-2024,231.0,Expense,Rent
+3689,11-06-2024,447.79,Expense,Internet Bill
+3690,12-06-2024,493.71,Income,Subscriptions
+3691,12-06-2024,894.12,Income,Internet Bill
+3692,12-06-2024,781.54,Expense,Freelance
+3693,13-06-2024,504.07,Income,Dining Out
+3694,13-06-2024,554.11,Income,Internet Bill
+3695,14-06-2024,177.39,Expense,Subscriptions
+3696,14-06-2024,51.46,Income,Car Maintenance
+3697,14-06-2024,804.32,Expense,Internet Bill
+3698,15-06-2024,820.27,Expense,Bonus
+3699,15-06-2024,11.85,Income,Groceries
+3700,16-06-2024,776.94,Expense,Car Maintenance
+3701,17-06-2024,339.23,Income,Utilities
+3702,17-06-2024,903.78,Income,Freelance
+3703,17-06-2024,875.83,Income,Salary
+3704,18-06-2024,326.08,Income,Rent
+3705,19-06-2024,583.0,Expense,Car Maintenance
+3706,19-06-2024,429.0,Expense,Salary
+3707,19-06-2024,121.74,Income,Groceries
+3708,20-06-2024,649.06,Expense,Freelance
+3709,20-06-2024,172.63,Income,Transport
+3710,20-06-2024,576.4,Expense,Rent
+3711,20-06-2024,570.85,Expense,Movies
+3712,21-06-2024,763.85,Income,Dining Out
+3713,22-06-2024,176.04,Income,Groceries
+3714,23-06-2024,688.53,Expense,Dining Out
+3715,23-06-2024,586.27,Expense,Coffee
+3716,23-06-2024,389.32,Expense,Car Maintenance
+3717,23-06-2024,46.17,Income,Subscriptions
+3718,24-06-2024,979.43,Income,Utilities
+3719,24-06-2024,348.18,Expense,Coffee
+3720,24-06-2024,769.69,Expense,Entertainment
+3721,24-06-2024,524.58,Expense,Freelance
+3722,24-06-2024,309.81,Income,Car Maintenance
+3723,25-06-2024,106.73,Expense,Groceries
+3724,25-06-2024,460.46,Income,Subscriptions
+3725,26-06-2024,465.15,Income,Subscriptions
+3726,26-06-2024,424.89,Expense,Dining Out
+3727,26-06-2024,827.31,Expense,Movies
+3728,26-06-2024,174.61,Income,Dining Out
+3729,26-06-2024,30.7,Income,Car Maintenance
+3730,27-06-2024,804.24,Income,Transport
+3731,27-06-2024,677.47,Income,Movies
+3732,27-06-2024,417.51,Expense,Transport
+3733,28-06-2024,254.82,Income,Internet Bill
+3734,28-06-2024,558.01,Expense,Internet Bill
+3735,28-06-2024,859.78,Income,Dining Out
+3736,28-06-2024,325.02,Income,Transport
+3737,29-06-2024,731.24,Income,Freelance
+3738,29-06-2024,107.08,Income,Salary
+3739,29-06-2024,183.93,Expense,Shopping
+3740,29-06-2024,767.93,Expense,Groceries
+3741,29-06-2024,272.39,Income,Groceries
+3742,30-06-2024,419.33,Income,Shopping
+3743,30-06-2024,259.27,Income,Coffee
+3744,30-06-2024,39.81,Expense,Shopping
+3745,30-06-2024,320.76,Expense,Internet Bill
+3746,30-06-2024,69.45,Income,Bonus
+3747,01-07-2024,72.09,Income,Shopping
+3748,01-07-2024,64.58,Expense,Car Maintenance
+3749,01-07-2024,432.88,Income,Interest
+3750,01-07-2024,670.91,Expense,Bonus
+3751,02-07-2024,259.56,Expense,Entertainment
+3752,02-07-2024,989.57,Income,Rent
+3753,02-07-2024,528.98,Expense,Entertainment
+3754,02-07-2024,768.39,Expense,Rent
+3755,02-07-2024,145.35,Income,Coffee
+3756,03-07-2024,649.75,Expense,Movies
+3757,04-07-2024,962.4,Income,Dining Out
+3758,04-07-2024,926.31,Income,Coffee
+3759,05-07-2024,458.88,Income,Interest
+3760,05-07-2024,29.85,Income,Interest
+3761,05-07-2024,859.9,Income,Coffee
+3762,06-07-2024,166.71,Expense,Dining Out
+3763,06-07-2024,71.93,Expense,Bonus
+3764,07-07-2024,81.26,Income,Internet Bill
+3765,07-07-2024,458.04,Income,Bonus
+3766,08-07-2024,338.03,Income,Coffee
+3767,09-07-2024,383.73,Expense,Rent
+3768,09-07-2024,771.61,Expense,Rent
+3769,09-07-2024,962.79,Income,Coffee
+3770,09-07-2024,771.38,Income,Rent
+3771,10-07-2024,66.7,Expense,Entertainment
+3772,10-07-2024,735.57,Expense,Salary
+3773,11-07-2024,244.82,Expense,Bonus
+3774,11-07-2024,214.23,Expense,Groceries
+3775,11-07-2024,774.69,Income,Car Maintenance
+3776,11-07-2024,260.8,Expense,Entertainment
+3777,11-07-2024,813.46,Income,Interest
+3778,12-07-2024,44.32,Expense,Bonus
+3779,12-07-2024,885.45,Expense,Car Maintenance
+3780,12-07-2024,467.61,Expense,Entertainment
+3781,13-07-2024,33.49,Income,Internet Bill
+3782,13-07-2024,539.51,Income,Subscriptions
+3783,13-07-2024,666.8,Expense,Movies
+3784,13-07-2024,942.0,Expense,Internet Bill
+3785,14-07-2024,36.37,Income,Groceries
+3786,14-07-2024,403.7,Expense,Entertainment
+3787,15-07-2024,475.5,Income,Shopping
+3788,15-07-2024,302.99,Expense,Salary
+3789,15-07-2024,706.92,Income,Coffee
+3790,15-07-2024,988.4,Income,Freelance
+3791,16-07-2024,923.62,Expense,Entertainment
+3792,16-07-2024,386.37,Income,Rent
+3793,16-07-2024,22.27,Expense,Car Maintenance
+3794,17-07-2024,806.74,Income,Dining Out
+3795,17-07-2024,370.73,Income,Freelance
+3796,17-07-2024,215.73,Income,Coffee
+3797,17-07-2024,662.87,Expense,Transport
+3798,18-07-2024,230.23,Income,Salary
+3799,18-07-2024,125.9,Income,Interest
+3800,18-07-2024,490.76,Income,Bonus
+3801,19-07-2024,565.32,Expense,Rent
+3802,19-07-2024,426.1,Expense,Transport
+3803,20-07-2024,45.9,Expense,Internet Bill
+3804,20-07-2024,623.84,Income,Car Maintenance
+3805,20-07-2024,786.98,Expense,Groceries
+3806,20-07-2024,367.09,Expense,Freelance
+3807,20-07-2024,520.5,Expense,Salary
+3808,21-07-2024,469.22,Income,Movies
+3809,22-07-2024,627.97,Expense,Bonus
+3810,22-07-2024,723.71,Expense,Groceries
+3811,22-07-2024,727.03,Expense,Movies
+3812,22-07-2024,568.99,Expense,Groceries
+3813,22-07-2024,869.85,Expense,Interest
+3814,23-07-2024,958.63,Expense,Interest
+3815,23-07-2024,429.26,Income,Freelance
+3816,23-07-2024,683.66,Expense,Freelance
+3817,23-07-2024,48.39,Expense,Car Maintenance
+3818,24-07-2024,17.19,Expense,Subscriptions
+3819,24-07-2024,136.09,Expense,Shopping
+3820,24-07-2024,251.93,Expense,Movies
+3821,25-07-2024,768.33,Expense,Coffee
+3822,25-07-2024,792.88,Income,Car Maintenance
+3823,25-07-2024,610.21,Income,Coffee
+3824,25-07-2024,221.3,Income,Salary
+3825,26-07-2024,170.98,Expense,Internet Bill
+3826,26-07-2024,353.62,Expense,Subscriptions
+3827,27-07-2024,87.65,Income,Utilities
+3828,28-07-2024,934.44,Expense,Entertainment
+3829,28-07-2024,634.21,Income,Internet Bill
+3830,28-07-2024,744.69,Expense,Coffee
+3831,28-07-2024,226.94,Expense,Dining Out
+3832,28-07-2024,86.72,Expense,Coffee
+3833,29-07-2024,639.4,Expense,Salary
+3834,29-07-2024,662.54,Income,Interest
+3835,30-07-2024,184.58,Expense,Bonus
+3836,30-07-2024,95.23,Income,Entertainment
+3837,30-07-2024,931.91,Expense,Shopping
+3838,31-07-2024,114.52,Expense,Bonus
+3839,31-07-2024,231.0,Expense,Subscriptions
+3840,31-07-2024,959.71,Income,Utilities
+3841,31-07-2024,402.82,Expense,Freelance
+3842,01-08-2024,50.29,Expense,Utilities
+3843,01-08-2024,269.02,Expense,Interest
+3844,02-08-2024,699.14,Income,Transport
+3845,02-08-2024,68.04,Expense,Utilities
+3846,02-08-2024,686.52,Income,Dining Out
+3847,02-08-2024,494.09,Expense,Interest
+3848,02-08-2024,102.5,Expense,Dining Out
+3849,03-08-2024,148.66,Income,Shopping
+3850,03-08-2024,886.05,Expense,Groceries
+3851,03-08-2024,123.95,Expense,Car Maintenance
+3852,03-08-2024,833.93,Income,Car Maintenance
+3853,03-08-2024,646.15,Income,Dining Out
+3854,04-08-2024,491.08,Income,Coffee
+3855,04-08-2024,489.69,Income,Rent
+3856,05-08-2024,573.74,Income,Transport
+3857,05-08-2024,291.5,Expense,Bonus
+3858,05-08-2024,810.62,Income,Groceries
+3859,06-08-2024,877.49,Income,Subscriptions
+3860,06-08-2024,635.27,Expense,Rent
+3861,07-08-2024,869.12,Income,Bonus
+3862,08-08-2024,901.13,Income,Salary
+3863,08-08-2024,222.28,Expense,Shopping
+3864,08-08-2024,964.11,Expense,Utilities
+3865,08-08-2024,601.19,Income,Freelance
+3866,09-08-2024,267.45,Expense,Coffee
+3867,09-08-2024,527.23,Expense,Dining Out
+3868,10-08-2024,306.05,Expense,Internet Bill
+3869,11-08-2024,941.88,Income,Salary
+3870,11-08-2024,486.33,Expense,Groceries
+3871,11-08-2024,858.3,Expense,Freelance
+3872,12-08-2024,690.02,Expense,Movies
+3873,12-08-2024,757.88,Income,Utilities
+3874,12-08-2024,242.31,Income,Coffee
+3875,12-08-2024,790.14,Income,Movies
+3876,12-08-2024,370.41,Expense,Entertainment
+3877,13-08-2024,302.68,Income,Internet Bill
+3878,13-08-2024,477.48,Expense,Utilities
+3879,13-08-2024,718.86,Expense,Utilities
+3880,14-08-2024,526.3,Expense,Bonus
+3881,14-08-2024,521.02,Income,Movies
+3882,14-08-2024,438.57,Expense,Transport
+3883,14-08-2024,933.0,Income,Dining Out
+3884,15-08-2024,930.89,Income,Coffee
+3885,15-08-2024,878.56,Expense,Entertainment
+3886,15-08-2024,255.69,Income,Shopping
+3887,15-08-2024,940.28,Income,Interest
+3888,15-08-2024,246.49,Expense,Dining Out
+3889,16-08-2024,403.1,Expense,Entertainment
+3890,16-08-2024,697.47,Expense,Bonus
+3891,16-08-2024,304.6,Expense,Shopping
+3892,16-08-2024,635.53,Income,Rent
+3893,17-08-2024,445.44,Income,Entertainment
+3894,17-08-2024,907.86,Income,Rent
+3895,17-08-2024,987.64,Income,Car Maintenance
+3896,18-08-2024,42.89,Expense,Internet Bill
+3897,18-08-2024,248.85,Income,Movies
+3898,18-08-2024,808.91,Expense,Groceries
+3899,19-08-2024,763.71,Income,Coffee
+3900,19-08-2024,905.69,Expense,Freelance
+3901,20-08-2024,420.61,Income,Entertainment
+3902,20-08-2024,814.55,Income,Coffee
+3903,21-08-2024,419.41,Expense,Transport
+3904,21-08-2024,131.05,Expense,Shopping
+3905,21-08-2024,85.85,Expense,Entertainment
+3906,21-08-2024,761.72,Income,Internet Bill
+3907,22-08-2024,114.53,Income,Freelance
+3908,23-08-2024,589.87,Income,Transport
+3909,23-08-2024,108.79,Expense,Interest
+3910,23-08-2024,992.83,Income,Entertainment
+3911,23-08-2024,934.62,Income,Internet Bill
+3912,23-08-2024,883.85,Income,Coffee
+3913,24-08-2024,989.55,Expense,Salary
+3914,24-08-2024,221.44,Expense,Subscriptions
+3915,24-08-2024,485.9,Income,Coffee
+3916,24-08-2024,510.56,Income,Movies
+3917,25-08-2024,800.42,Income,Car Maintenance
+3918,26-08-2024,616.09,Income,Groceries
+3919,26-08-2024,527.28,Income,Utilities
+3920,27-08-2024,626.07,Expense,Interest
+3921,27-08-2024,890.76,Expense,Movies
+3922,28-08-2024,174.69,Income,Movies
+3923,28-08-2024,483.82,Income,Interest
+3924,28-08-2024,805.25,Expense,Bonus
+3925,28-08-2024,951.94,Expense,Freelance
+3926,28-08-2024,22.39,Income,Dining Out
+3927,29-08-2024,505.86,Income,Rent
+3928,30-08-2024,754.54,Expense,Transport
+3929,30-08-2024,324.31,Expense,Groceries
+3930,30-08-2024,647.32,Expense,Subscriptions
+3931,30-08-2024,350.52,Expense,Entertainment
+3932,31-08-2024,678.52,Income,Groceries
+3933,01-09-2024,643.13,Expense,Dining Out
+3934,02-09-2024,771.17,Income,Bonus
+3935,02-09-2024,860.14,Expense,Coffee
+3936,02-09-2024,12.06,Expense,Entertainment
+3937,02-09-2024,569.83,Income,Interest
+3938,02-09-2024,901.4,Expense,Bonus
+3939,03-09-2024,692.19,Expense,Shopping
+3940,04-09-2024,456.85,Expense,Freelance
+3941,04-09-2024,120.98,Expense,Rent
+3942,04-09-2024,929.72,Expense,Car Maintenance
+3943,04-09-2024,361.76,Income,Dining Out
+3944,04-09-2024,245.93,Expense,Freelance
+3945,05-09-2024,572.83,Income,Salary
+3946,05-09-2024,211.62,Income,Movies
+3947,05-09-2024,13.72,Expense,Groceries
+3948,05-09-2024,479.56,Income,Rent
+3949,05-09-2024,285.86,Income,Groceries
+3950,06-09-2024,440.05,Expense,Groceries
+3951,06-09-2024,86.87,Expense,Movies
+3952,06-09-2024,388.81,Expense,Bonus
+3953,06-09-2024,302.7,Income,Movies
+3954,06-09-2024,359.11,Income,Car Maintenance
+3955,07-09-2024,184.88,Expense,Shopping
+3956,08-09-2024,899.7,Income,Rent
+3957,08-09-2024,773.85,Income,Movies
+3958,12-9-2024,100.0,Income,Test1.1
+3959,12-09-2024,100.0,Expense,test1.3
